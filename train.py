@@ -104,10 +104,8 @@ class TinyImageNet(Dataset):
         img_path, label = self.samples[idx]
         img = Image.open(img_path).convert('RGB')
         if self.transform:
-            img_ = self.transform(img)
-        else:
-            img_ = img
-        return img_.to(device), torch.tensor(label, dtype = torch.int64).to(device), img
+            img = self.transform(img)
+        return img.to(device), torch.tensor(label, dtype = torch.int64).to(device)
 def train_one_epoch(epoch, model, loader, optimizer, loss_fn, args, logfile):
     model.train()
     total_batches = len(loader)

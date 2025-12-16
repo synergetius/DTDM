@@ -25,7 +25,7 @@ class DTDM(nn.Module):
         return x
     def forward(self, x):
         x = self.forward_unfold(x)
-        x = self.forward_aggr(x)
+        x = self.forward_fuse(x)
         x = self.head(x)
         return x
 def dtdm_xxt(num_classes = 200):
