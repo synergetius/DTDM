@@ -1,1 +1,1 @@
-训练第1个 batch 时出错: Given groups=1, weight of size [256, 128, 1, 1], expected input[64, 3, 64, 64] to have 128 channels, but got 3 channels instead
+训练第1个 batch 时出错: 'DTDM' object has no attribute 'head'

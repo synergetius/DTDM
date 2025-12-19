@@ -4,9 +4,12 @@ from torch import nn
 from einops import rearrange, einsum
 class UnfoldLayer(nn.Module):
     def __init__(self, in_channels, top_channels, down_channels, branch_ratio, num_rects, group_channels = 4):
+        super().__init__()
         self.in_channels = in_channels
         self.branch_ratio = branch_ratio
         self.num_rects = num_rects
+        self.top_channels = top_channels
+        self.down_channels = down_channels
         self.index_rect = nn.Linear(top_channels, branch_ratio * num_rects * 4)
         self.project_rect = nn.Sequential(
             nn.Linear(in_channels, down_channels),
@@ -24,8 +27,8 @@ class UnfoldLayer(nn.Module):
         B, N = x.shape
         x = x.view(B, 1, N)
         y = y.view(B, 1, N)
-        X = torch.ceil(x)
-        Y = torch.ceil(y)
+        X = torch.ceil(x).to(torch.int)
+        Y = torch.ceil(y).to(torch.int)
         zeros = torch.zeros_like(X)
         dx = X - x
         dy = Y - y
@@ -63,7 +66,12 @@ class UnfoldLayer(nn.Module):
         # 缩放因子，这里避免边角处的越界问题
         p = F.sigmoid(p) * fac
         p = p.view(B, D * self.branch_ratio * self.num_rects, 4) # 重塑形状便于索引
-        x1, y1, x2, y2 = torch.split(p, 1, dim = -1)
+        x1 = p[:, :, 0]
+        y1 = p[:, :, 1]
+        x2 = p[:, :, 2]
+        y2 = p[:, :, 3]
+        # x1, y1, x2, y2 = torch.split(p, 1, dim = -1)
+        # print(x2.shape)
         S = (
             self.sample_rect_topleft(I_tuple, x2, y2) 
             - self.sample_rect_topleft(I_tuple, x1, y2) 
@@ -88,10 +96,10 @@ class UnfoldLayer(nn.Module):
         rects = self.project_rect(rects) # (B, D, branch_ratio, num_rects, down_channels)
         # x -> m(x): (B, D, branch_ratio, num_rects, groups)
         mask = self.mask(x) #(B, D, branch_ratio * num_rects * groups)
-        mask = mask.view(B, D, self.branch_ratio, self.num_rects, self.groups, 1)
-        mask = F.softmax(mask, 3)
-        rects = rects.view(B, D, self.branch_ratio, self.num_rects, self.groups, self.group_channels)
-        output = (mask * rects).sum(3).view(B, D, self.branch_ratio, self.down_channels)
+        mask = mask.view(B, D * self.branch_ratio, self.num_rects, self.groups, 1)
+        mask = F.softmax(mask, 2)
+        rects = rects.view(B, D * self.branch_ratio, self.num_rects, self.groups, self.group_channels)
+        output = (mask * rects).sum(2).view(B, D * self.branch_ratio, self.down_channels)
         return output
         
 class DTDM(nn.Module):
@@ -152,9 +160,9 @@ class DTDM(nn.Module):
         outputs = []
         for i, layer in enumerate(self.unfold_layers):
             if i == 0:
-                outputs.append(layer(x = self.query, (I, IX, IY, IT)))
+                outputs.append(layer(self.query, (I, IX, IY, IT)))
             else:
-                output = layer(x = outputs[-1], (I, IX, IY, IT))
+                output = layer(outputs[-1], (I, IX, IY, IT))
                 outputs.append(output)
         return outputs
     def forward_fuse(self, x):
@@ -166,8 +174,8 @@ class DTDM(nn.Module):
         return x
 def dtdm_xxt(num_classes = 200):
     model = DTDM(
-        projection = 256,
-        embed_channels = [24, 48, 96, 128], 
-        num_classes = num_classes
+        # projection = 256,
+        # unfold_channels = [24, 48, 96, 128], 
+        # num_classes = num_classes
     )
     return model
