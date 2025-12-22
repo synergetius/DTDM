@@ -3,7 +3,16 @@ import torch.nn.functional as F
 from torch import nn
 from einops import rearrange, einsum
 class UnfoldLayer(nn.Module):
-    def __init__(self, in_channels, top_channels, down_channels, branch_ratio, num_rects, group_channels = 4):
+    def __init__(
+        self, 
+        in_channels, 
+        top_channels, 
+        down_channels, 
+        branch_ratio, 
+        num_rects, 
+        groups
+        ):
+        # group_channels = 4):
         super().__init__()
         self.in_channels = in_channels
         self.branch_ratio = branch_ratio
@@ -16,8 +25,9 @@ class UnfoldLayer(nn.Module):
             nn.GELU(),
             # 暂未加norm
         )
-        self.group_channels = 4 # 在进行调制标量的计算时用到的分组中，每个组含有的通道数量（据此决定group的数量）
-        self.groups = down_channels // group_channels
+        self.groups = groups
+        self.group_channels = down_channels // self.groups # 在进行调制标量的计算时用到的分组中，每个组含有的通道数量（据此决定group的数量）
+        # self.groups = down_channels // group_channels
         self.mask = nn.Linear(top_channels, branch_ratio * num_rects * self.groups)
     def sample_rect_topleft(self, I_tuple, x, y):
         I, IX, IY, IT = I_tuple
@@ -107,11 +117,15 @@ class DTDM(nn.Module):
         projection = 256,
         in_channels = 3,         
         query_channels = 12, # 初始的query嵌入维度
-        unfold_channels = [24, 48, 96, 128],
+        # unfold_channels = [128, 96, 48, 24],
+        unfold_channels = [64, 32, 16, 8],
+        unfold_groups = [16, 8, 4, 2], 
+        fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
         branch_ratio = [2, 2, 2, 2],
         num_rects = [3, 3, 3, 3],
         num_classes = 200,
-        group_channels = [4, 4, 4, 4]
+        
+        # group_channels = [4, 4, 4, 4]
         ):
         super().__init__()
         self.num_classes = num_classes
@@ -127,7 +141,8 @@ class DTDM(nn.Module):
                     down_channels = unfold_channels[i],
                     branch_ratio = branch_ratio[i],
                     num_rects = num_rects[i],
-                    group_channels = group_channels[i]
+                    groups = unfold_groups[i],
+                    # group_channels = group_channels[i]
                 ))
             else:
                 self.num_branches[i] = self.num_branches[i - 1] * v
@@ -137,9 +152,17 @@ class DTDM(nn.Module):
                     down_channels = unfold_channels[i],
                     branch_ratio = branch_ratio[i],
                     num_rects = num_rects[i],
-                    group_channels = group_channels[i]
+                    groups = unfold_groups[i],
+                    # group_channels = group_channels[i]
                 ))
-        
+        self.fuse_layers = nn.ModuleList()
+        for i, v in enumerate(self.branch_ratio):
+            if i == len(fuse_channels) - 1:
+                pass
+            self.fuse_layers.append(FuseLayer(
+                self.fuse_channels[i]
+            ))
+                
         self.in_channels = in_channels
         self.query = nn.Parameter(torch.zeros(1, 1, query_channels)) # (1, D_0 = 1, C_0)
         
