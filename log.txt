@@ -1,1 +1,0 @@
-训练第1个 batch 时出错: 'DTDM' object has no attribute 'head'
