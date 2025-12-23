@@ -111,7 +111,44 @@ class UnfoldLayer(nn.Module):
         rects = rects.view(B, D * self.branch_ratio, self.num_rects, self.groups, self.group_channels)
         output = (mask * rects).sum(2).view(B, D * self.branch_ratio, self.down_channels)
         return output
-        
+class FuseLayer(nn.Module):
+    def __init__(self, down_channels, top_channels, out_channels, branch_ratio, groups):
+        super().__init__()
+        self.branch_ratio = branch_ratio
+        self.down_channels = down_channels # u_{i+1} 通道数
+        self.top_channels = top_channels # x_{i}
+        self.out_channels = out_channels # u_{i}
+        self.project_key = nn.Linear(down_channels, top_channels) # 从u_{i+1}投影得到key
+        self.project_query = nn.Linear(top_channels, top_channels) # 暂时以top_channels作为q,k统一的维度
+        self.project_value = nn.Linear(down_channels, out_channels)
+        self.groups = groups
+        # self.group_channels = top_channels // groups
+        ## 在进行了投影之后，计算attn之前再进行分组
+        self.project_res = nn.Linear(out_channels, out_channels)
+    def forward(self, u, x):
+        # 接受输入：u_{i+1}, x_{i}，
+        # 输出： u_{i}
+        # x_{i} : (B, D, C)
+        # u_{i} : (B, D, E)
+        # u_{i + 1} : (B, D', E') # E'是U的特征通道数
+        k = self.project_key(u) # (B, D', C)
+        q = self.project_query(x) # (B, D, C)
+        v = self.project_value(u) # (B, D', E)
+        B, D, _ = x.shape
+        k = k.view(B, D, self.branch_ratio, self.groups, self.top_channels // self.groups) # 拆分分支维度和注意力头的分组
+        # k: (B, D, branch_ratio, G, C/G)
+        q = q.view(B, D, self.groups, top_channels // self.groups) # 拆分分支维度和注意力头的分组
+        # q: (B, D, G, C/G)
+        v = v.view(B, D, self.branch_ratio, self.groups, self.out_channels // self.groups) # 拆分分支维度和注意力头的分组
+        # v: (B, D, branch_ratio, G, C/G)
+        # q @ k :
+        attn = einsum(q, k, 'b d g c, b d r g c -> b d r g c')
+        attn = torch.softmax(attn, dim = 2)
+        res = einsum(attn, v, 'b d r g c, b d r g c -> b d g c')
+        res = res.view(B, D, self.out_channels)
+        res = self.project_res(res)
+        return res        
+        # k = rearrange(k, "b d m -> b d0 ")
 class DTDM(nn.Module):
     def __init__(self, 
         projection = 256,
@@ -121,6 +158,7 @@ class DTDM(nn.Module):
         unfold_channels = [64, 32, 16, 8],
         unfold_groups = [16, 8, 4, 2], 
         fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
+        fuse_groups = [16, 8, 4, 2], 
         branch_ratio = [2, 2, 2, 2],
         num_rects = [3, 3, 3, 3],
         num_classes = 200,
@@ -158,16 +196,24 @@ class DTDM(nn.Module):
         self.fuse_layers = nn.ModuleList()
         for i, v in enumerate(self.branch_ratio):
             if i == len(fuse_channels) - 1:
-                pass
-            self.fuse_layers.append(FuseLayer(
-                self.fuse_channels[i]
-            ))
+                # middle projection: X_{n - 1} -> U_{n - 1}
+                self.fuse_layers.append(nn.Linear(unfold_channels[i], fuse_channels[i]))
+            else:
+                self.fuse_layers.append(FuseLayer(
+                    top_channels = fuse_channels[i],
+                    down_channels = unfold_channels[i + 1],
+                    out_channels = unfold_channels[i]
+                    branch_ratio = branch_ratio[i], 
+                    groups = fuse_groups[i]
+                ))
                 
         self.in_channels = in_channels
         self.query = nn.Parameter(torch.zeros(1, 1, query_channels)) # (1, D_0 = 1, C_0)
-        
-        # fusion_dim = embed_dim[-1]
-        # self.head = nn.Sequential(
+
+        # u_0 : (B, D_0, E_0) # 如果计算成功，应有 D_0 = 1
+        self.head = nn.Sequential(
+            nn.SiLU(),
+            nn.Linear(fuse_channels[0], num_classes)
             # nn.Conv2d(fusion_dim, projection, kernel_size=1, bias=False),
             # nn.BatchNorm2d(projection),
             # nn.SiLU(),
@@ -188,13 +234,24 @@ class DTDM(nn.Module):
                 output = layer(outputs[-1], (I, IX, IY, IT))
                 outputs.append(output)
         return outputs
-    def forward_fuse(self, x):
-        return x
+    def forward_fuse(self, xs):
+        # xs: n层特征，按照自顶向下的顺序的列表
+        us = []
+        n = len(xs)
+        for i in range(n - 1, -1, -1):
+            x = xs[i]
+            if i == n - 1:
+                u = self.fuse_layers[i](x)
+            else:
+                u = self.fuse_layers[i](u, x)
+            us.append(u)
+        return us
     def forward(self, I):
-        x = self.forward_unfold(I)
-        x = self.forward_fuse(x)
-        x = self.head(x)
-        return x
+        xs = self.forward_unfold(I)
+        us = self.forward_fuse(xs)
+        u_0 = us[-1].squeeze() # (B, E_0)
+        cls = self.head(u_0) # 最后一层（最终的融合结果）输入head进行分类
+        return cls
 def dtdm_xxt(num_classes = 200):
     model = DTDM(
         # projection = 256,
