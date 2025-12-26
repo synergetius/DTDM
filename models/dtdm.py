@@ -29,6 +29,13 @@ class UnfoldLayer(nn.Module):
         self.group_channels = down_channels // self.groups # 在进行调制标量的计算时用到的分组中，每个组含有的通道数量（据此决定group的数量）
         # self.groups = down_channels // group_channels
         self.mask = nn.Linear(top_channels, branch_ratio * num_rects * self.groups)
+        self.norm1 = nn.LayerNorm(down_channels)
+        self.mlp = nn.Sequential(
+            nn.Linear(down_channels, 4 * down_channels),
+            nn.GELU(),
+            nn.Linear(4 * down_channels, down_channels)
+        )
+        self.norm2 = nn.LayerNorm(down_channels)
     def sample_rect_topleft(self, I_tuple, x, y):
         I, IX, IY, IT = I_tuple
         # I: (B, in_channels, H, W)
@@ -110,6 +117,11 @@ class UnfoldLayer(nn.Module):
         mask = F.softmax(mask, 2)
         rects = rects.view(B, D * self.branch_ratio, self.num_rects, self.groups, self.group_channels)
         output = (mask * rects).sum(2).view(B, D * self.branch_ratio, self.down_channels)
+        output = self.norm1(output)
+        # 考虑到x与输出的形状差异太大，所以只在后面这里加上残差连接，前面采样的过程不使用残差
+        shortcut = output
+        output = self.mlp(output)
+        output = self.norm2(output) + shortcut
         return output
 class FuseLayer(nn.Module):
     def __init__(self, down_channels, top_channels, out_channels, branch_ratio, groups):
@@ -124,17 +136,33 @@ class FuseLayer(nn.Module):
         self.groups = groups
         # self.group_channels = top_channels // groups
         ## 在进行了投影之后，计算attn之前再进行分组
-        self.project_res = nn.Linear(out_channels, out_channels)
+        # self.project_res = nn.Linear(out_channels, out_channels)
+        
+        ## 20251225 添加一个非线性层 （因为FuseLayer的输入是直接进行线性投影的，所以如果不加可能导致实际有效的表示能力不够）
+        # 激活函数的使用可能也要有讲究：不恰当的话可能会影响表示能力
+        # 仿照传统transformer，最后仍然以线性层结尾，不过这里现在只使用一个linear层
+        self.norm1 = nn.LayerNorm(out_channels)
+        self.mlp = nn.Sequential(
+            nn.Linear(out_channels, 4 * out_channels),
+            nn.GELU(),
+            nn.Linear(4 * out_channels, out_channels),
+        )
+        self.norm2 = nn.LayerNorm(out_channels)
+        self.shortcut_project = nn.Linear(top_channels, out_channels)
     def forward(self, u, x):
         # 接受输入：u_{i}, x_{i - 1}，
         # 输出： u_{i - 1}
         # x_{i - 1} : (B, D, C)
         # u_{i - 1} : (B, D, E)
         # u_{i} : (B, D', E') # E'是U的特征通道数
+        B, D, E = x.shape
+        #### 残差连接：快捷连接的部分应该从x_{i - 1}得来（由于我没有分阶段调整通道数，而是每一层改变通道数，所以就得投影一下）
+        shortcut = self.shortcut_project(x)
+        # identity = u.unsqueeze(2).expand(B, D, self.branch_ratio, E).view(B, self.branch_ratio * D, E)
         k = self.project_key(u) # (B, D', C)
         q = self.project_query(x) # (B, D, C)
         v = self.project_value(u) # (B, D', E)
-        B, D, _ = x.shape
+        
         k = k.view(B, D, self.branch_ratio, self.groups, self.top_channels // self.groups) # 拆分分支维度和注意力头的分组
         # k: (B, D, branch_ratio, G, C/G)
         q = q.view(B, D, self.groups, self.top_channels // self.groups) # 拆分分支维度和注意力头的分组
@@ -144,17 +172,18 @@ class FuseLayer(nn.Module):
         # q @ k :
         attn = einsum(q, k, 'b d g c, b d r g c -> b d r g c')
         attn = torch.softmax(attn, dim = 2)
-        res = einsum(attn, v, 'b d r g c, b d r g c -> b d g c')
-        res = res.view(B, D, self.out_channels)
-        res = self.project_res(res)
-        return res        
-        # k = rearrange(k, "b d m -> b d0 ")
+        output = einsum(attn, v, 'b d r g c, b d r g c -> b d g c')
+        # output = rearrange(output, 'b d g c -> b (g c) d')
+        output = output.view(B, D, self.out_channels)
+        output = self.norm1(output)
+        # output = rearrange(output, 'b c d -> b d c')
+        output = self.mlp(output)
+        output = self.norm2(output) + shortcut
+        return output
 class DTDM(nn.Module):
     def __init__(self, 
-        projection = 256,
         in_channels = 3,         
         query_channels = 128, # 初始的query嵌入维度
-        # unfold_channels = [128, 96, 48, 24],
         unfold_channels = [64, 32, 16, 8],
         unfold_groups = [16, 8, 4, 2], 
         fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
@@ -198,8 +227,9 @@ class DTDM(nn.Module):
         # 问题：是否要让query作为X_0参与最终的融合？
         # 更对称的做法希望让query参与融合。
         self.middle_project = nn.Sequential(
+            nn.GELU(), # 20251225 调换了一下gelu与linear的顺序
             nn.Linear(unfold_channels[-1], fuse_channels[-1]),
-            nn.GELU()
+            
         )
         self.fuse_layers = nn.ModuleList()
         for i, v in enumerate(self.branch_ratio):
@@ -300,6 +330,30 @@ def dtdm_xxt(num_classes = 200):
         # projection = 256,
         # unfold_channels = [24, 48, 96, 128], 
         # num_classes = num_classes
-        num_classes = num_classes
+        
+        #20251223
+        #20251225
+        num_classes = num_classes,
+        in_channels = 3,         
+        query_channels = 128, # 初始的query嵌入维度
+        unfold_channels = [64, 32, 16, 8],
+        unfold_groups = [16, 8, 4, 2], 
+        fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
+        end_channels = 128, 
+        fuse_groups = [16, 8, 4, 2], 
+        branch_ratio = [2, 2, 2, 2],
+        num_rects = [3, 3, 3, 3],
+        #20251224
+        # num_classes = num_classes,
+        # in_channels = 3,         
+        # query_channels = 128, # 初始的query嵌入维度
+        # unfold_channels = [64, 32, 16, 8],
+        # unfold_groups = [16, 8, 4, 2], 
+        # fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
+        # end_channels = 128, 
+        # fuse_groups = [16, 8, 4, 2], 
+        # branch_ratio = [3, 3, 3, 3], ############
+        # num_rects = [3, 3, 3, 3],
+        
     )
     return model
