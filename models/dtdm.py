@@ -170,9 +170,12 @@ class FuseLayer(nn.Module):
         v = v.view(B, D, self.branch_ratio, self.groups, self.out_channels // self.groups) # 拆分分支维度和注意力头的分组
         # v: (B, D, branch_ratio, G, C/G)
         # q @ k :
-        attn = einsum(q, k, 'b d g c, b d r g c -> b d r g c')
+        
+        # attn = einsum(q, k, 'b d g c, b d r g c -> b d r g c')
+        attn = torch.einsum('b d g c, b d r g c -> b d r g c', q, k)
         attn = torch.softmax(attn, dim = 2)
-        output = einsum(attn, v, 'b d r g c, b d r g c -> b d g c')
+        # output = einsum(attn, v, 'b d r g c, b d r g c -> b d g c')
+        output = torch.einsum('b d r g c, b d r g c -> b d g c', attn, v) ########### 为了fvcore统计的兼容性，改用torch本身的einsum
         # output = rearrange(output, 'b d g c -> b (g c) d')
         output = output.view(B, D, self.out_channels)
         output = self.norm1(output)
