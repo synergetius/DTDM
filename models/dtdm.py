@@ -334,8 +334,8 @@ def dtdm_xxt(num_classes = 200):
         # unfold_channels = [24, 48, 96, 128], 
         # num_classes = num_classes
         
-        #20251223
-        #20251225
+        # 20251228
+        
         num_classes = num_classes,
         in_channels = 3,         
         query_channels = 128, # 初始的query嵌入维度
@@ -345,7 +345,22 @@ def dtdm_xxt(num_classes = 200):
         end_channels = 128, 
         fuse_groups = [16, 8, 4, 2], 
         branch_ratio = [2, 2, 2, 2],
-        num_rects = [3, 3, 3, 3],
+        num_rects = [24, 12, 6, 3], ########## 
+        
+        #20251223
+        #20251225
+        
+        # num_classes = num_classes,
+        # in_channels = 3,         
+        # query_channels = 128, # 初始的query嵌入维度
+        # unfold_channels = [64, 32, 16, 8],
+        # unfold_groups = [16, 8, 4, 2], 
+        # fuse_channels = [64, 32, 16, 8], # fuse_channels的顺序是倒着来的（U_i与X_i对应）
+        # end_channels = 128, 
+        # fuse_groups = [16, 8, 4, 2], 
+        # branch_ratio = [2, 2, 2, 2],
+        # num_rects = [3, 3, 3, 3],
+        
         #20251224
         # num_classes = num_classes,
         # in_channels = 3,         
