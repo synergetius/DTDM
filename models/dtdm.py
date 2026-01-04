@@ -345,7 +345,7 @@ def dtdm_xxt(num_classes = 200):
         end_channels = 128, 
         fuse_groups = [16, 8, 4, 2], 
         branch_ratio = [2, 2, 2, 2],
-        num_rects = [24, 12, 6, 3], ########## 
+        num_rects = [24, 12, 6, 3],
         
         #20251223
         #20251225
