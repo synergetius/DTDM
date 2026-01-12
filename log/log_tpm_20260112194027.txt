@@ -1,0 +1,3600 @@
+[Epoch 1 | Batch 1/157] Loss: 3.0869
+[Epoch 1 | Batch 2/157] Loss: 3.0223
+[Epoch 1 | Batch 3/157] Loss: 2.9409
+[Epoch 1 | Batch 4/157] Loss: 2.9103
+[Epoch 1 | Batch 5/157] Loss: 2.9536
+[Epoch 1 | Batch 6/157] Loss: 2.9042
+[Epoch 1 | Batch 7/157] Loss: 2.8598
+[Epoch 1 | Batch 8/157] Loss: 2.9616
+[Epoch 1 | Batch 9/157] Loss: 2.8859
+[Epoch 1 | Batch 10/157] Loss: 2.9320
+[Epoch 1 | Batch 11/157] Loss: 2.8178
+[Epoch 1 | Batch 12/157] Loss: 2.9442
+[Epoch 1 | Batch 13/157] Loss: 2.8512
+[Epoch 1 | Batch 14/157] Loss: 2.8035
+[Epoch 1 | Batch 15/157] Loss: 2.9865
+[Epoch 1 | Batch 16/157] Loss: 2.9326
+[Epoch 1 | Batch 17/157] Loss: 2.8649
+[Epoch 1 | Batch 18/157] Loss: 2.8826
+[Epoch 1 | Batch 19/157] Loss: 2.8627
+[Epoch 1 | Batch 20/157] Loss: 2.8571
+[Epoch 1 | Batch 21/157] Loss: 2.8095
+[Epoch 1 | Batch 22/157] Loss: 2.8065
+[Epoch 1 | Batch 23/157] Loss: 2.6844
+[Epoch 1 | Batch 24/157] Loss: 2.9924
+[Epoch 1 | Batch 25/157] Loss: 2.8141
+[Epoch 1 | Batch 26/157] Loss: 2.7813
+[Epoch 1 | Batch 27/157] Loss: 2.7198
+[Epoch 1 | Batch 28/157] Loss: 2.7636
+[Epoch 1 | Batch 29/157] Loss: 2.7713
+[Epoch 1 | Batch 30/157] Loss: 2.8103
+[Epoch 1 | Batch 31/157] Loss: 2.8366
+[Epoch 1 | Batch 32/157] Loss: 2.8572
+[Epoch 1 | Batch 33/157] Loss: 2.9140
+[Epoch 1 | Batch 34/157] Loss: 2.9217
+[Epoch 1 | Batch 35/157] Loss: 2.8725
+[Epoch 1 | Batch 36/157] Loss: 2.8428
+[Epoch 1 | Batch 37/157] Loss: 2.8048
+[Epoch 1 | Batch 38/157] Loss: 2.8073
+[Epoch 1 | Batch 39/157] Loss: 2.6753
+[Epoch 1 | Batch 40/157] Loss: 2.7909
+[Epoch 1 | Batch 41/157] Loss: 2.6926
+[Epoch 1 | Batch 42/157] Loss: 2.7813
+[Epoch 1 | Batch 43/157] Loss: 2.8652
+[Epoch 1 | Batch 44/157] Loss: 2.7630
+[Epoch 1 | Batch 45/157] Loss: 3.0016
+[Epoch 1 | Batch 46/157] Loss: 2.7793
+[Epoch 1 | Batch 47/157] Loss: 2.5721
+[Epoch 1 | Batch 48/157] Loss: 2.8152
+[Epoch 1 | Batch 49/157] Loss: 2.6256
+[Epoch 1 | Batch 50/157] Loss: 2.6574
+[Epoch 1 | Batch 51/157] Loss: 2.6989
+[Epoch 1 | Batch 52/157] Loss: 2.7752
+[Epoch 1 | Batch 53/157] Loss: 2.7752
+[Epoch 1 | Batch 54/157] Loss: 2.7543
+[Epoch 1 | Batch 55/157] Loss: 2.7598
+[Epoch 1 | Batch 56/157] Loss: 2.5973
+[Epoch 1 | Batch 57/157] Loss: 2.6567
+[Epoch 1 | Batch 58/157] Loss: 2.6810
+[Epoch 1 | Batch 59/157] Loss: 2.8645
+[Epoch 1 | Batch 60/157] Loss: 2.7618
+[Epoch 1 | Batch 61/157] Loss: 2.8937
+[Epoch 1 | Batch 62/157] Loss: 2.6643
+[Epoch 1 | Batch 63/157] Loss: 2.7858
+[Epoch 1 | Batch 64/157] Loss: 2.8049
+[Epoch 1 | Batch 65/157] Loss: 2.7659
+[Epoch 1 | Batch 66/157] Loss: 2.7093
+[Epoch 1 | Batch 67/157] Loss: 2.8106
+[Epoch 1 | Batch 68/157] Loss: 2.6287
+[Epoch 1 | Batch 69/157] Loss: 3.0297
+[Epoch 1 | Batch 70/157] Loss: 2.7898
+[Epoch 1 | Batch 71/157] Loss: 2.6667
+[Epoch 1 | Batch 72/157] Loss: 2.8695
+[Epoch 1 | Batch 73/157] Loss: 2.5798
+[Epoch 1 | Batch 74/157] Loss: 2.6511
+[Epoch 1 | Batch 75/157] Loss: 2.7796
+[Epoch 1 | Batch 76/157] Loss: 2.8548
+[Epoch 1 | Batch 77/157] Loss: 2.5856
+[Epoch 1 | Batch 78/157] Loss: 2.6764
+[Epoch 1 | Batch 79/157] Loss: 2.5409
+[Epoch 1 | Batch 80/157] Loss: 2.6663
+[Epoch 1 | Batch 81/157] Loss: 2.8470
+[Epoch 1 | Batch 82/157] Loss: 2.7213
+[Epoch 1 | Batch 83/157] Loss: 2.7767
+[Epoch 1 | Batch 84/157] Loss: 2.7292
+[Epoch 1 | Batch 85/157] Loss: 2.5430
+[Epoch 1 | Batch 86/157] Loss: 2.5095
+[Epoch 1 | Batch 87/157] Loss: 2.7931
+[Epoch 1 | Batch 88/157] Loss: 2.7229
+[Epoch 1 | Batch 89/157] Loss: 2.6246
+[Epoch 1 | Batch 90/157] Loss: 2.8954
+[Epoch 1 | Batch 91/157] Loss: 2.6351
+[Epoch 1 | Batch 92/157] Loss: 2.6394
+[Epoch 1 | Batch 93/157] Loss: 2.7013
+[Epoch 1 | Batch 94/157] Loss: 2.7705
+[Epoch 1 | Batch 95/157] Loss: 2.7366
+[Epoch 1 | Batch 96/157] Loss: 2.4446
+[Epoch 1 | Batch 97/157] Loss: 2.3916
+[Epoch 1 | Batch 98/157] Loss: 2.8287
+[Epoch 1 | Batch 99/157] Loss: 2.7039
+[Epoch 1 | Batch 100/157] Loss: 2.6970
+[Epoch 1 | Batch 101/157] Loss: 2.6446
+[Epoch 1 | Batch 102/157] Loss: 2.5486
+[Epoch 1 | Batch 103/157] Loss: 2.8791
+[Epoch 1 | Batch 104/157] Loss: 2.8225
+[Epoch 1 | Batch 105/157] Loss: 2.6025
+[Epoch 1 | Batch 106/157] Loss: 2.8277
+[Epoch 1 | Batch 107/157] Loss: 2.6539
+[Epoch 1 | Batch 108/157] Loss: 2.7307
+[Epoch 1 | Batch 109/157] Loss: 2.7096
+[Epoch 1 | Batch 110/157] Loss: 2.6956
+[Epoch 1 | Batch 111/157] Loss: 2.7359
+[Epoch 1 | Batch 112/157] Loss: 2.7781
+[Epoch 1 | Batch 113/157] Loss: 2.7672
+[Epoch 1 | Batch 114/157] Loss: 2.7827
+[Epoch 1 | Batch 115/157] Loss: 2.6633
+[Epoch 1 | Batch 116/157] Loss: 2.7320
+[Epoch 1 | Batch 117/157] Loss: 2.6920
+[Epoch 1 | Batch 118/157] Loss: 2.6268
+[Epoch 1 | Batch 119/157] Loss: 2.8538
+[Epoch 1 | Batch 120/157] Loss: 2.6276
+[Epoch 1 | Batch 121/157] Loss: 2.7723
+[Epoch 1 | Batch 122/157] Loss: 2.6131
+[Epoch 1 | Batch 123/157] Loss: 2.5670
+[Epoch 1 | Batch 124/157] Loss: 2.8859
+[Epoch 1 | Batch 125/157] Loss: 2.6796
+[Epoch 1 | Batch 126/157] Loss: 2.6434
+[Epoch 1 | Batch 127/157] Loss: 2.7462
+[Epoch 1 | Batch 128/157] Loss: 2.6732
+[Epoch 1 | Batch 129/157] Loss: 2.6633
+[Epoch 1 | Batch 130/157] Loss: 2.9439
+[Epoch 1 | Batch 131/157] Loss: 2.6714
+[Epoch 1 | Batch 132/157] Loss: 2.6239
+[Epoch 1 | Batch 133/157] Loss: 2.4859
+[Epoch 1 | Batch 134/157] Loss: 2.5405
+[Epoch 1 | Batch 135/157] Loss: 2.8179
+[Epoch 1 | Batch 136/157] Loss: 2.5129
+[Epoch 1 | Batch 137/157] Loss: 2.6889
+[Epoch 1 | Batch 138/157] Loss: 2.7130
+[Epoch 1 | Batch 139/157] Loss: 2.8122
+[Epoch 1 | Batch 140/157] Loss: 2.5999
+[Epoch 1 | Batch 141/157] Loss: 2.6761
+[Epoch 1 | Batch 142/157] Loss: 2.5285
+[Epoch 1 | Batch 143/157] Loss: 2.6932
+[Epoch 1 | Batch 144/157] Loss: 2.6533
+[Epoch 1 | Batch 145/157] Loss: 2.6535
+[Epoch 1 | Batch 146/157] Loss: 2.7250
+[Epoch 1 | Batch 147/157] Loss: 2.6686
+[Epoch 1 | Batch 148/157] Loss: 2.6890
+[Epoch 1 | Batch 149/157] Loss: 2.8205
+[Epoch 1 | Batch 150/157] Loss: 2.6504
+[Epoch 1 | Batch 151/157] Loss: 2.4810
+[Epoch 1 | Batch 152/157] Loss: 2.5677
+[Epoch 1 | Batch 153/157] Loss: 2.4903
+[Epoch 1 | Batch 154/157] Loss: 2.5921
+[Epoch 1 | Batch 155/157] Loss: 2.6142
+[Epoch 1 | Batch 156/157] Loss: 2.7060
+[Epoch 1 | Batch 157/157] Loss: 2.9905
+[Epoch 1 | validated Batch 1/16]
+[Epoch 1 | validated Batch 2/16]
+[Epoch 1 | validated Batch 3/16]
+[Epoch 1 | validated Batch 4/16]
+[Epoch 1 | validated Batch 5/16]
+[Epoch 1 | validated Batch 6/16]
+[Epoch 1 | validated Batch 7/16]
+[Epoch 1 | validated Batch 8/16]
+[Epoch 1 | validated Batch 9/16]
+[Epoch 1 | validated Batch 10/16]
+[Epoch 1 | validated Batch 11/16]
+[Epoch 1 | validated Batch 12/16]
+[Epoch 1 | validated Batch 13/16]
+[Epoch 1 | validated Batch 14/16]
+[Epoch 1 | validated Batch 15/16]
+[Epoch 1 | validated Batch 16/16]
+[Epoch 1
+epoch_time: 3.1
+loss: 2.7447402477264404
+loss: 2.658979892730713
+acc_top1: 0.17
+acc_top5: 0.498
+]
+[Epoch 2 | Batch 1/157] Loss: 2.5080
+[Epoch 2 | Batch 2/157] Loss: 2.9278
+[Epoch 2 | Batch 3/157] Loss: 2.6345
+[Epoch 2 | Batch 4/157] Loss: 2.6371
+[Epoch 2 | Batch 5/157] Loss: 2.7036
+[Epoch 2 | Batch 6/157] Loss: 2.5777
+[Epoch 2 | Batch 7/157] Loss: 2.6723
+[Epoch 2 | Batch 8/157] Loss: 2.5698
+[Epoch 2 | Batch 9/157] Loss: 2.6842
+[Epoch 2 | Batch 10/157] Loss: 2.4585
+[Epoch 2 | Batch 11/157] Loss: 2.6706
+[Epoch 2 | Batch 12/157] Loss: 2.6935
+[Epoch 2 | Batch 13/157] Loss: 2.6170
+[Epoch 2 | Batch 14/157] Loss: 2.6683
+[Epoch 2 | Batch 15/157] Loss: 2.6756
+[Epoch 2 | Batch 16/157] Loss: 2.6082
+[Epoch 2 | Batch 17/157] Loss: 2.6892
+[Epoch 2 | Batch 18/157] Loss: 2.6201
+[Epoch 2 | Batch 19/157] Loss: 2.6007
+[Epoch 2 | Batch 20/157] Loss: 2.7034
+[Epoch 2 | Batch 21/157] Loss: 2.6797
+[Epoch 2 | Batch 22/157] Loss: 2.4571
+[Epoch 2 | Batch 23/157] Loss: 2.6750
+[Epoch 2 | Batch 24/157] Loss: 2.3591
+[Epoch 2 | Batch 25/157] Loss: 2.5493
+[Epoch 2 | Batch 26/157] Loss: 2.5348
+[Epoch 2 | Batch 27/157] Loss: 2.6537
+[Epoch 2 | Batch 28/157] Loss: 2.7643
+[Epoch 2 | Batch 29/157] Loss: 2.5236
+[Epoch 2 | Batch 30/157] Loss: 2.6790
+[Epoch 2 | Batch 31/157] Loss: 2.6349
+[Epoch 2 | Batch 32/157] Loss: 2.6180
+[Epoch 2 | Batch 33/157] Loss: 2.3356
+[Epoch 2 | Batch 34/157] Loss: 2.7291
+[Epoch 2 | Batch 35/157] Loss: 2.6662
+[Epoch 2 | Batch 36/157] Loss: 2.5986
+[Epoch 2 | Batch 37/157] Loss: 2.6035
+[Epoch 2 | Batch 38/157] Loss: 2.5685
+[Epoch 2 | Batch 39/157] Loss: 2.7181
+[Epoch 2 | Batch 40/157] Loss: 2.7973
+[Epoch 2 | Batch 41/157] Loss: 2.4261
+[Epoch 2 | Batch 42/157] Loss: 2.5557
+[Epoch 2 | Batch 43/157] Loss: 2.6024
+[Epoch 2 | Batch 44/157] Loss: 2.6864
+[Epoch 2 | Batch 45/157] Loss: 2.8719
+[Epoch 2 | Batch 46/157] Loss: 2.7406
+[Epoch 2 | Batch 47/157] Loss: 2.4709
+[Epoch 2 | Batch 48/157] Loss: 2.5123
+[Epoch 2 | Batch 49/157] Loss: 2.6724
+[Epoch 2 | Batch 50/157] Loss: 2.5618
+[Epoch 2 | Batch 51/157] Loss: 2.8464
+[Epoch 2 | Batch 52/157] Loss: 2.5786
+[Epoch 2 | Batch 53/157] Loss: 2.5268
+[Epoch 2 | Batch 54/157] Loss: 2.5716
+[Epoch 2 | Batch 55/157] Loss: 2.7736
+[Epoch 2 | Batch 56/157] Loss: 2.6031
+[Epoch 2 | Batch 57/157] Loss: 2.7426
+[Epoch 2 | Batch 58/157] Loss: 2.5507
+[Epoch 2 | Batch 59/157] Loss: 2.4823
+[Epoch 2 | Batch 60/157] Loss: 2.8051
+[Epoch 2 | Batch 61/157] Loss: 2.6114
+[Epoch 2 | Batch 62/157] Loss: 2.8151
+[Epoch 2 | Batch 63/157] Loss: 2.4836
+[Epoch 2 | Batch 64/157] Loss: 2.8649
+[Epoch 2 | Batch 65/157] Loss: 2.6195
+[Epoch 2 | Batch 66/157] Loss: 2.6343
+[Epoch 2 | Batch 67/157] Loss: 2.5262
+[Epoch 2 | Batch 68/157] Loss: 2.5630
+[Epoch 2 | Batch 69/157] Loss: 2.6620
+[Epoch 2 | Batch 70/157] Loss: 2.7283
+[Epoch 2 | Batch 71/157] Loss: 2.6253
+[Epoch 2 | Batch 72/157] Loss: 2.5951
+[Epoch 2 | Batch 73/157] Loss: 2.7034
+[Epoch 2 | Batch 74/157] Loss: 2.6498
+[Epoch 2 | Batch 75/157] Loss: 2.6333
+[Epoch 2 | Batch 76/157] Loss: 2.6205
+[Epoch 2 | Batch 77/157] Loss: 2.7522
+[Epoch 2 | Batch 78/157] Loss: 2.6826
+[Epoch 2 | Batch 79/157] Loss: 2.4872
+[Epoch 2 | Batch 80/157] Loss: 2.7402
+[Epoch 2 | Batch 81/157] Loss: 2.9560
+[Epoch 2 | Batch 82/157] Loss: 2.8987
+[Epoch 2 | Batch 83/157] Loss: 2.5795
+[Epoch 2 | Batch 84/157] Loss: 2.6617
+[Epoch 2 | Batch 85/157] Loss: 2.5957
+[Epoch 2 | Batch 86/157] Loss: 2.5861
+[Epoch 2 | Batch 87/157] Loss: 2.5700
+[Epoch 2 | Batch 88/157] Loss: 2.5447
+[Epoch 2 | Batch 89/157] Loss: 2.4986
+[Epoch 2 | Batch 90/157] Loss: 2.7092
+[Epoch 2 | Batch 91/157] Loss: 2.4653
+[Epoch 2 | Batch 92/157] Loss: 2.5081
+[Epoch 2 | Batch 93/157] Loss: 2.7074
+[Epoch 2 | Batch 94/157] Loss: 2.6350
+[Epoch 2 | Batch 95/157] Loss: 2.4591
+[Epoch 2 | Batch 96/157] Loss: 2.6659
+[Epoch 2 | Batch 97/157] Loss: 2.4174
+[Epoch 2 | Batch 98/157] Loss: 2.7104
+[Epoch 2 | Batch 99/157] Loss: 2.4234
+[Epoch 2 | Batch 100/157] Loss: 2.5795
+[Epoch 2 | Batch 101/157] Loss: 2.6023
+[Epoch 2 | Batch 102/157] Loss: 2.5040
+[Epoch 2 | Batch 103/157] Loss: 2.5045
+[Epoch 2 | Batch 104/157] Loss: 2.6761
+[Epoch 2 | Batch 105/157] Loss: 2.7501
+[Epoch 2 | Batch 106/157] Loss: 2.6406
+[Epoch 2 | Batch 107/157] Loss: 2.4575
+[Epoch 2 | Batch 108/157] Loss: 2.5668
+[Epoch 2 | Batch 109/157] Loss: 2.6338
+[Epoch 2 | Batch 110/157] Loss: 2.6756
+[Epoch 2 | Batch 111/157] Loss: 2.5944
+[Epoch 2 | Batch 112/157] Loss: 2.4163
+[Epoch 2 | Batch 113/157] Loss: 2.6677
+[Epoch 2 | Batch 114/157] Loss: 2.4006
+[Epoch 2 | Batch 115/157] Loss: 2.4943
+[Epoch 2 | Batch 116/157] Loss: 2.7579
+[Epoch 2 | Batch 117/157] Loss: 2.4893
+[Epoch 2 | Batch 118/157] Loss: 2.5788
+[Epoch 2 | Batch 119/157] Loss: 2.5986
+[Epoch 2 | Batch 120/157] Loss: 2.7488
+[Epoch 2 | Batch 121/157] Loss: 2.6602
+[Epoch 2 | Batch 122/157] Loss: 2.5462
+[Epoch 2 | Batch 123/157] Loss: 2.7430
+[Epoch 2 | Batch 124/157] Loss: 2.7026
+[Epoch 2 | Batch 125/157] Loss: 2.7329
+[Epoch 2 | Batch 126/157] Loss: 2.6956
+[Epoch 2 | Batch 127/157] Loss: 2.6841
+[Epoch 2 | Batch 128/157] Loss: 2.6337
+[Epoch 2 | Batch 129/157] Loss: 2.5055
+[Epoch 2 | Batch 130/157] Loss: 2.6434
+[Epoch 2 | Batch 131/157] Loss: 2.5997
+[Epoch 2 | Batch 132/157] Loss: 2.4807
+[Epoch 2 | Batch 133/157] Loss: 2.4530
+[Epoch 2 | Batch 134/157] Loss: 2.3153
+[Epoch 2 | Batch 135/157] Loss: 2.7382
+[Epoch 2 | Batch 136/157] Loss: 2.5329
+[Epoch 2 | Batch 137/157] Loss: 2.4790
+[Epoch 2 | Batch 138/157] Loss: 2.6979
+[Epoch 2 | Batch 139/157] Loss: 2.6736
+[Epoch 2 | Batch 140/157] Loss: 2.3553
+[Epoch 2 | Batch 141/157] Loss: 2.5853
+[Epoch 2 | Batch 142/157] Loss: 2.5793
+[Epoch 2 | Batch 143/157] Loss: 2.4606
+[Epoch 2 | Batch 144/157] Loss: 2.4920
+[Epoch 2 | Batch 145/157] Loss: 2.4995
+[Epoch 2 | Batch 146/157] Loss: 2.6804
+[Epoch 2 | Batch 147/157] Loss: 2.6885
+[Epoch 2 | Batch 148/157] Loss: 2.5506
+[Epoch 2 | Batch 149/157] Loss: 2.3989
+[Epoch 2 | Batch 150/157] Loss: 2.5210
+[Epoch 2 | Batch 151/157] Loss: 2.4972
+[Epoch 2 | Batch 152/157] Loss: 2.5450
+[Epoch 2 | Batch 153/157] Loss: 2.4595
+[Epoch 2 | Batch 154/157] Loss: 2.4957
+[Epoch 2 | Batch 155/157] Loss: 2.5521
+[Epoch 2 | Batch 156/157] Loss: 2.4673
+[Epoch 2 | Batch 157/157] Loss: 2.7736
+[Epoch 2 | validated Batch 1/16]
+[Epoch 2 | validated Batch 2/16]
+[Epoch 2 | validated Batch 3/16]
+[Epoch 2 | validated Batch 4/16]
+[Epoch 2 | validated Batch 5/16]
+[Epoch 2 | validated Batch 6/16]
+[Epoch 2 | validated Batch 7/16]
+[Epoch 2 | validated Batch 8/16]
+[Epoch 2 | validated Batch 9/16]
+[Epoch 2 | validated Batch 10/16]
+[Epoch 2 | validated Batch 11/16]
+[Epoch 2 | validated Batch 12/16]
+[Epoch 2 | validated Batch 13/16]
+[Epoch 2 | validated Batch 14/16]
+[Epoch 2 | validated Batch 15/16]
+[Epoch 2 | validated Batch 16/16]
+[Epoch 2
+epoch_time: 3.6
+loss: 2.6087255477905273
+loss: 2.59312105178833
+acc_top1: 0.204
+acc_top5: 0.528
+]
+[Epoch 3 | Batch 1/157] Loss: 2.5429
+[Epoch 3 | Batch 2/157] Loss: 2.6251
+[Epoch 3 | Batch 3/157] Loss: 2.5864
+[Epoch 3 | Batch 4/157] Loss: 2.6142
+[Epoch 3 | Batch 5/157] Loss: 2.6025
+[Epoch 3 | Batch 6/157] Loss: 2.7050
+[Epoch 3 | Batch 7/157] Loss: 2.5591
+[Epoch 3 | Batch 8/157] Loss: 2.5351
+[Epoch 3 | Batch 9/157] Loss: 2.4465
+[Epoch 3 | Batch 10/157] Loss: 2.6437
+[Epoch 3 | Batch 11/157] Loss: 2.5758
+[Epoch 3 | Batch 12/157] Loss: 2.5705
+[Epoch 3 | Batch 13/157] Loss: 2.4495
+[Epoch 3 | Batch 14/157] Loss: 2.5307
+[Epoch 3 | Batch 15/157] Loss: 2.5442
+[Epoch 3 | Batch 16/157] Loss: 2.5608
+[Epoch 3 | Batch 17/157] Loss: 2.5968
+[Epoch 3 | Batch 18/157] Loss: 2.5613
+[Epoch 3 | Batch 19/157] Loss: 2.6478
+[Epoch 3 | Batch 20/157] Loss: 2.6654
+[Epoch 3 | Batch 21/157] Loss: 2.4564
+[Epoch 3 | Batch 22/157] Loss: 2.3848
+[Epoch 3 | Batch 23/157] Loss: 2.7258
+[Epoch 3 | Batch 24/157] Loss: 2.6291
+[Epoch 3 | Batch 25/157] Loss: 2.4757
+[Epoch 3 | Batch 26/157] Loss: 2.5083
+[Epoch 3 | Batch 27/157] Loss: 2.4596
+[Epoch 3 | Batch 28/157] Loss: 2.5084
+[Epoch 3 | Batch 29/157] Loss: 2.6159
+[Epoch 3 | Batch 30/157] Loss: 2.5663
+[Epoch 3 | Batch 31/157] Loss: 2.6940
+[Epoch 3 | Batch 32/157] Loss: 2.6031
+[Epoch 3 | Batch 33/157] Loss: 2.5956
+[Epoch 3 | Batch 34/157] Loss: 2.6179
+[Epoch 3 | Batch 35/157] Loss: 2.6322
+[Epoch 3 | Batch 36/157] Loss: 2.3949
+[Epoch 3 | Batch 37/157] Loss: 2.4289
+[Epoch 3 | Batch 38/157] Loss: 2.4957
+[Epoch 3 | Batch 39/157] Loss: 2.5772
+[Epoch 3 | Batch 40/157] Loss: 2.6805
+[Epoch 3 | Batch 41/157] Loss: 2.5802
+[Epoch 3 | Batch 42/157] Loss: 2.5641
+[Epoch 3 | Batch 43/157] Loss: 2.4072
+[Epoch 3 | Batch 44/157] Loss: 2.4749
+[Epoch 3 | Batch 45/157] Loss: 2.4512
+[Epoch 3 | Batch 46/157] Loss: 2.6279
+[Epoch 3 | Batch 47/157] Loss: 2.6062
+[Epoch 3 | Batch 48/157] Loss: 2.5105
+[Epoch 3 | Batch 49/157] Loss: 2.5957
+[Epoch 3 | Batch 50/157] Loss: 2.6087
+[Epoch 3 | Batch 51/157] Loss: 2.5586
+[Epoch 3 | Batch 52/157] Loss: 2.4820
+[Epoch 3 | Batch 53/157] Loss: 2.3958
+[Epoch 3 | Batch 54/157] Loss: 2.3494
+[Epoch 3 | Batch 55/157] Loss: 2.5432
+[Epoch 3 | Batch 56/157] Loss: 2.4316
+[Epoch 3 | Batch 57/157] Loss: 2.5270
+[Epoch 3 | Batch 58/157] Loss: 2.3222
+[Epoch 3 | Batch 59/157] Loss: 2.3377
+[Epoch 3 | Batch 60/157] Loss: 2.3443
+[Epoch 3 | Batch 61/157] Loss: 2.5828
+[Epoch 3 | Batch 62/157] Loss: 2.5828
+[Epoch 3 | Batch 63/157] Loss: 2.4547
+[Epoch 3 | Batch 64/157] Loss: 2.4060
+[Epoch 3 | Batch 65/157] Loss: 2.2814
+[Epoch 3 | Batch 66/157] Loss: 2.6773
+[Epoch 3 | Batch 67/157] Loss: 2.6461
+[Epoch 3 | Batch 68/157] Loss: 2.6868
+[Epoch 3 | Batch 69/157] Loss: 2.4922
+[Epoch 3 | Batch 70/157] Loss: 2.4495
+[Epoch 3 | Batch 71/157] Loss: 2.4891
+[Epoch 3 | Batch 72/157] Loss: 2.7341
+[Epoch 3 | Batch 73/157] Loss: 2.5289
+[Epoch 3 | Batch 74/157] Loss: 2.3947
+[Epoch 3 | Batch 75/157] Loss: 2.7632
+[Epoch 3 | Batch 76/157] Loss: 2.6582
+[Epoch 3 | Batch 77/157] Loss: 2.4844
+[Epoch 3 | Batch 78/157] Loss: 2.5004
+[Epoch 3 | Batch 79/157] Loss: 2.5857
+[Epoch 3 | Batch 80/157] Loss: 2.6289
+[Epoch 3 | Batch 81/157] Loss: 2.6574
+[Epoch 3 | Batch 82/157] Loss: 2.5853
+[Epoch 3 | Batch 83/157] Loss: 2.4611
+[Epoch 3 | Batch 84/157] Loss: 2.4771
+[Epoch 3 | Batch 85/157] Loss: 2.4069
+[Epoch 3 | Batch 86/157] Loss: 2.3332
+[Epoch 3 | Batch 87/157] Loss: 2.3706
+[Epoch 3 | Batch 88/157] Loss: 2.3693
+[Epoch 3 | Batch 89/157] Loss: 2.3882
+[Epoch 3 | Batch 90/157] Loss: 2.4781
+[Epoch 3 | Batch 91/157] Loss: 2.6181
+[Epoch 3 | Batch 92/157] Loss: 2.5661
+[Epoch 3 | Batch 93/157] Loss: 2.6519
+[Epoch 3 | Batch 94/157] Loss: 2.6523
+[Epoch 3 | Batch 95/157] Loss: 2.6574
+[Epoch 3 | Batch 96/157] Loss: 2.4725
+[Epoch 3 | Batch 97/157] Loss: 2.4655
+[Epoch 3 | Batch 98/157] Loss: 2.5470
+[Epoch 3 | Batch 99/157] Loss: 2.3858
+[Epoch 3 | Batch 100/157] Loss: 2.4648
+[Epoch 3 | Batch 101/157] Loss: 2.3372
+[Epoch 3 | Batch 102/157] Loss: 2.5930
+[Epoch 3 | Batch 103/157] Loss: 2.4502
+[Epoch 3 | Batch 104/157] Loss: 2.5882
+[Epoch 3 | Batch 105/157] Loss: 2.6114
+[Epoch 3 | Batch 106/157] Loss: 2.6152
+[Epoch 3 | Batch 107/157] Loss: 2.2565
+[Epoch 3 | Batch 108/157] Loss: 2.5438
+[Epoch 3 | Batch 109/157] Loss: 2.4152
+[Epoch 3 | Batch 110/157] Loss: 2.5197
+[Epoch 3 | Batch 111/157] Loss: 2.5561
+[Epoch 3 | Batch 112/157] Loss: 2.4910
+[Epoch 3 | Batch 113/157] Loss: 2.5863
+[Epoch 3 | Batch 114/157] Loss: 2.5093
+[Epoch 3 | Batch 115/157] Loss: 2.5377
+[Epoch 3 | Batch 116/157] Loss: 2.5807
+[Epoch 3 | Batch 117/157] Loss: 2.5592
+[Epoch 3 | Batch 118/157] Loss: 2.6480
+[Epoch 3 | Batch 119/157] Loss: 2.6176
+[Epoch 3 | Batch 120/157] Loss: 2.5887
+[Epoch 3 | Batch 121/157] Loss: 2.7193
+[Epoch 3 | Batch 122/157] Loss: 2.4487
+[Epoch 3 | Batch 123/157] Loss: 2.5229
+[Epoch 3 | Batch 124/157] Loss: 2.6321
+[Epoch 3 | Batch 125/157] Loss: 2.5831
+[Epoch 3 | Batch 126/157] Loss: 2.4013
+[Epoch 3 | Batch 127/157] Loss: 2.5269
+[Epoch 3 | Batch 128/157] Loss: 2.5383
+[Epoch 3 | Batch 129/157] Loss: 2.4955
+[Epoch 3 | Batch 130/157] Loss: 2.7408
+[Epoch 3 | Batch 131/157] Loss: 2.2924
+[Epoch 3 | Batch 132/157] Loss: 2.4723
+[Epoch 3 | Batch 133/157] Loss: 2.4487
+[Epoch 3 | Batch 134/157] Loss: 2.4541
+[Epoch 3 | Batch 135/157] Loss: 2.3940
+[Epoch 3 | Batch 136/157] Loss: 2.6133
+[Epoch 3 | Batch 137/157] Loss: 2.4981
+[Epoch 3 | Batch 138/157] Loss: 2.4596
+[Epoch 3 | Batch 139/157] Loss: 2.7367
+[Epoch 3 | Batch 140/157] Loss: 2.4135
+[Epoch 3 | Batch 141/157] Loss: 2.5434
+[Epoch 3 | Batch 142/157] Loss: 2.4283
+[Epoch 3 | Batch 143/157] Loss: 2.3273
+[Epoch 3 | Batch 144/157] Loss: 2.5941
+[Epoch 3 | Batch 145/157] Loss: 2.4295
+[Epoch 3 | Batch 146/157] Loss: 2.4071
+[Epoch 3 | Batch 147/157] Loss: 2.5250
+[Epoch 3 | Batch 148/157] Loss: 2.5585
+[Epoch 3 | Batch 149/157] Loss: 2.5102
+[Epoch 3 | Batch 150/157] Loss: 2.5857
+[Epoch 3 | Batch 151/157] Loss: 2.4937
+[Epoch 3 | Batch 152/157] Loss: 2.5254
+[Epoch 3 | Batch 153/157] Loss: 2.4721
+[Epoch 3 | Batch 154/157] Loss: 2.5489
+[Epoch 3 | Batch 155/157] Loss: 2.3594
+[Epoch 3 | Batch 156/157] Loss: 2.4567
+[Epoch 3 | Batch 157/157] Loss: 2.8232
+[Epoch 3 | validated Batch 1/16]
+[Epoch 3 | validated Batch 2/16]
+[Epoch 3 | validated Batch 3/16]
+[Epoch 3 | validated Batch 4/16]
+[Epoch 3 | validated Batch 5/16]
+[Epoch 3 | validated Batch 6/16]
+[Epoch 3 | validated Batch 7/16]
+[Epoch 3 | validated Batch 8/16]
+[Epoch 3 | validated Batch 9/16]
+[Epoch 3 | validated Batch 10/16]
+[Epoch 3 | validated Batch 11/16]
+[Epoch 3 | validated Batch 12/16]
+[Epoch 3 | validated Batch 13/16]
+[Epoch 3 | validated Batch 14/16]
+[Epoch 3 | validated Batch 15/16]
+[Epoch 3 | validated Batch 16/16]
+[Epoch 3
+epoch_time: 4.5
+loss: 2.526944875717163
+loss: 2.5317156314849854
+acc_top1: 0.199
+acc_top5: 0.559
+]
+[Epoch 4 | Batch 1/157] Loss: 2.6513
+[Epoch 4 | Batch 2/157] Loss: 2.6702
+[Epoch 4 | Batch 3/157] Loss: 2.2511
+[Epoch 4 | Batch 4/157] Loss: 2.5761
+[Epoch 4 | Batch 5/157] Loss: 2.4787
+[Epoch 4 | Batch 6/157] Loss: 2.4285
+[Epoch 4 | Batch 7/157] Loss: 2.3754
+[Epoch 4 | Batch 8/157] Loss: 2.5867
+[Epoch 4 | Batch 9/157] Loss: 2.5760
+[Epoch 4 | Batch 10/157] Loss: 2.4530
+[Epoch 4 | Batch 11/157] Loss: 2.4973
+[Epoch 4 | Batch 12/157] Loss: 2.4420
+[Epoch 4 | Batch 13/157] Loss: 2.4817
+[Epoch 4 | Batch 14/157] Loss: 2.3278
+[Epoch 4 | Batch 15/157] Loss: 2.5301
+[Epoch 4 | Batch 16/157] Loss: 2.4698
+[Epoch 4 | Batch 17/157] Loss: 2.6338
+[Epoch 4 | Batch 18/157] Loss: 2.2804
+[Epoch 4 | Batch 19/157] Loss: 2.3038
+[Epoch 4 | Batch 20/157] Loss: 2.5027
+[Epoch 4 | Batch 21/157] Loss: 2.5694
+[Epoch 4 | Batch 22/157] Loss: 2.7078
+[Epoch 4 | Batch 23/157] Loss: 2.4151
+[Epoch 4 | Batch 24/157] Loss: 2.3284
+[Epoch 4 | Batch 25/157] Loss: 2.6804
+[Epoch 4 | Batch 26/157] Loss: 2.6523
+[Epoch 4 | Batch 27/157] Loss: 2.4142
+[Epoch 4 | Batch 28/157] Loss: 2.6416
+[Epoch 4 | Batch 29/157] Loss: 2.4367
+[Epoch 4 | Batch 30/157] Loss: 2.4221
+[Epoch 4 | Batch 31/157] Loss: 2.3973
+[Epoch 4 | Batch 32/157] Loss: 2.3472
+[Epoch 4 | Batch 33/157] Loss: 2.4817
+[Epoch 4 | Batch 34/157] Loss: 2.5997
+[Epoch 4 | Batch 35/157] Loss: 2.2629
+[Epoch 4 | Batch 36/157] Loss: 2.3680
+[Epoch 4 | Batch 37/157] Loss: 2.3412
+[Epoch 4 | Batch 38/157] Loss: 2.4781
+[Epoch 4 | Batch 39/157] Loss: 2.3320
+[Epoch 4 | Batch 40/157] Loss: 2.3901
+[Epoch 4 | Batch 41/157] Loss: 2.5448
+[Epoch 4 | Batch 42/157] Loss: 2.5544
+[Epoch 4 | Batch 43/157] Loss: 2.5311
+[Epoch 4 | Batch 44/157] Loss: 2.4460
+[Epoch 4 | Batch 45/157] Loss: 2.5883
+[Epoch 4 | Batch 46/157] Loss: 2.4408
+[Epoch 4 | Batch 47/157] Loss: 2.5928
+[Epoch 4 | Batch 48/157] Loss: 2.6205
+[Epoch 4 | Batch 49/157] Loss: 2.4163
+[Epoch 4 | Batch 50/157] Loss: 2.7039
+[Epoch 4 | Batch 51/157] Loss: 2.3912
+[Epoch 4 | Batch 52/157] Loss: 2.4941
+[Epoch 4 | Batch 53/157] Loss: 2.4517
+[Epoch 4 | Batch 54/157] Loss: 2.4982
+[Epoch 4 | Batch 55/157] Loss: 2.5359
+[Epoch 4 | Batch 56/157] Loss: 2.4079
+[Epoch 4 | Batch 57/157] Loss: 2.6489
+[Epoch 4 | Batch 58/157] Loss: 2.3856
+[Epoch 4 | Batch 59/157] Loss: 2.5787
+[Epoch 4 | Batch 60/157] Loss: 2.4050
+[Epoch 4 | Batch 61/157] Loss: 2.4479
+[Epoch 4 | Batch 62/157] Loss: 2.3925
+[Epoch 4 | Batch 63/157] Loss: 2.5130
+[Epoch 4 | Batch 64/157] Loss: 2.4762
+[Epoch 4 | Batch 65/157] Loss: 2.5983
+[Epoch 4 | Batch 66/157] Loss: 2.3647
+[Epoch 4 | Batch 67/157] Loss: 2.6352
+[Epoch 4 | Batch 68/157] Loss: 2.4621
+[Epoch 4 | Batch 69/157] Loss: 2.3106
+[Epoch 4 | Batch 70/157] Loss: 2.4339
+[Epoch 4 | Batch 71/157] Loss: 2.4195
+[Epoch 4 | Batch 72/157] Loss: 2.5762
+[Epoch 4 | Batch 73/157] Loss: 2.4591
+[Epoch 4 | Batch 74/157] Loss: 2.6327
+[Epoch 4 | Batch 75/157] Loss: 2.4759
+[Epoch 4 | Batch 76/157] Loss: 2.3782
+[Epoch 4 | Batch 77/157] Loss: 2.4361
+[Epoch 4 | Batch 78/157] Loss: 2.4931
+[Epoch 4 | Batch 79/157] Loss: 2.5185
+[Epoch 4 | Batch 80/157] Loss: 2.3661
+[Epoch 4 | Batch 81/157] Loss: 2.5451
+[Epoch 4 | Batch 82/157] Loss: 2.5642
+[Epoch 4 | Batch 83/157] Loss: 2.4434
+[Epoch 4 | Batch 84/157] Loss: 2.4928
+[Epoch 4 | Batch 85/157] Loss: 2.3516
+[Epoch 4 | Batch 86/157] Loss: 2.4675
+[Epoch 4 | Batch 87/157] Loss: 2.3977
+[Epoch 4 | Batch 88/157] Loss: 2.4940
+[Epoch 4 | Batch 89/157] Loss: 2.5075
+[Epoch 4 | Batch 90/157] Loss: 2.6723
+[Epoch 4 | Batch 91/157] Loss: 2.3792
+[Epoch 4 | Batch 92/157] Loss: 2.5097
+[Epoch 4 | Batch 93/157] Loss: 2.4813
+[Epoch 4 | Batch 94/157] Loss: 2.3577
+[Epoch 4 | Batch 95/157] Loss: 2.5515
+[Epoch 4 | Batch 96/157] Loss: 2.3345
+[Epoch 4 | Batch 97/157] Loss: 2.5413
+[Epoch 4 | Batch 98/157] Loss: 2.6062
+[Epoch 4 | Batch 99/157] Loss: 2.5266
+[Epoch 4 | Batch 100/157] Loss: 2.4696
+[Epoch 4 | Batch 101/157] Loss: 2.5227
+[Epoch 4 | Batch 102/157] Loss: 2.7495
+[Epoch 4 | Batch 103/157] Loss: 2.2024
+[Epoch 4 | Batch 104/157] Loss: 2.5390
+[Epoch 4 | Batch 105/157] Loss: 2.5983
+[Epoch 4 | Batch 106/157] Loss: 2.7942
+[Epoch 4 | Batch 107/157] Loss: 2.4725
+[Epoch 4 | Batch 108/157] Loss: 2.6923
+[Epoch 4 | Batch 109/157] Loss: 2.5817
+[Epoch 4 | Batch 110/157] Loss: 2.7598
+[Epoch 4 | Batch 111/157] Loss: 2.5545
+[Epoch 4 | Batch 112/157] Loss: 2.6629
+[Epoch 4 | Batch 113/157] Loss: 2.4356
+[Epoch 4 | Batch 114/157] Loss: 2.2788
+[Epoch 4 | Batch 115/157] Loss: 2.5872
+[Epoch 4 | Batch 116/157] Loss: 2.3901
+[Epoch 4 | Batch 117/157] Loss: 2.5629
+[Epoch 4 | Batch 118/157] Loss: 2.5718
+[Epoch 4 | Batch 119/157] Loss: 2.4799
+[Epoch 4 | Batch 120/157] Loss: 2.4082
+[Epoch 4 | Batch 121/157] Loss: 2.4218
+[Epoch 4 | Batch 122/157] Loss: 2.4337
+[Epoch 4 | Batch 123/157] Loss: 2.4711
+[Epoch 4 | Batch 124/157] Loss: 2.2117
+[Epoch 4 | Batch 125/157] Loss: 2.4772
+[Epoch 4 | Batch 126/157] Loss: 2.3404
+[Epoch 4 | Batch 127/157] Loss: 2.4381
+[Epoch 4 | Batch 128/157] Loss: 2.5165
+[Epoch 4 | Batch 129/157] Loss: 2.6073
+[Epoch 4 | Batch 130/157] Loss: 2.6244
+[Epoch 4 | Batch 131/157] Loss: 2.5540
+[Epoch 4 | Batch 132/157] Loss: 2.5062
+[Epoch 4 | Batch 133/157] Loss: 2.5002
+[Epoch 4 | Batch 134/157] Loss: 2.5541
+[Epoch 4 | Batch 135/157] Loss: 2.3857
+[Epoch 4 | Batch 136/157] Loss: 2.3834
+[Epoch 4 | Batch 137/157] Loss: 2.6375
+[Epoch 4 | Batch 138/157] Loss: 2.3413
+[Epoch 4 | Batch 139/157] Loss: 2.7051
+[Epoch 4 | Batch 140/157] Loss: 2.3478
+[Epoch 4 | Batch 141/157] Loss: 2.3587
+[Epoch 4 | Batch 142/157] Loss: 2.5308
+[Epoch 4 | Batch 143/157] Loss: 2.3829
+[Epoch 4 | Batch 144/157] Loss: 2.3936
+[Epoch 4 | Batch 145/157] Loss: 2.3167
+[Epoch 4 | Batch 146/157] Loss: 2.5926
+[Epoch 4 | Batch 147/157] Loss: 2.8587
+[Epoch 4 | Batch 148/157] Loss: 2.5490
+[Epoch 4 | Batch 149/157] Loss: 2.2508
+[Epoch 4 | Batch 150/157] Loss: 2.4967
+[Epoch 4 | Batch 151/157] Loss: 2.5624
+[Epoch 4 | Batch 152/157] Loss: 2.6268
+[Epoch 4 | Batch 153/157] Loss: 2.6716
+[Epoch 4 | Batch 154/157] Loss: 2.5285
+[Epoch 4 | Batch 155/157] Loss: 2.4261
+[Epoch 4 | Batch 156/157] Loss: 2.6735
+[Epoch 4 | Batch 157/157] Loss: 2.3264
+[Epoch 4 | validated Batch 1/16]
+[Epoch 4 | validated Batch 2/16]
+[Epoch 4 | validated Batch 3/16]
+[Epoch 4 | validated Batch 4/16]
+[Epoch 4 | validated Batch 5/16]
+[Epoch 4 | validated Batch 6/16]
+[Epoch 4 | validated Batch 7/16]
+[Epoch 4 | validated Batch 8/16]
+[Epoch 4 | validated Batch 9/16]
+[Epoch 4 | validated Batch 10/16]
+[Epoch 4 | validated Batch 11/16]
+[Epoch 4 | validated Batch 12/16]
+[Epoch 4 | validated Batch 13/16]
+[Epoch 4 | validated Batch 14/16]
+[Epoch 4 | validated Batch 15/16]
+[Epoch 4 | validated Batch 16/16]
+[Epoch 4
+epoch_time: 4.7
+loss: 2.4909141063690186
+loss: 2.4905247688293457
+acc_top1: 0.218
+acc_top5: 0.577
+]
+[Epoch 5 | Batch 1/157] Loss: 2.5348
+[Epoch 5 | Batch 2/157] Loss: 2.4896
+[Epoch 5 | Batch 3/157] Loss: 2.6173
+[Epoch 5 | Batch 4/157] Loss: 2.2251
+[Epoch 5 | Batch 5/157] Loss: 2.4928
+[Epoch 5 | Batch 6/157] Loss: 2.2931
+[Epoch 5 | Batch 7/157] Loss: 2.5455
+[Epoch 5 | Batch 8/157] Loss: 2.2219
+[Epoch 5 | Batch 9/157] Loss: 2.3888
+[Epoch 5 | Batch 10/157] Loss: 2.5228
+[Epoch 5 | Batch 11/157] Loss: 2.5030
+[Epoch 5 | Batch 12/157] Loss: 2.3640
+[Epoch 5 | Batch 13/157] Loss: 2.5422
+[Epoch 5 | Batch 14/157] Loss: 2.5817
+[Epoch 5 | Batch 15/157] Loss: 2.2364
+[Epoch 5 | Batch 16/157] Loss: 2.4949
+[Epoch 5 | Batch 17/157] Loss: 2.4623
+[Epoch 5 | Batch 18/157] Loss: 2.2564
+[Epoch 5 | Batch 19/157] Loss: 2.4402
+[Epoch 5 | Batch 20/157] Loss: 2.5023
+[Epoch 5 | Batch 21/157] Loss: 2.3699
+[Epoch 5 | Batch 22/157] Loss: 2.6753
+[Epoch 5 | Batch 23/157] Loss: 2.5480
+[Epoch 5 | Batch 24/157] Loss: 2.4850
+[Epoch 5 | Batch 25/157] Loss: 2.4787
+[Epoch 5 | Batch 26/157] Loss: 2.5310
+[Epoch 5 | Batch 27/157] Loss: 2.4950
+[Epoch 5 | Batch 28/157] Loss: 2.4375
+[Epoch 5 | Batch 29/157] Loss: 2.3830
+[Epoch 5 | Batch 30/157] Loss: 2.6218
+[Epoch 5 | Batch 31/157] Loss: 2.3704
+[Epoch 5 | Batch 32/157] Loss: 2.5222
+[Epoch 5 | Batch 33/157] Loss: 2.5260
+[Epoch 5 | Batch 34/157] Loss: 2.5450
+[Epoch 5 | Batch 35/157] Loss: 2.3022
+[Epoch 5 | Batch 36/157] Loss: 2.4331
+[Epoch 5 | Batch 37/157] Loss: 2.4928
+[Epoch 5 | Batch 38/157] Loss: 2.3489
+[Epoch 5 | Batch 39/157] Loss: 2.4912
+[Epoch 5 | Batch 40/157] Loss: 2.3254
+[Epoch 5 | Batch 41/157] Loss: 2.3719
+[Epoch 5 | Batch 42/157] Loss: 2.5942
+[Epoch 5 | Batch 43/157] Loss: 2.3296
+[Epoch 5 | Batch 44/157] Loss: 2.4363
+[Epoch 5 | Batch 45/157] Loss: 2.4208
+[Epoch 5 | Batch 46/157] Loss: 2.6886
+[Epoch 5 | Batch 47/157] Loss: 2.5202
+[Epoch 5 | Batch 48/157] Loss: 2.2793
+[Epoch 5 | Batch 49/157] Loss: 2.4806
+[Epoch 5 | Batch 50/157] Loss: 2.4607
+[Epoch 5 | Batch 51/157] Loss: 2.4813
+[Epoch 5 | Batch 52/157] Loss: 2.5217
+[Epoch 5 | Batch 53/157] Loss: 2.4947
+[Epoch 5 | Batch 54/157] Loss: 2.4263
+[Epoch 5 | Batch 55/157] Loss: 2.1569
+[Epoch 5 | Batch 56/157] Loss: 2.4882
+[Epoch 5 | Batch 57/157] Loss: 2.3534
+[Epoch 5 | Batch 58/157] Loss: 2.4110
+[Epoch 5 | Batch 59/157] Loss: 2.3064
+[Epoch 5 | Batch 60/157] Loss: 2.3637
+[Epoch 5 | Batch 61/157] Loss: 2.5287
+[Epoch 5 | Batch 62/157] Loss: 2.2016
+[Epoch 5 | Batch 63/157] Loss: 2.5259
+[Epoch 5 | Batch 64/157] Loss: 2.4583
+[Epoch 5 | Batch 65/157] Loss: 2.2690
+[Epoch 5 | Batch 66/157] Loss: 2.5279
+[Epoch 5 | Batch 67/157] Loss: 2.4161
+[Epoch 5 | Batch 68/157] Loss: 2.6195
+[Epoch 5 | Batch 69/157] Loss: 2.2898
+[Epoch 5 | Batch 70/157] Loss: 2.2063
+[Epoch 5 | Batch 71/157] Loss: 2.5131
+[Epoch 5 | Batch 72/157] Loss: 2.4185
+[Epoch 5 | Batch 73/157] Loss: 2.4888
+[Epoch 5 | Batch 74/157] Loss: 2.3351
+[Epoch 5 | Batch 75/157] Loss: 2.3614
+[Epoch 5 | Batch 76/157] Loss: 2.5449
+[Epoch 5 | Batch 77/157] Loss: 2.6273
+[Epoch 5 | Batch 78/157] Loss: 2.2992
+[Epoch 5 | Batch 79/157] Loss: 2.5271
+[Epoch 5 | Batch 80/157] Loss: 2.3767
+[Epoch 5 | Batch 81/157] Loss: 2.5947
+[Epoch 5 | Batch 82/157] Loss: 2.3246
+[Epoch 5 | Batch 83/157] Loss: 2.4291
+[Epoch 5 | Batch 84/157] Loss: 2.4548
+[Epoch 5 | Batch 85/157] Loss: 2.4000
+[Epoch 5 | Batch 86/157] Loss: 2.4057
+[Epoch 5 | Batch 87/157] Loss: 2.2910
+[Epoch 5 | Batch 88/157] Loss: 2.6080
+[Epoch 5 | Batch 89/157] Loss: 2.4275
+[Epoch 5 | Batch 90/157] Loss: 2.5429
+[Epoch 5 | Batch 91/157] Loss: 2.4404
+[Epoch 5 | Batch 92/157] Loss: 2.4552
+[Epoch 5 | Batch 93/157] Loss: 2.4562
+[Epoch 5 | Batch 94/157] Loss: 2.4534
+[Epoch 5 | Batch 95/157] Loss: 2.5307
+[Epoch 5 | Batch 96/157] Loss: 2.4271
+[Epoch 5 | Batch 97/157] Loss: 2.5579
+[Epoch 5 | Batch 98/157] Loss: 2.2935
+[Epoch 5 | Batch 99/157] Loss: 2.5557
+[Epoch 5 | Batch 100/157] Loss: 2.3427
+[Epoch 5 | Batch 101/157] Loss: 2.7432
+[Epoch 5 | Batch 102/157] Loss: 2.5505
+[Epoch 5 | Batch 103/157] Loss: 2.4884
+[Epoch 5 | Batch 104/157] Loss: 2.4074
+[Epoch 5 | Batch 105/157] Loss: 2.5172
+[Epoch 5 | Batch 106/157] Loss: 2.5113
+[Epoch 5 | Batch 107/157] Loss: 2.5280
+[Epoch 5 | Batch 108/157] Loss: 2.5172
+[Epoch 5 | Batch 109/157] Loss: 2.5322
+[Epoch 5 | Batch 110/157] Loss: 2.6385
+[Epoch 5 | Batch 111/157] Loss: 2.5586
+[Epoch 5 | Batch 112/157] Loss: 2.4355
+[Epoch 5 | Batch 113/157] Loss: 2.7574
+[Epoch 5 | Batch 114/157] Loss: 2.5523
+[Epoch 5 | Batch 115/157] Loss: 2.4225
+[Epoch 5 | Batch 116/157] Loss: 2.4824
+[Epoch 5 | Batch 117/157] Loss: 2.2932
+[Epoch 5 | Batch 118/157] Loss: 2.1899
+[Epoch 5 | Batch 119/157] Loss: 2.3270
+[Epoch 5 | Batch 120/157] Loss: 2.5306
+[Epoch 5 | Batch 121/157] Loss: 2.2943
+[Epoch 5 | Batch 122/157] Loss: 2.7207
+[Epoch 5 | Batch 123/157] Loss: 2.5242
+[Epoch 5 | Batch 124/157] Loss: 2.5424
+[Epoch 5 | Batch 125/157] Loss: 2.2745
+[Epoch 5 | Batch 126/157] Loss: 2.3666
+[Epoch 5 | Batch 127/157] Loss: 2.5234
+[Epoch 5 | Batch 128/157] Loss: 2.5207
+[Epoch 5 | Batch 129/157] Loss: 2.5238
+[Epoch 5 | Batch 130/157] Loss: 2.2847
+[Epoch 5 | Batch 131/157] Loss: 2.4673
+[Epoch 5 | Batch 132/157] Loss: 2.4120
+[Epoch 5 | Batch 133/157] Loss: 2.5628
+[Epoch 5 | Batch 134/157] Loss: 2.3043
+[Epoch 5 | Batch 135/157] Loss: 2.6578
+[Epoch 5 | Batch 136/157] Loss: 2.4901
+[Epoch 5 | Batch 137/157] Loss: 2.4220
+[Epoch 5 | Batch 138/157] Loss: 2.4408
+[Epoch 5 | Batch 139/157] Loss: 2.5115
+[Epoch 5 | Batch 140/157] Loss: 2.3602
+[Epoch 5 | Batch 141/157] Loss: 2.6218
+[Epoch 5 | Batch 142/157] Loss: 2.3175
+[Epoch 5 | Batch 143/157] Loss: 2.3371
+[Epoch 5 | Batch 144/157] Loss: 2.5357
+[Epoch 5 | Batch 145/157] Loss: 2.3728
+[Epoch 5 | Batch 146/157] Loss: 2.3706
+[Epoch 5 | Batch 147/157] Loss: 2.4360
+[Epoch 5 | Batch 148/157] Loss: 2.4250
+[Epoch 5 | Batch 149/157] Loss: 2.5916
+[Epoch 5 | Batch 150/157] Loss: 2.3001
+[Epoch 5 | Batch 151/157] Loss: 2.4777
+[Epoch 5 | Batch 152/157] Loss: 2.4893
+[Epoch 5 | Batch 153/157] Loss: 2.5979
+[Epoch 5 | Batch 154/157] Loss: 2.5185
+[Epoch 5 | Batch 155/157] Loss: 2.5350
+[Epoch 5 | Batch 156/157] Loss: 2.3502
+[Epoch 5 | Batch 157/157] Loss: 2.3251
+[Epoch 5 | validated Batch 1/16]
+[Epoch 5 | validated Batch 2/16]
+[Epoch 5 | validated Batch 3/16]
+[Epoch 5 | validated Batch 4/16]
+[Epoch 5 | validated Batch 5/16]
+[Epoch 5 | validated Batch 6/16]
+[Epoch 5 | validated Batch 7/16]
+[Epoch 5 | validated Batch 8/16]
+[Epoch 5 | validated Batch 9/16]
+[Epoch 5 | validated Batch 10/16]
+[Epoch 5 | validated Batch 11/16]
+[Epoch 5 | validated Batch 12/16]
+[Epoch 5 | validated Batch 13/16]
+[Epoch 5 | validated Batch 14/16]
+[Epoch 5 | validated Batch 15/16]
+[Epoch 5 | validated Batch 16/16]
+[Epoch 5
+epoch_time: 4.2
+loss: 2.4528303146362305
+loss: 2.4823412895202637
+acc_top1: 0.213
+acc_top5: 0.584
+]
+[Epoch 6 | Batch 1/157] Loss: 2.6395
+[Epoch 6 | Batch 2/157] Loss: 2.5211
+[Epoch 6 | Batch 3/157] Loss: 2.4132
+[Epoch 6 | Batch 4/157] Loss: 2.4626
+[Epoch 6 | Batch 5/157] Loss: 2.1664
+[Epoch 6 | Batch 6/157] Loss: 2.6241
+[Epoch 6 | Batch 7/157] Loss: 2.3763
+[Epoch 6 | Batch 8/157] Loss: 2.1444
+[Epoch 6 | Batch 9/157] Loss: 2.2297
+[Epoch 6 | Batch 10/157] Loss: 2.4172
+[Epoch 6 | Batch 11/157] Loss: 2.3316
+[Epoch 6 | Batch 12/157] Loss: 2.6200
+[Epoch 6 | Batch 13/157] Loss: 2.5855
+[Epoch 6 | Batch 14/157] Loss: 2.3848
+[Epoch 6 | Batch 15/157] Loss: 2.4564
+[Epoch 6 | Batch 16/157] Loss: 2.5108
+[Epoch 6 | Batch 17/157] Loss: 2.4188
+[Epoch 6 | Batch 18/157] Loss: 2.4777
+[Epoch 6 | Batch 19/157] Loss: 2.4657
+[Epoch 6 | Batch 20/157] Loss: 2.3562
+[Epoch 6 | Batch 21/157] Loss: 2.5370
+[Epoch 6 | Batch 22/157] Loss: 2.1607
+[Epoch 6 | Batch 23/157] Loss: 2.4534
+[Epoch 6 | Batch 24/157] Loss: 2.3306
+[Epoch 6 | Batch 25/157] Loss: 2.6523
+[Epoch 6 | Batch 26/157] Loss: 2.2041
+[Epoch 6 | Batch 27/157] Loss: 2.5330
+[Epoch 6 | Batch 28/157] Loss: 2.5073
+[Epoch 6 | Batch 29/157] Loss: 2.5060
+[Epoch 6 | Batch 30/157] Loss: 2.3041
+[Epoch 6 | Batch 31/157] Loss: 2.6289
+[Epoch 6 | Batch 32/157] Loss: 2.4933
+[Epoch 6 | Batch 33/157] Loss: 2.4322
+[Epoch 6 | Batch 34/157] Loss: 2.5598
+[Epoch 6 | Batch 35/157] Loss: 2.3886
+[Epoch 6 | Batch 36/157] Loss: 2.3327
+[Epoch 6 | Batch 37/157] Loss: 2.2889
+[Epoch 6 | Batch 38/157] Loss: 2.4165
+[Epoch 6 | Batch 39/157] Loss: 2.4721
+[Epoch 6 | Batch 40/157] Loss: 2.1822
+[Epoch 6 | Batch 41/157] Loss: 2.4121
+[Epoch 6 | Batch 42/157] Loss: 2.4655
+[Epoch 6 | Batch 43/157] Loss: 2.4456
+[Epoch 6 | Batch 44/157] Loss: 2.6327
+[Epoch 6 | Batch 45/157] Loss: 2.2180
+[Epoch 6 | Batch 46/157] Loss: 2.3923
+[Epoch 6 | Batch 47/157] Loss: 2.1866
+[Epoch 6 | Batch 48/157] Loss: 2.2709
+[Epoch 6 | Batch 49/157] Loss: 2.5149
+[Epoch 6 | Batch 50/157] Loss: 2.3685
+[Epoch 6 | Batch 51/157] Loss: 2.3391
+[Epoch 6 | Batch 52/157] Loss: 2.2869
+[Epoch 6 | Batch 53/157] Loss: 2.5692
+[Epoch 6 | Batch 54/157] Loss: 2.4454
+[Epoch 6 | Batch 55/157] Loss: 2.4895
+[Epoch 6 | Batch 56/157] Loss: 2.3238
+[Epoch 6 | Batch 57/157] Loss: 2.3967
+[Epoch 6 | Batch 58/157] Loss: 2.4480
+[Epoch 6 | Batch 59/157] Loss: 2.4323
+[Epoch 6 | Batch 60/157] Loss: 2.3723
+[Epoch 6 | Batch 61/157] Loss: 2.4922
+[Epoch 6 | Batch 62/157] Loss: 2.4343
+[Epoch 6 | Batch 63/157] Loss: 2.6228
+[Epoch 6 | Batch 64/157] Loss: 2.4158
+[Epoch 6 | Batch 65/157] Loss: 2.4118
+[Epoch 6 | Batch 66/157] Loss: 2.5265
+[Epoch 6 | Batch 67/157] Loss: 2.4751
+[Epoch 6 | Batch 68/157] Loss: 2.4815
+[Epoch 6 | Batch 69/157] Loss: 2.2665
+[Epoch 6 | Batch 70/157] Loss: 2.5272
+[Epoch 6 | Batch 71/157] Loss: 2.4518
+[Epoch 6 | Batch 72/157] Loss: 2.2204
+[Epoch 6 | Batch 73/157] Loss: 2.5299
+[Epoch 6 | Batch 74/157] Loss: 2.4503
+[Epoch 6 | Batch 75/157] Loss: 2.4122
+[Epoch 6 | Batch 76/157] Loss: 2.3766
+[Epoch 6 | Batch 77/157] Loss: 2.5290
+[Epoch 6 | Batch 78/157] Loss: 2.4768
+[Epoch 6 | Batch 79/157] Loss: 2.3067
+[Epoch 6 | Batch 80/157] Loss: 2.5371
+[Epoch 6 | Batch 81/157] Loss: 2.4046
+[Epoch 6 | Batch 82/157] Loss: 2.4278
+[Epoch 6 | Batch 83/157] Loss: 2.3537
+[Epoch 6 | Batch 84/157] Loss: 2.5658
+[Epoch 6 | Batch 85/157] Loss: 2.6478
+[Epoch 6 | Batch 86/157] Loss: 2.5473
+[Epoch 6 | Batch 87/157] Loss: 2.4114
+[Epoch 6 | Batch 88/157] Loss: 2.4802
+[Epoch 6 | Batch 89/157] Loss: 2.5015
+[Epoch 6 | Batch 90/157] Loss: 2.2073
+[Epoch 6 | Batch 91/157] Loss: 2.4801
+[Epoch 6 | Batch 92/157] Loss: 2.5361
+[Epoch 6 | Batch 93/157] Loss: 2.4031
+[Epoch 6 | Batch 94/157] Loss: 2.4419
+[Epoch 6 | Batch 95/157] Loss: 2.6378
+[Epoch 6 | Batch 96/157] Loss: 2.5603
+[Epoch 6 | Batch 97/157] Loss: 2.3700
+[Epoch 6 | Batch 98/157] Loss: 2.4347
+[Epoch 6 | Batch 99/157] Loss: 2.6771
+[Epoch 6 | Batch 100/157] Loss: 2.1695
+[Epoch 6 | Batch 101/157] Loss: 2.4489
+[Epoch 6 | Batch 102/157] Loss: 2.3550
+[Epoch 6 | Batch 103/157] Loss: 2.4904
+[Epoch 6 | Batch 104/157] Loss: 2.4296
+[Epoch 6 | Batch 105/157] Loss: 2.4819
+[Epoch 6 | Batch 106/157] Loss: 2.3168
+[Epoch 6 | Batch 107/157] Loss: 2.4458
+[Epoch 6 | Batch 108/157] Loss: 2.5133
+[Epoch 6 | Batch 109/157] Loss: 2.4880
+[Epoch 6 | Batch 110/157] Loss: 2.4634
+[Epoch 6 | Batch 111/157] Loss: 2.4583
+[Epoch 6 | Batch 112/157] Loss: 2.6535
+[Epoch 6 | Batch 113/157] Loss: 2.4651
+[Epoch 6 | Batch 114/157] Loss: 2.7253
+[Epoch 6 | Batch 115/157] Loss: 2.5405
+[Epoch 6 | Batch 116/157] Loss: 2.6148
+[Epoch 6 | Batch 117/157] Loss: 2.5591
+[Epoch 6 | Batch 118/157] Loss: 2.3751
+[Epoch 6 | Batch 119/157] Loss: 2.3378
+[Epoch 6 | Batch 120/157] Loss: 2.3801
+[Epoch 6 | Batch 121/157] Loss: 2.4235
+[Epoch 6 | Batch 122/157] Loss: 2.6224
+[Epoch 6 | Batch 123/157] Loss: 2.3553
+[Epoch 6 | Batch 124/157] Loss: 2.2642
+[Epoch 6 | Batch 125/157] Loss: 2.3068
+[Epoch 6 | Batch 126/157] Loss: 2.5129
+[Epoch 6 | Batch 127/157] Loss: 2.3878
+[Epoch 6 | Batch 128/157] Loss: 2.3534
+[Epoch 6 | Batch 129/157] Loss: 2.5137
+[Epoch 6 | Batch 130/157] Loss: 2.6260
+[Epoch 6 | Batch 131/157] Loss: 2.2575
+[Epoch 6 | Batch 132/157] Loss: 2.3246
+[Epoch 6 | Batch 133/157] Loss: 2.3951
+[Epoch 6 | Batch 134/157] Loss: 2.5181
+[Epoch 6 | Batch 135/157] Loss: 2.2965
+[Epoch 6 | Batch 136/157] Loss: 2.4289
+[Epoch 6 | Batch 137/157] Loss: 2.4824
+[Epoch 6 | Batch 138/157] Loss: 2.4834
+[Epoch 6 | Batch 139/157] Loss: 2.3683
+[Epoch 6 | Batch 140/157] Loss: 2.4728
+[Epoch 6 | Batch 141/157] Loss: 2.5316
+[Epoch 6 | Batch 142/157] Loss: 2.5005
+[Epoch 6 | Batch 143/157] Loss: 2.2243
+[Epoch 6 | Batch 144/157] Loss: 2.4872
+[Epoch 6 | Batch 145/157] Loss: 2.3952
+[Epoch 6 | Batch 146/157] Loss: 2.5618
+[Epoch 6 | Batch 147/157] Loss: 2.4788
+[Epoch 6 | Batch 148/157] Loss: 2.3373
+[Epoch 6 | Batch 149/157] Loss: 2.4009
+[Epoch 6 | Batch 150/157] Loss: 2.6660
+[Epoch 6 | Batch 151/157] Loss: 2.2364
+[Epoch 6 | Batch 152/157] Loss: 2.6402
+[Epoch 6 | Batch 153/157] Loss: 2.4126
+[Epoch 6 | Batch 154/157] Loss: 2.4162
+[Epoch 6 | Batch 155/157] Loss: 2.2984
+[Epoch 6 | Batch 156/157] Loss: 2.4090
+[Epoch 6 | Batch 157/157] Loss: 2.1973
+[Epoch 6 | validated Batch 1/16]
+[Epoch 6 | validated Batch 2/16]
+[Epoch 6 | validated Batch 3/16]
+[Epoch 6 | validated Batch 4/16]
+[Epoch 6 | validated Batch 5/16]
+[Epoch 6 | validated Batch 6/16]
+[Epoch 6 | validated Batch 7/16]
+[Epoch 6 | validated Batch 8/16]
+[Epoch 6 | validated Batch 9/16]
+[Epoch 6 | validated Batch 10/16]
+[Epoch 6 | validated Batch 11/16]
+[Epoch 6 | validated Batch 12/16]
+[Epoch 6 | validated Batch 13/16]
+[Epoch 6 | validated Batch 14/16]
+[Epoch 6 | validated Batch 15/16]
+[Epoch 6 | validated Batch 16/16]
+[Epoch 6
+epoch_time: 3.2
+loss: 2.4363598823547363
+loss: 2.419872522354126
+acc_top1: 0.228
+acc_top5: 0.618
+]
+[Epoch 7 | Batch 1/157] Loss: 2.4440
+[Epoch 7 | Batch 2/157] Loss: 2.3326
+[Epoch 7 | Batch 3/157] Loss: 2.3813
+[Epoch 7 | Batch 4/157] Loss: 2.4627
+[Epoch 7 | Batch 5/157] Loss: 2.4830
+[Epoch 7 | Batch 6/157] Loss: 2.3807
+[Epoch 7 | Batch 7/157] Loss: 2.3902
+[Epoch 7 | Batch 8/157] Loss: 2.5486
+[Epoch 7 | Batch 9/157] Loss: 2.4653
+[Epoch 7 | Batch 10/157] Loss: 2.4012
+[Epoch 7 | Batch 11/157] Loss: 2.1761
+[Epoch 7 | Batch 12/157] Loss: 2.5296
+[Epoch 7 | Batch 13/157] Loss: 2.5928
+[Epoch 7 | Batch 14/157] Loss: 2.4533
+[Epoch 7 | Batch 15/157] Loss: 2.7554
+[Epoch 7 | Batch 16/157] Loss: 2.1528
+[Epoch 7 | Batch 17/157] Loss: 2.2533
+[Epoch 7 | Batch 18/157] Loss: 2.6016
+[Epoch 7 | Batch 19/157] Loss: 2.3217
+[Epoch 7 | Batch 20/157] Loss: 2.4086
+[Epoch 7 | Batch 21/157] Loss: 2.5667
+[Epoch 7 | Batch 22/157] Loss: 2.3509
+[Epoch 7 | Batch 23/157] Loss: 2.4335
+[Epoch 7 | Batch 24/157] Loss: 2.3877
+[Epoch 7 | Batch 25/157] Loss: 2.4618
+[Epoch 7 | Batch 26/157] Loss: 2.2891
+[Epoch 7 | Batch 27/157] Loss: 2.4637
+[Epoch 7 | Batch 28/157] Loss: 2.3151
+[Epoch 7 | Batch 29/157] Loss: 2.5699
+[Epoch 7 | Batch 30/157] Loss: 2.4968
+[Epoch 7 | Batch 31/157] Loss: 2.4015
+[Epoch 7 | Batch 32/157] Loss: 2.4780
+[Epoch 7 | Batch 33/157] Loss: 2.1015
+[Epoch 7 | Batch 34/157] Loss: 2.3639
+[Epoch 7 | Batch 35/157] Loss: 2.2475
+[Epoch 7 | Batch 36/157] Loss: 2.3846
+[Epoch 7 | Batch 37/157] Loss: 2.3949
+[Epoch 7 | Batch 38/157] Loss: 2.3103
+[Epoch 7 | Batch 39/157] Loss: 2.7407
+[Epoch 7 | Batch 40/157] Loss: 2.4241
+[Epoch 7 | Batch 41/157] Loss: 2.3132
+[Epoch 7 | Batch 42/157] Loss: 2.4632
+[Epoch 7 | Batch 43/157] Loss: 2.2641
+[Epoch 7 | Batch 44/157] Loss: 2.2726
+[Epoch 7 | Batch 45/157] Loss: 2.2931
+[Epoch 7 | Batch 46/157] Loss: 2.4952
+[Epoch 7 | Batch 47/157] Loss: 2.4726
+[Epoch 7 | Batch 48/157] Loss: 2.5245
+[Epoch 7 | Batch 49/157] Loss: 2.6657
+[Epoch 7 | Batch 50/157] Loss: 2.3818
+[Epoch 7 | Batch 51/157] Loss: 2.4124
+[Epoch 7 | Batch 52/157] Loss: 2.6681
+[Epoch 7 | Batch 53/157] Loss: 2.1688
+[Epoch 7 | Batch 54/157] Loss: 2.3378
+[Epoch 7 | Batch 55/157] Loss: 2.6254
+[Epoch 7 | Batch 56/157] Loss: 2.2186
+[Epoch 7 | Batch 57/157] Loss: 2.4013
+[Epoch 7 | Batch 58/157] Loss: 2.4147
+[Epoch 7 | Batch 59/157] Loss: 2.4081
+[Epoch 7 | Batch 60/157] Loss: 2.5713
+[Epoch 7 | Batch 61/157] Loss: 2.3121
+[Epoch 7 | Batch 62/157] Loss: 2.2768
+[Epoch 7 | Batch 63/157] Loss: 2.3932
+[Epoch 7 | Batch 64/157] Loss: 2.3489
+[Epoch 7 | Batch 65/157] Loss: 2.4059
+[Epoch 7 | Batch 66/157] Loss: 2.4760
+[Epoch 7 | Batch 67/157] Loss: 2.3950
+[Epoch 7 | Batch 68/157] Loss: 2.6688
+[Epoch 7 | Batch 69/157] Loss: 2.4105
+[Epoch 7 | Batch 70/157] Loss: 2.5232
+[Epoch 7 | Batch 71/157] Loss: 2.4123
+[Epoch 7 | Batch 72/157] Loss: 2.4007
+[Epoch 7 | Batch 73/157] Loss: 2.5416
+[Epoch 7 | Batch 74/157] Loss: 2.3347
+[Epoch 7 | Batch 75/157] Loss: 2.5064
+[Epoch 7 | Batch 76/157] Loss: 2.3857
+[Epoch 7 | Batch 77/157] Loss: 2.5131
+[Epoch 7 | Batch 78/157] Loss: 2.2681
+[Epoch 7 | Batch 79/157] Loss: 2.3969
+[Epoch 7 | Batch 80/157] Loss: 2.3133
+[Epoch 7 | Batch 81/157] Loss: 2.5429
+[Epoch 7 | Batch 82/157] Loss: 2.3883
+[Epoch 7 | Batch 83/157] Loss: 2.4201
+[Epoch 7 | Batch 84/157] Loss: 2.6127
+[Epoch 7 | Batch 85/157] Loss: 2.5009
+[Epoch 7 | Batch 86/157] Loss: 2.5061
+[Epoch 7 | Batch 87/157] Loss: 2.1628
+[Epoch 7 | Batch 88/157] Loss: 2.1512
+[Epoch 7 | Batch 89/157] Loss: 2.2440
+[Epoch 7 | Batch 90/157] Loss: 2.1193
+[Epoch 7 | Batch 91/157] Loss: 2.4461
+[Epoch 7 | Batch 92/157] Loss: 2.4930
+[Epoch 7 | Batch 93/157] Loss: 2.3540
+[Epoch 7 | Batch 94/157] Loss: 2.2187
+[Epoch 7 | Batch 95/157] Loss: 2.1919
+[Epoch 7 | Batch 96/157] Loss: 2.4037
+[Epoch 7 | Batch 97/157] Loss: 2.3846
+[Epoch 7 | Batch 98/157] Loss: 2.2325
+[Epoch 7 | Batch 99/157] Loss: 2.4293
+[Epoch 7 | Batch 100/157] Loss: 2.5276
+[Epoch 7 | Batch 101/157] Loss: 2.4286
+[Epoch 7 | Batch 102/157] Loss: 2.0714
+[Epoch 7 | Batch 103/157] Loss: 2.5716
+[Epoch 7 | Batch 104/157] Loss: 2.3812
+[Epoch 7 | Batch 105/157] Loss: 2.3409
+[Epoch 7 | Batch 106/157] Loss: 2.5099
+[Epoch 7 | Batch 107/157] Loss: 2.5116
+[Epoch 7 | Batch 108/157] Loss: 2.4356
+[Epoch 7 | Batch 109/157] Loss: 2.6736
+[Epoch 7 | Batch 110/157] Loss: 2.5198
+[Epoch 7 | Batch 111/157] Loss: 2.2643
+[Epoch 7 | Batch 112/157] Loss: 2.3385
+[Epoch 7 | Batch 113/157] Loss: 2.4509
+[Epoch 7 | Batch 114/157] Loss: 2.3394
+[Epoch 7 | Batch 115/157] Loss: 2.3022
+[Epoch 7 | Batch 116/157] Loss: 2.3910
+[Epoch 7 | Batch 117/157] Loss: 2.3392
+[Epoch 7 | Batch 118/157] Loss: 2.3344
+[Epoch 7 | Batch 119/157] Loss: 2.4106
+[Epoch 7 | Batch 120/157] Loss: 2.6109
+[Epoch 7 | Batch 121/157] Loss: 2.6378
+[Epoch 7 | Batch 122/157] Loss: 2.4749
+[Epoch 7 | Batch 123/157] Loss: 2.5250
+[Epoch 7 | Batch 124/157] Loss: 2.3182
+[Epoch 7 | Batch 125/157] Loss: 2.4950
+[Epoch 7 | Batch 126/157] Loss: 2.5602
+[Epoch 7 | Batch 127/157] Loss: 2.3099
+[Epoch 7 | Batch 128/157] Loss: 2.7352
+[Epoch 7 | Batch 129/157] Loss: 2.5399
+[Epoch 7 | Batch 130/157] Loss: 2.2309
+[Epoch 7 | Batch 131/157] Loss: 2.3568
+[Epoch 7 | Batch 132/157] Loss: 2.4134
+[Epoch 7 | Batch 133/157] Loss: 2.4765
+[Epoch 7 | Batch 134/157] Loss: 2.3229
+[Epoch 7 | Batch 135/157] Loss: 2.5196
+[Epoch 7 | Batch 136/157] Loss: 2.2794
+[Epoch 7 | Batch 137/157] Loss: 2.2706
+[Epoch 7 | Batch 138/157] Loss: 2.2826
+[Epoch 7 | Batch 139/157] Loss: 2.4711
+[Epoch 7 | Batch 140/157] Loss: 2.4896
+[Epoch 7 | Batch 141/157] Loss: 2.6134
+[Epoch 7 | Batch 142/157] Loss: 2.4815
+[Epoch 7 | Batch 143/157] Loss: 2.4936
+[Epoch 7 | Batch 144/157] Loss: 2.5558
+[Epoch 7 | Batch 145/157] Loss: 2.4427
+[Epoch 7 | Batch 146/157] Loss: 2.3819
+[Epoch 7 | Batch 147/157] Loss: 2.2408
+[Epoch 7 | Batch 148/157] Loss: 2.2395
+[Epoch 7 | Batch 149/157] Loss: 2.2633
+[Epoch 7 | Batch 150/157] Loss: 2.4570
+[Epoch 7 | Batch 151/157] Loss: 2.3996
+[Epoch 7 | Batch 152/157] Loss: 2.5449
+[Epoch 7 | Batch 153/157] Loss: 2.4626
+[Epoch 7 | Batch 154/157] Loss: 2.5260
+[Epoch 7 | Batch 155/157] Loss: 2.4406
+[Epoch 7 | Batch 156/157] Loss: 2.3849
+[Epoch 7 | Batch 157/157] Loss: 2.2161
+[Epoch 7 | validated Batch 1/16]
+[Epoch 7 | validated Batch 2/16]
+[Epoch 7 | validated Batch 3/16]
+[Epoch 7 | validated Batch 4/16]
+[Epoch 7 | validated Batch 5/16]
+[Epoch 7 | validated Batch 6/16]
+[Epoch 7 | validated Batch 7/16]
+[Epoch 7 | validated Batch 8/16]
+[Epoch 7 | validated Batch 9/16]
+[Epoch 7 | validated Batch 10/16]
+[Epoch 7 | validated Batch 11/16]
+[Epoch 7 | validated Batch 12/16]
+[Epoch 7 | validated Batch 13/16]
+[Epoch 7 | validated Batch 14/16]
+[Epoch 7 | validated Batch 15/16]
+[Epoch 7 | validated Batch 16/16]
+[Epoch 7
+epoch_time: 3.3
+loss: 2.4135634899139404
+loss: 2.4374921321868896
+acc_top1: 0.234
+acc_top5: 0.608
+]
+[Epoch 8 | Batch 1/157] Loss: 2.2736
+[Epoch 8 | Batch 2/157] Loss: 2.4317
+[Epoch 8 | Batch 3/157] Loss: 2.1357
+[Epoch 8 | Batch 4/157] Loss: 2.4267
+[Epoch 8 | Batch 5/157] Loss: 2.4118
+[Epoch 8 | Batch 6/157] Loss: 2.4449
+[Epoch 8 | Batch 7/157] Loss: 2.4018
+[Epoch 8 | Batch 8/157] Loss: 2.4382
+[Epoch 8 | Batch 9/157] Loss: 2.3981
+[Epoch 8 | Batch 10/157] Loss: 2.4440
+[Epoch 8 | Batch 11/157] Loss: 2.4941
+[Epoch 8 | Batch 12/157] Loss: 2.3952
+[Epoch 8 | Batch 13/157] Loss: 2.3893
+[Epoch 8 | Batch 14/157] Loss: 2.2992
+[Epoch 8 | Batch 15/157] Loss: 2.3482
+[Epoch 8 | Batch 16/157] Loss: 2.3780
+[Epoch 8 | Batch 17/157] Loss: 2.3765
+[Epoch 8 | Batch 18/157] Loss: 2.2358
+[Epoch 8 | Batch 19/157] Loss: 2.3475
+[Epoch 8 | Batch 20/157] Loss: 2.5319
+[Epoch 8 | Batch 21/157] Loss: 2.1608
+[Epoch 8 | Batch 22/157] Loss: 2.6184
+[Epoch 8 | Batch 23/157] Loss: 2.4134
+[Epoch 8 | Batch 24/157] Loss: 2.4428
+[Epoch 8 | Batch 25/157] Loss: 2.2300
+[Epoch 8 | Batch 26/157] Loss: 2.4382
+[Epoch 8 | Batch 27/157] Loss: 2.3588
+[Epoch 8 | Batch 28/157] Loss: 2.4167
+[Epoch 8 | Batch 29/157] Loss: 2.3148
+[Epoch 8 | Batch 30/157] Loss: 2.4245
+[Epoch 8 | Batch 31/157] Loss: 2.6270
+[Epoch 8 | Batch 32/157] Loss: 2.5218
+[Epoch 8 | Batch 33/157] Loss: 2.6175
+[Epoch 8 | Batch 34/157] Loss: 2.3373
+[Epoch 8 | Batch 35/157] Loss: 2.3627
+[Epoch 8 | Batch 36/157] Loss: 2.6498
+[Epoch 8 | Batch 37/157] Loss: 2.4213
+[Epoch 8 | Batch 38/157] Loss: 2.4645
+[Epoch 8 | Batch 39/157] Loss: 2.5613
+[Epoch 8 | Batch 40/157] Loss: 2.3294
+[Epoch 8 | Batch 41/157] Loss: 2.3657
+[Epoch 8 | Batch 42/157] Loss: 2.6056
+[Epoch 8 | Batch 43/157] Loss: 2.3056
+[Epoch 8 | Batch 44/157] Loss: 2.4388
+[Epoch 8 | Batch 45/157] Loss: 2.4346
+[Epoch 8 | Batch 46/157] Loss: 2.4361
+[Epoch 8 | Batch 47/157] Loss: 2.2040
+[Epoch 8 | Batch 48/157] Loss: 2.4379
+[Epoch 8 | Batch 49/157] Loss: 2.3575
+[Epoch 8 | Batch 50/157] Loss: 2.3725
+[Epoch 8 | Batch 51/157] Loss: 2.5579
+[Epoch 8 | Batch 52/157] Loss: 2.6397
+[Epoch 8 | Batch 53/157] Loss: 2.3823
+[Epoch 8 | Batch 54/157] Loss: 2.3032
+[Epoch 8 | Batch 55/157] Loss: 2.3725
+[Epoch 8 | Batch 56/157] Loss: 2.6451
+[Epoch 8 | Batch 57/157] Loss: 2.4122
+[Epoch 8 | Batch 58/157] Loss: 2.2947
+[Epoch 8 | Batch 59/157] Loss: 2.4821
+[Epoch 8 | Batch 60/157] Loss: 2.4084
+[Epoch 8 | Batch 61/157] Loss: 2.4237
+[Epoch 8 | Batch 62/157] Loss: 2.5212
+[Epoch 8 | Batch 63/157] Loss: 2.6251
+[Epoch 8 | Batch 64/157] Loss: 2.7890
+[Epoch 8 | Batch 65/157] Loss: 2.3272
+[Epoch 8 | Batch 66/157] Loss: 2.4431
+[Epoch 8 | Batch 67/157] Loss: 2.5986
+[Epoch 8 | Batch 68/157] Loss: 2.5382
+[Epoch 8 | Batch 69/157] Loss: 2.2674
+[Epoch 8 | Batch 70/157] Loss: 2.4676
+[Epoch 8 | Batch 71/157] Loss: 2.3509
+[Epoch 8 | Batch 72/157] Loss: 2.3630
+[Epoch 8 | Batch 73/157] Loss: 2.4626
+[Epoch 8 | Batch 74/157] Loss: 2.3947
+[Epoch 8 | Batch 75/157] Loss: 2.4377
+[Epoch 8 | Batch 76/157] Loss: 2.4598
+[Epoch 8 | Batch 77/157] Loss: 2.2151
+[Epoch 8 | Batch 78/157] Loss: 2.2524
+[Epoch 8 | Batch 79/157] Loss: 2.2729
+[Epoch 8 | Batch 80/157] Loss: 2.5751
+[Epoch 8 | Batch 81/157] Loss: 2.4012
+[Epoch 8 | Batch 82/157] Loss: 2.4843
+[Epoch 8 | Batch 83/157] Loss: 2.1979
+[Epoch 8 | Batch 84/157] Loss: 2.2537
+[Epoch 8 | Batch 85/157] Loss: 2.4054
+[Epoch 8 | Batch 86/157] Loss: 2.3652
+[Epoch 8 | Batch 87/157] Loss: 2.3795
+[Epoch 8 | Batch 88/157] Loss: 2.3250
+[Epoch 8 | Batch 89/157] Loss: 2.3680
+[Epoch 8 | Batch 90/157] Loss: 2.2851
+[Epoch 8 | Batch 91/157] Loss: 2.1849
+[Epoch 8 | Batch 92/157] Loss: 2.3084
+[Epoch 8 | Batch 93/157] Loss: 2.2468
+[Epoch 8 | Batch 94/157] Loss: 2.4603
+[Epoch 8 | Batch 95/157] Loss: 2.5668
+[Epoch 8 | Batch 96/157] Loss: 2.3376
+[Epoch 8 | Batch 97/157] Loss: 2.2944
+[Epoch 8 | Batch 98/157] Loss: 2.4477
+[Epoch 8 | Batch 99/157] Loss: 2.3002
+[Epoch 8 | Batch 100/157] Loss: 2.7108
+[Epoch 8 | Batch 101/157] Loss: 2.1070
+[Epoch 8 | Batch 102/157] Loss: 2.4539
+[Epoch 8 | Batch 103/157] Loss: 2.3704
+[Epoch 8 | Batch 104/157] Loss: 2.2800
+[Epoch 8 | Batch 105/157] Loss: 2.5704
+[Epoch 8 | Batch 106/157] Loss: 2.3165
+[Epoch 8 | Batch 107/157] Loss: 2.3745
+[Epoch 8 | Batch 108/157] Loss: 2.4693
+[Epoch 8 | Batch 109/157] Loss: 2.4928
+[Epoch 8 | Batch 110/157] Loss: 2.4778
+[Epoch 8 | Batch 111/157] Loss: 2.3437
+[Epoch 8 | Batch 112/157] Loss: 2.3008
+[Epoch 8 | Batch 113/157] Loss: 2.3850
+[Epoch 8 | Batch 114/157] Loss: 2.2890
+[Epoch 8 | Batch 115/157] Loss: 2.5852
+[Epoch 8 | Batch 116/157] Loss: 2.4476
+[Epoch 8 | Batch 117/157] Loss: 2.3850
+[Epoch 8 | Batch 118/157] Loss: 2.5367
+[Epoch 8 | Batch 119/157] Loss: 2.2890
+[Epoch 8 | Batch 120/157] Loss: 2.2675
+[Epoch 8 | Batch 121/157] Loss: 2.3829
+[Epoch 8 | Batch 122/157] Loss: 2.2910
+[Epoch 8 | Batch 123/157] Loss: 2.6968
+[Epoch 8 | Batch 124/157] Loss: 2.3364
+[Epoch 8 | Batch 125/157] Loss: 2.1614
+[Epoch 8 | Batch 126/157] Loss: 2.3974
+[Epoch 8 | Batch 127/157] Loss: 2.4342
+[Epoch 8 | Batch 128/157] Loss: 2.5752
+[Epoch 8 | Batch 129/157] Loss: 2.3785
+[Epoch 8 | Batch 130/157] Loss: 2.1685
+[Epoch 8 | Batch 131/157] Loss: 2.3247
+[Epoch 8 | Batch 132/157] Loss: 2.4619
+[Epoch 8 | Batch 133/157] Loss: 2.3596
+[Epoch 8 | Batch 134/157] Loss: 2.6463
+[Epoch 8 | Batch 135/157] Loss: 2.3797
+[Epoch 8 | Batch 136/157] Loss: 2.1827
+[Epoch 8 | Batch 137/157] Loss: 2.3298
+[Epoch 8 | Batch 138/157] Loss: 2.2069
+[Epoch 8 | Batch 139/157] Loss: 2.5232
+[Epoch 8 | Batch 140/157] Loss: 2.4612
+[Epoch 8 | Batch 141/157] Loss: 2.3095
+[Epoch 8 | Batch 142/157] Loss: 2.4212
+[Epoch 8 | Batch 143/157] Loss: 2.5293
+[Epoch 8 | Batch 144/157] Loss: 2.3175
+[Epoch 8 | Batch 145/157] Loss: 2.3601
+[Epoch 8 | Batch 146/157] Loss: 2.3102
+[Epoch 8 | Batch 147/157] Loss: 2.4182
+[Epoch 8 | Batch 148/157] Loss: 2.3029
+[Epoch 8 | Batch 149/157] Loss: 2.3436
+[Epoch 8 | Batch 150/157] Loss: 2.5581
+[Epoch 8 | Batch 151/157] Loss: 2.7881
+[Epoch 8 | Batch 152/157] Loss: 2.4386
+[Epoch 8 | Batch 153/157] Loss: 2.5023
+[Epoch 8 | Batch 154/157] Loss: 2.6209
+[Epoch 8 | Batch 155/157] Loss: 2.3047
+[Epoch 8 | Batch 156/157] Loss: 2.1757
+[Epoch 8 | Batch 157/157] Loss: 1.8384
+[Epoch 8 | validated Batch 1/16]
+[Epoch 8 | validated Batch 2/16]
+[Epoch 8 | validated Batch 3/16]
+[Epoch 8 | validated Batch 4/16]
+[Epoch 8 | validated Batch 5/16]
+[Epoch 8 | validated Batch 6/16]
+[Epoch 8 | validated Batch 7/16]
+[Epoch 8 | validated Batch 8/16]
+[Epoch 8 | validated Batch 9/16]
+[Epoch 8 | validated Batch 10/16]
+[Epoch 8 | validated Batch 11/16]
+[Epoch 8 | validated Batch 12/16]
+[Epoch 8 | validated Batch 13/16]
+[Epoch 8 | validated Batch 14/16]
+[Epoch 8 | validated Batch 15/16]
+[Epoch 8 | validated Batch 16/16]
+[Epoch 8
+epoch_time: 4.2
+loss: 2.403069019317627
+loss: 2.405836343765259
+acc_top1: 0.254
+acc_top5: 0.618
+]
+[Epoch 9 | Batch 1/157] Loss: 2.1718
+[Epoch 9 | Batch 2/157] Loss: 2.5058
+[Epoch 9 | Batch 3/157] Loss: 2.4571
+[Epoch 9 | Batch 4/157] Loss: 2.3910
+[Epoch 9 | Batch 5/157] Loss: 2.5642
+[Epoch 9 | Batch 6/157] Loss: 2.5107
+[Epoch 9 | Batch 7/157] Loss: 2.3353
+[Epoch 9 | Batch 8/157] Loss: 2.3911
+[Epoch 9 | Batch 9/157] Loss: 2.4207
+[Epoch 9 | Batch 10/157] Loss: 2.4125
+[Epoch 9 | Batch 11/157] Loss: 2.3677
+[Epoch 9 | Batch 12/157] Loss: 2.3153
+[Epoch 9 | Batch 13/157] Loss: 2.3048
+[Epoch 9 | Batch 14/157] Loss: 2.5030
+[Epoch 9 | Batch 15/157] Loss: 2.2135
+[Epoch 9 | Batch 16/157] Loss: 2.5802
+[Epoch 9 | Batch 17/157] Loss: 2.3669
+[Epoch 9 | Batch 18/157] Loss: 2.3852
+[Epoch 9 | Batch 19/157] Loss: 2.4229
+[Epoch 9 | Batch 20/157] Loss: 2.4096
+[Epoch 9 | Batch 21/157] Loss: 2.6247
+[Epoch 9 | Batch 22/157] Loss: 2.4247
+[Epoch 9 | Batch 23/157] Loss: 2.4165
+[Epoch 9 | Batch 24/157] Loss: 2.3690
+[Epoch 9 | Batch 25/157] Loss: 2.2232
+[Epoch 9 | Batch 26/157] Loss: 2.5209
+[Epoch 9 | Batch 27/157] Loss: 2.5605
+[Epoch 9 | Batch 28/157] Loss: 2.2048
+[Epoch 9 | Batch 29/157] Loss: 2.2708
+[Epoch 9 | Batch 30/157] Loss: 2.3006
+[Epoch 9 | Batch 31/157] Loss: 2.5354
+[Epoch 9 | Batch 32/157] Loss: 2.1734
+[Epoch 9 | Batch 33/157] Loss: 2.4222
+[Epoch 9 | Batch 34/157] Loss: 2.4274
+[Epoch 9 | Batch 35/157] Loss: 2.4481
+[Epoch 9 | Batch 36/157] Loss: 2.4381
+[Epoch 9 | Batch 37/157] Loss: 2.3570
+[Epoch 9 | Batch 38/157] Loss: 2.7406
+[Epoch 9 | Batch 39/157] Loss: 2.5465
+[Epoch 9 | Batch 40/157] Loss: 2.4081
+[Epoch 9 | Batch 41/157] Loss: 2.3001
+[Epoch 9 | Batch 42/157] Loss: 2.3805
+[Epoch 9 | Batch 43/157] Loss: 2.1020
+[Epoch 9 | Batch 44/157] Loss: 2.5068
+[Epoch 9 | Batch 45/157] Loss: 2.5007
+[Epoch 9 | Batch 46/157] Loss: 2.2291
+[Epoch 9 | Batch 47/157] Loss: 2.3426
+[Epoch 9 | Batch 48/157] Loss: 2.3631
+[Epoch 9 | Batch 49/157] Loss: 2.5028
+[Epoch 9 | Batch 50/157] Loss: 2.4041
+[Epoch 9 | Batch 51/157] Loss: 2.4698
+[Epoch 9 | Batch 52/157] Loss: 2.2729
+[Epoch 9 | Batch 53/157] Loss: 2.4457
+[Epoch 9 | Batch 54/157] Loss: 2.2717
+[Epoch 9 | Batch 55/157] Loss: 2.4281
+[Epoch 9 | Batch 56/157] Loss: 2.5500
+[Epoch 9 | Batch 57/157] Loss: 2.4484
+[Epoch 9 | Batch 58/157] Loss: 2.1861
+[Epoch 9 | Batch 59/157] Loss: 2.5231
+[Epoch 9 | Batch 60/157] Loss: 2.1398
+[Epoch 9 | Batch 61/157] Loss: 2.4463
+[Epoch 9 | Batch 62/157] Loss: 2.2516
+[Epoch 9 | Batch 63/157] Loss: 2.3244
+[Epoch 9 | Batch 64/157] Loss: 2.4493
+[Epoch 9 | Batch 65/157] Loss: 2.3737
+[Epoch 9 | Batch 66/157] Loss: 2.2474
+[Epoch 9 | Batch 67/157] Loss: 2.2685
+[Epoch 9 | Batch 68/157] Loss: 2.2595
+[Epoch 9 | Batch 69/157] Loss: 2.3447
+[Epoch 9 | Batch 70/157] Loss: 2.4161
+[Epoch 9 | Batch 71/157] Loss: 2.4580
+[Epoch 9 | Batch 72/157] Loss: 2.4502
+[Epoch 9 | Batch 73/157] Loss: 2.3242
+[Epoch 9 | Batch 74/157] Loss: 2.5176
+[Epoch 9 | Batch 75/157] Loss: 2.2412
+[Epoch 9 | Batch 76/157] Loss: 2.4480
+[Epoch 9 | Batch 77/157] Loss: 2.3736
+[Epoch 9 | Batch 78/157] Loss: 2.3995
+[Epoch 9 | Batch 79/157] Loss: 2.3838
+[Epoch 9 | Batch 80/157] Loss: 2.1361
+[Epoch 9 | Batch 81/157] Loss: 2.3768
+[Epoch 9 | Batch 82/157] Loss: 2.2815
+[Epoch 9 | Batch 83/157] Loss: 2.3899
+[Epoch 9 | Batch 84/157] Loss: 2.6814
+[Epoch 9 | Batch 85/157] Loss: 2.5093
+[Epoch 9 | Batch 86/157] Loss: 2.1094
+[Epoch 9 | Batch 87/157] Loss: 2.3005
+[Epoch 9 | Batch 88/157] Loss: 2.2391
+[Epoch 9 | Batch 89/157] Loss: 2.2871
+[Epoch 9 | Batch 90/157] Loss: 2.3515
+[Epoch 9 | Batch 91/157] Loss: 2.4246
+[Epoch 9 | Batch 92/157] Loss: 2.3715
+[Epoch 9 | Batch 93/157] Loss: 2.5143
+[Epoch 9 | Batch 94/157] Loss: 2.3834
+[Epoch 9 | Batch 95/157] Loss: 2.4483
+[Epoch 9 | Batch 96/157] Loss: 2.3571
+[Epoch 9 | Batch 97/157] Loss: 2.4130
+[Epoch 9 | Batch 98/157] Loss: 2.4953
+[Epoch 9 | Batch 99/157] Loss: 2.3007
+[Epoch 9 | Batch 100/157] Loss: 2.3416
+[Epoch 9 | Batch 101/157] Loss: 2.2520
+[Epoch 9 | Batch 102/157] Loss: 2.1150
+[Epoch 9 | Batch 103/157] Loss: 2.4406
+[Epoch 9 | Batch 104/157] Loss: 2.5801
+[Epoch 9 | Batch 105/157] Loss: 2.2798
+[Epoch 9 | Batch 106/157] Loss: 2.3911
+[Epoch 9 | Batch 107/157] Loss: 2.1624
+[Epoch 9 | Batch 108/157] Loss: 2.3712
+[Epoch 9 | Batch 109/157] Loss: 2.3356
+[Epoch 9 | Batch 110/157] Loss: 2.3449
+[Epoch 9 | Batch 111/157] Loss: 2.3536
+[Epoch 9 | Batch 112/157] Loss: 2.4077
+[Epoch 9 | Batch 113/157] Loss: 2.3739
+[Epoch 9 | Batch 114/157] Loss: 2.5867
+[Epoch 9 | Batch 115/157] Loss: 2.4157
+[Epoch 9 | Batch 116/157] Loss: 2.3754
+[Epoch 9 | Batch 117/157] Loss: 2.1963
+[Epoch 9 | Batch 118/157] Loss: 2.5524
+[Epoch 9 | Batch 119/157] Loss: 2.2100
+[Epoch 9 | Batch 120/157] Loss: 2.3287
+[Epoch 9 | Batch 121/157] Loss: 2.3802
+[Epoch 9 | Batch 122/157] Loss: 2.3586
+[Epoch 9 | Batch 123/157] Loss: 2.2969
+[Epoch 9 | Batch 124/157] Loss: 2.4368
+[Epoch 9 | Batch 125/157] Loss: 2.3173
+[Epoch 9 | Batch 126/157] Loss: 2.4011
+[Epoch 9 | Batch 127/157] Loss: 2.7546
+[Epoch 9 | Batch 128/157] Loss: 2.4579
+[Epoch 9 | Batch 129/157] Loss: 2.4814
+[Epoch 9 | Batch 130/157] Loss: 2.3958
+[Epoch 9 | Batch 131/157] Loss: 2.5890
+[Epoch 9 | Batch 132/157] Loss: 2.2688
+[Epoch 9 | Batch 133/157] Loss: 2.1921
+[Epoch 9 | Batch 134/157] Loss: 2.1728
+[Epoch 9 | Batch 135/157] Loss: 2.3753
+[Epoch 9 | Batch 136/157] Loss: 2.2422
+[Epoch 9 | Batch 137/157] Loss: 2.2586
+[Epoch 9 | Batch 138/157] Loss: 2.4689
+[Epoch 9 | Batch 139/157] Loss: 2.5653
+[Epoch 9 | Batch 140/157] Loss: 2.4979
+[Epoch 9 | Batch 141/157] Loss: 2.6132
+[Epoch 9 | Batch 142/157] Loss: 2.2876
+[Epoch 9 | Batch 143/157] Loss: 2.3878
+[Epoch 9 | Batch 144/157] Loss: 2.4850
+[Epoch 9 | Batch 145/157] Loss: 2.4206
+[Epoch 9 | Batch 146/157] Loss: 2.4232
+[Epoch 9 | Batch 147/157] Loss: 2.3604
+[Epoch 9 | Batch 148/157] Loss: 2.2743
+[Epoch 9 | Batch 149/157] Loss: 2.3173
+[Epoch 9 | Batch 150/157] Loss: 2.4782
+[Epoch 9 | Batch 151/157] Loss: 2.2596
+[Epoch 9 | Batch 152/157] Loss: 2.3380
+[Epoch 9 | Batch 153/157] Loss: 2.2207
+[Epoch 9 | Batch 154/157] Loss: 2.4360
+[Epoch 9 | Batch 155/157] Loss: 2.3973
+[Epoch 9 | Batch 156/157] Loss: 2.2197
+[Epoch 9 | Batch 157/157] Loss: 2.4294
+[Epoch 9 | validated Batch 1/16]
+[Epoch 9 | validated Batch 2/16]
+[Epoch 9 | validated Batch 3/16]
+[Epoch 9 | validated Batch 4/16]
+[Epoch 9 | validated Batch 5/16]
+[Epoch 9 | validated Batch 6/16]
+[Epoch 9 | validated Batch 7/16]
+[Epoch 9 | validated Batch 8/16]
+[Epoch 9 | validated Batch 9/16]
+[Epoch 9 | validated Batch 10/16]
+[Epoch 9 | validated Batch 11/16]
+[Epoch 9 | validated Batch 12/16]
+[Epoch 9 | validated Batch 13/16]
+[Epoch 9 | validated Batch 14/16]
+[Epoch 9 | validated Batch 15/16]
+[Epoch 9 | validated Batch 16/16]
+[Epoch 9
+epoch_time: 4.3
+loss: 2.380866289138794
+loss: 2.402644157409668
+acc_top1: 0.248
+acc_top5: 0.629
+]
+[Epoch 10 | Batch 1/157] Loss: 2.2377
+[Epoch 10 | Batch 2/157] Loss: 2.3606
+[Epoch 10 | Batch 3/157] Loss: 2.5797
+[Epoch 10 | Batch 4/157] Loss: 2.3636
+[Epoch 10 | Batch 5/157] Loss: 2.4142
+[Epoch 10 | Batch 6/157] Loss: 2.3972
+[Epoch 10 | Batch 7/157] Loss: 2.2387
+[Epoch 10 | Batch 8/157] Loss: 2.4046
+[Epoch 10 | Batch 9/157] Loss: 2.2965
+[Epoch 10 | Batch 10/157] Loss: 2.4437
+[Epoch 10 | Batch 11/157] Loss: 2.6495
+[Epoch 10 | Batch 12/157] Loss: 2.1889
+[Epoch 10 | Batch 13/157] Loss: 2.4553
+[Epoch 10 | Batch 14/157] Loss: 2.2802
+[Epoch 10 | Batch 15/157] Loss: 2.5320
+[Epoch 10 | Batch 16/157] Loss: 2.2750
+[Epoch 10 | Batch 17/157] Loss: 2.4056
+[Epoch 10 | Batch 18/157] Loss: 2.6133
+[Epoch 10 | Batch 19/157] Loss: 2.4377
+[Epoch 10 | Batch 20/157] Loss: 2.5407
+[Epoch 10 | Batch 21/157] Loss: 2.4853
+[Epoch 10 | Batch 22/157] Loss: 2.4388
+[Epoch 10 | Batch 23/157] Loss: 2.4333
+[Epoch 10 | Batch 24/157] Loss: 2.3924
+[Epoch 10 | Batch 25/157] Loss: 2.4200
+[Epoch 10 | Batch 26/157] Loss: 2.3972
+[Epoch 10 | Batch 27/157] Loss: 2.3794
+[Epoch 10 | Batch 28/157] Loss: 2.3304
+[Epoch 10 | Batch 29/157] Loss: 2.1522
+[Epoch 10 | Batch 30/157] Loss: 2.4323
+[Epoch 10 | Batch 31/157] Loss: 2.3865
+[Epoch 10 | Batch 32/157] Loss: 2.1894
+[Epoch 10 | Batch 33/157] Loss: 2.5017
+[Epoch 10 | Batch 34/157] Loss: 2.2520
+[Epoch 10 | Batch 35/157] Loss: 2.2972
+[Epoch 10 | Batch 36/157] Loss: 2.5027
+[Epoch 10 | Batch 37/157] Loss: 2.4165
+[Epoch 10 | Batch 38/157] Loss: 2.4661
+[Epoch 10 | Batch 39/157] Loss: 2.0587
+[Epoch 10 | Batch 40/157] Loss: 2.1623
+[Epoch 10 | Batch 41/157] Loss: 2.4015
+[Epoch 10 | Batch 42/157] Loss: 2.2579
+[Epoch 10 | Batch 43/157] Loss: 2.4941
+[Epoch 10 | Batch 44/157] Loss: 2.3753
+[Epoch 10 | Batch 45/157] Loss: 2.5771
+[Epoch 10 | Batch 46/157] Loss: 2.3404
+[Epoch 10 | Batch 47/157] Loss: 2.4438
+[Epoch 10 | Batch 48/157] Loss: 2.3124
+[Epoch 10 | Batch 49/157] Loss: 2.4940
+[Epoch 10 | Batch 50/157] Loss: 2.6022
+[Epoch 10 | Batch 51/157] Loss: 2.3921
+[Epoch 10 | Batch 52/157] Loss: 2.2813
+[Epoch 10 | Batch 53/157] Loss: 2.3876
+[Epoch 10 | Batch 54/157] Loss: 2.5483
+[Epoch 10 | Batch 55/157] Loss: 2.5328
+[Epoch 10 | Batch 56/157] Loss: 2.2489
+[Epoch 10 | Batch 57/157] Loss: 2.4191
+[Epoch 10 | Batch 58/157] Loss: 2.4444
+[Epoch 10 | Batch 59/157] Loss: 2.1655
+[Epoch 10 | Batch 60/157] Loss: 2.3664
+[Epoch 10 | Batch 61/157] Loss: 2.1814
+[Epoch 10 | Batch 62/157] Loss: 2.2049
+[Epoch 10 | Batch 63/157] Loss: 2.2592
+[Epoch 10 | Batch 64/157] Loss: 2.4634
+[Epoch 10 | Batch 65/157] Loss: 2.0577
+[Epoch 10 | Batch 66/157] Loss: 2.7088
+[Epoch 10 | Batch 67/157] Loss: 2.3121
+[Epoch 10 | Batch 68/157] Loss: 2.2470
+[Epoch 10 | Batch 69/157] Loss: 2.4359
+[Epoch 10 | Batch 70/157] Loss: 2.1417
+[Epoch 10 | Batch 71/157] Loss: 2.2591
+[Epoch 10 | Batch 72/157] Loss: 2.6989
+[Epoch 10 | Batch 73/157] Loss: 2.3195
+[Epoch 10 | Batch 74/157] Loss: 2.3408
+[Epoch 10 | Batch 75/157] Loss: 2.4999
+[Epoch 10 | Batch 76/157] Loss: 2.1178
+[Epoch 10 | Batch 77/157] Loss: 2.6083
+[Epoch 10 | Batch 78/157] Loss: 2.5222
+[Epoch 10 | Batch 79/157] Loss: 2.3998
+[Epoch 10 | Batch 80/157] Loss: 2.5554
+[Epoch 10 | Batch 81/157] Loss: 2.3230
+[Epoch 10 | Batch 82/157] Loss: 2.3415
+[Epoch 10 | Batch 83/157] Loss: 2.3790
+[Epoch 10 | Batch 84/157] Loss: 2.2952
+[Epoch 10 | Batch 85/157] Loss: 2.1545
+[Epoch 10 | Batch 86/157] Loss: 2.5543
+[Epoch 10 | Batch 87/157] Loss: 2.4872
+[Epoch 10 | Batch 88/157] Loss: 2.6343
+[Epoch 10 | Batch 89/157] Loss: 2.1287
+[Epoch 10 | Batch 90/157] Loss: 2.3965
+[Epoch 10 | Batch 91/157] Loss: 2.4816
+[Epoch 10 | Batch 92/157] Loss: 2.4717
+[Epoch 10 | Batch 93/157] Loss: 2.3844
+[Epoch 10 | Batch 94/157] Loss: 2.4011
+[Epoch 10 | Batch 95/157] Loss: 2.3812
+[Epoch 10 | Batch 96/157] Loss: 2.3437
+[Epoch 10 | Batch 97/157] Loss: 2.3467
+[Epoch 10 | Batch 98/157] Loss: 2.2951
+[Epoch 10 | Batch 99/157] Loss: 2.5405
+[Epoch 10 | Batch 100/157] Loss: 2.6148
+[Epoch 10 | Batch 101/157] Loss: 2.5656
+[Epoch 10 | Batch 102/157] Loss: 2.3583
+[Epoch 10 | Batch 103/157] Loss: 2.4299
+[Epoch 10 | Batch 104/157] Loss: 2.3672
+[Epoch 10 | Batch 105/157] Loss: 2.2935
+[Epoch 10 | Batch 106/157] Loss: 2.4577
+[Epoch 10 | Batch 107/157] Loss: 2.4221
+[Epoch 10 | Batch 108/157] Loss: 2.4512
+[Epoch 10 | Batch 109/157] Loss: 2.5046
+[Epoch 10 | Batch 110/157] Loss: 2.3415
+[Epoch 10 | Batch 111/157] Loss: 2.3357
+[Epoch 10 | Batch 112/157] Loss: 2.4214
+[Epoch 10 | Batch 113/157] Loss: 2.3939
+[Epoch 10 | Batch 114/157] Loss: 2.4099
+[Epoch 10 | Batch 115/157] Loss: 2.2155
+[Epoch 10 | Batch 116/157] Loss: 2.3805
+[Epoch 10 | Batch 117/157] Loss: 2.3758
+[Epoch 10 | Batch 118/157] Loss: 2.2187
+[Epoch 10 | Batch 119/157] Loss: 2.2216
+[Epoch 10 | Batch 120/157] Loss: 2.3046
+[Epoch 10 | Batch 121/157] Loss: 2.5772
+[Epoch 10 | Batch 122/157] Loss: 2.2541
+[Epoch 10 | Batch 123/157] Loss: 2.0678
+[Epoch 10 | Batch 124/157] Loss: 2.2795
+[Epoch 10 | Batch 125/157] Loss: 2.2818
+[Epoch 10 | Batch 126/157] Loss: 2.4106
+[Epoch 10 | Batch 127/157] Loss: 2.2258
+[Epoch 10 | Batch 128/157] Loss: 2.2195
+[Epoch 10 | Batch 129/157] Loss: 2.1971
+[Epoch 10 | Batch 130/157] Loss: 2.5594
+[Epoch 10 | Batch 131/157] Loss: 2.4164
+[Epoch 10 | Batch 132/157] Loss: 2.2075
+[Epoch 10 | Batch 133/157] Loss: 2.4676
+[Epoch 10 | Batch 134/157] Loss: 2.2720
+[Epoch 10 | Batch 135/157] Loss: 2.3320
+[Epoch 10 | Batch 136/157] Loss: 2.3648
+[Epoch 10 | Batch 137/157] Loss: 2.4353
+[Epoch 10 | Batch 138/157] Loss: 2.2487
+[Epoch 10 | Batch 139/157] Loss: 2.5560
+[Epoch 10 | Batch 140/157] Loss: 2.5088
+[Epoch 10 | Batch 141/157] Loss: 2.3547
+[Epoch 10 | Batch 142/157] Loss: 2.5875
+[Epoch 10 | Batch 143/157] Loss: 2.1543
+[Epoch 10 | Batch 144/157] Loss: 2.4946
+[Epoch 10 | Batch 145/157] Loss: 2.3679
+[Epoch 10 | Batch 146/157] Loss: 2.4862
+[Epoch 10 | Batch 147/157] Loss: 2.3847
+[Epoch 10 | Batch 148/157] Loss: 2.3896
+[Epoch 10 | Batch 149/157] Loss: 2.3255
+[Epoch 10 | Batch 150/157] Loss: 2.3222
+[Epoch 10 | Batch 151/157] Loss: 2.0611
+[Epoch 10 | Batch 152/157] Loss: 2.2371
+[Epoch 10 | Batch 153/157] Loss: 2.6076
+[Epoch 10 | Batch 154/157] Loss: 2.4703
+[Epoch 10 | Batch 155/157] Loss: 2.1929
+[Epoch 10 | Batch 156/157] Loss: 2.2652
+[Epoch 10 | Batch 157/157] Loss: 1.9438
+[Epoch 10 | validated Batch 1/16]
+[Epoch 10 | validated Batch 2/16]
+[Epoch 10 | validated Batch 3/16]
+[Epoch 10 | validated Batch 4/16]
+[Epoch 10 | validated Batch 5/16]
+[Epoch 10 | validated Batch 6/16]
+[Epoch 10 | validated Batch 7/16]
+[Epoch 10 | validated Batch 8/16]
+[Epoch 10 | validated Batch 9/16]
+[Epoch 10 | validated Batch 10/16]
+[Epoch 10 | validated Batch 11/16]
+[Epoch 10 | validated Batch 12/16]
+[Epoch 10 | validated Batch 13/16]
+[Epoch 10 | validated Batch 14/16]
+[Epoch 10 | validated Batch 15/16]
+[Epoch 10 | validated Batch 16/16]
+[Epoch 10
+epoch_time: 4.5
+loss: 2.3751766681671143
+loss: 2.3681228160858154
+acc_top1: 0.27
+acc_top5: 0.634
+]
+[Epoch 11 | Batch 1/157] Loss: 2.2308
+[Epoch 11 | Batch 2/157] Loss: 2.4835
+[Epoch 11 | Batch 3/157] Loss: 2.4178
+[Epoch 11 | Batch 4/157] Loss: 2.2911
+[Epoch 11 | Batch 5/157] Loss: 2.1798
+[Epoch 11 | Batch 6/157] Loss: 1.9285
+[Epoch 11 | Batch 7/157] Loss: 2.2068
+[Epoch 11 | Batch 8/157] Loss: 2.2041
+[Epoch 11 | Batch 9/157] Loss: 2.4341
+[Epoch 11 | Batch 10/157] Loss: 1.9559
+[Epoch 11 | Batch 11/157] Loss: 2.4035
+[Epoch 11 | Batch 12/157] Loss: 2.3511
+[Epoch 11 | Batch 13/157] Loss: 2.4027
+[Epoch 11 | Batch 14/157] Loss: 2.1969
+[Epoch 11 | Batch 15/157] Loss: 2.3695
+[Epoch 11 | Batch 16/157] Loss: 2.2511
+[Epoch 11 | Batch 17/157] Loss: 2.2705
+[Epoch 11 | Batch 18/157] Loss: 2.1177
+[Epoch 11 | Batch 19/157] Loss: 2.3305
+[Epoch 11 | Batch 20/157] Loss: 2.1707
+[Epoch 11 | Batch 21/157] Loss: 2.5545
+[Epoch 11 | Batch 22/157] Loss: 2.1898
+[Epoch 11 | Batch 23/157] Loss: 2.3849
+[Epoch 11 | Batch 24/157] Loss: 2.2398
+[Epoch 11 | Batch 25/157] Loss: 2.2959
+[Epoch 11 | Batch 26/157] Loss: 2.3143
+[Epoch 11 | Batch 27/157] Loss: 2.4648
+[Epoch 11 | Batch 28/157] Loss: 2.4257
+[Epoch 11 | Batch 29/157] Loss: 2.2721
+[Epoch 11 | Batch 30/157] Loss: 2.3656
+[Epoch 11 | Batch 31/157] Loss: 2.1990
+[Epoch 11 | Batch 32/157] Loss: 2.4316
+[Epoch 11 | Batch 33/157] Loss: 2.2661
+[Epoch 11 | Batch 34/157] Loss: 2.0798
+[Epoch 11 | Batch 35/157] Loss: 2.3610
+[Epoch 11 | Batch 36/157] Loss: 2.4054
+[Epoch 11 | Batch 37/157] Loss: 2.3707
+[Epoch 11 | Batch 38/157] Loss: 2.6963
+[Epoch 11 | Batch 39/157] Loss: 2.4216
+[Epoch 11 | Batch 40/157] Loss: 2.3040
+[Epoch 11 | Batch 41/157] Loss: 2.2306
+[Epoch 11 | Batch 42/157] Loss: 2.4356
+[Epoch 11 | Batch 43/157] Loss: 2.5100
+[Epoch 11 | Batch 44/157] Loss: 2.4159
+[Epoch 11 | Batch 45/157] Loss: 2.2556
+[Epoch 11 | Batch 46/157] Loss: 2.2670
+[Epoch 11 | Batch 47/157] Loss: 2.3159
+[Epoch 11 | Batch 48/157] Loss: 2.1523
+[Epoch 11 | Batch 49/157] Loss: 2.4701
+[Epoch 11 | Batch 50/157] Loss: 2.4857
+[Epoch 11 | Batch 51/157] Loss: 2.5611
+[Epoch 11 | Batch 52/157] Loss: 2.4578
+[Epoch 11 | Batch 53/157] Loss: 2.7651
+[Epoch 11 | Batch 54/157] Loss: 2.2937
+[Epoch 11 | Batch 55/157] Loss: 2.4041
+[Epoch 11 | Batch 56/157] Loss: 2.2315
+[Epoch 11 | Batch 57/157] Loss: 2.3736
+[Epoch 11 | Batch 58/157] Loss: 2.3637
+[Epoch 11 | Batch 59/157] Loss: 2.3720
+[Epoch 11 | Batch 60/157] Loss: 2.2080
+[Epoch 11 | Batch 61/157] Loss: 2.1630
+[Epoch 11 | Batch 62/157] Loss: 2.1709
+[Epoch 11 | Batch 63/157] Loss: 2.2898
+[Epoch 11 | Batch 64/157] Loss: 2.3821
+[Epoch 11 | Batch 65/157] Loss: 2.3654
+[Epoch 11 | Batch 66/157] Loss: 2.4834
+[Epoch 11 | Batch 67/157] Loss: 2.2879
+[Epoch 11 | Batch 68/157] Loss: 2.2334
+[Epoch 11 | Batch 69/157] Loss: 2.4077
+[Epoch 11 | Batch 70/157] Loss: 2.4213
+[Epoch 11 | Batch 71/157] Loss: 2.2977
+[Epoch 11 | Batch 72/157] Loss: 2.4587
+[Epoch 11 | Batch 73/157] Loss: 2.3163
+[Epoch 11 | Batch 74/157] Loss: 2.3620
+[Epoch 11 | Batch 75/157] Loss: 2.3552
+[Epoch 11 | Batch 76/157] Loss: 2.5347
+[Epoch 11 | Batch 77/157] Loss: 2.3699
+[Epoch 11 | Batch 78/157] Loss: 2.4029
+[Epoch 11 | Batch 79/157] Loss: 2.4295
+[Epoch 11 | Batch 80/157] Loss: 2.4515
+[Epoch 11 | Batch 81/157] Loss: 2.2419
+[Epoch 11 | Batch 82/157] Loss: 2.3919
+[Epoch 11 | Batch 83/157] Loss: 2.4104
+[Epoch 11 | Batch 84/157] Loss: 2.3056
+[Epoch 11 | Batch 85/157] Loss: 2.2227
+[Epoch 11 | Batch 86/157] Loss: 2.4104
+[Epoch 11 | Batch 87/157] Loss: 2.1444
+[Epoch 11 | Batch 88/157] Loss: 2.1550
+[Epoch 11 | Batch 89/157] Loss: 2.3247
+[Epoch 11 | Batch 90/157] Loss: 2.2554
+[Epoch 11 | Batch 91/157] Loss: 2.2598
+[Epoch 11 | Batch 92/157] Loss: 2.3798
+[Epoch 11 | Batch 93/157] Loss: 2.3330
+[Epoch 11 | Batch 94/157] Loss: 2.3479
+[Epoch 11 | Batch 95/157] Loss: 2.2903
+[Epoch 11 | Batch 96/157] Loss: 2.1711
+[Epoch 11 | Batch 97/157] Loss: 2.3709
+[Epoch 11 | Batch 98/157] Loss: 2.2253
+[Epoch 11 | Batch 99/157] Loss: 2.4864
+[Epoch 11 | Batch 100/157] Loss: 2.3762
+[Epoch 11 | Batch 101/157] Loss: 2.2790
+[Epoch 11 | Batch 102/157] Loss: 2.3057
+[Epoch 11 | Batch 103/157] Loss: 2.4509
+[Epoch 11 | Batch 104/157] Loss: 2.2520
+[Epoch 11 | Batch 105/157] Loss: 2.6133
+[Epoch 11 | Batch 106/157] Loss: 2.4656
+[Epoch 11 | Batch 107/157] Loss: 2.1872
+[Epoch 11 | Batch 108/157] Loss: 2.5134
+[Epoch 11 | Batch 109/157] Loss: 2.4027
+[Epoch 11 | Batch 110/157] Loss: 2.1344
+[Epoch 11 | Batch 111/157] Loss: 2.2460
+[Epoch 11 | Batch 112/157] Loss: 2.2824
+[Epoch 11 | Batch 113/157] Loss: 2.1505
+[Epoch 11 | Batch 114/157] Loss: 2.4364
+[Epoch 11 | Batch 115/157] Loss: 2.3552
+[Epoch 11 | Batch 116/157] Loss: 2.5925
+[Epoch 11 | Batch 117/157] Loss: 2.6011
+[Epoch 11 | Batch 118/157] Loss: 2.1782
+[Epoch 11 | Batch 119/157] Loss: 2.4198
+[Epoch 11 | Batch 120/157] Loss: 2.4406
+[Epoch 11 | Batch 121/157] Loss: 2.2905
+[Epoch 11 | Batch 122/157] Loss: 2.3308
+[Epoch 11 | Batch 123/157] Loss: 2.5166
+[Epoch 11 | Batch 124/157] Loss: 2.2680
+[Epoch 11 | Batch 125/157] Loss: 2.0761
+[Epoch 11 | Batch 126/157] Loss: 2.3416
+[Epoch 11 | Batch 127/157] Loss: 2.7198
+[Epoch 11 | Batch 128/157] Loss: 2.0528
+[Epoch 11 | Batch 129/157] Loss: 2.3009
+[Epoch 11 | Batch 130/157] Loss: 2.5985
+[Epoch 11 | Batch 131/157] Loss: 2.6791
+[Epoch 11 | Batch 132/157] Loss: 2.3569
+[Epoch 11 | Batch 133/157] Loss: 2.3985
+[Epoch 11 | Batch 134/157] Loss: 2.1897
+[Epoch 11 | Batch 135/157] Loss: 2.3770
+[Epoch 11 | Batch 136/157] Loss: 2.5208
+[Epoch 11 | Batch 137/157] Loss: 2.3719
+[Epoch 11 | Batch 138/157] Loss: 2.3123
+[Epoch 11 | Batch 139/157] Loss: 2.2314
+[Epoch 11 | Batch 140/157] Loss: 2.3117
+[Epoch 11 | Batch 141/157] Loss: 2.2144
+[Epoch 11 | Batch 142/157] Loss: 2.3557
+[Epoch 11 | Batch 143/157] Loss: 2.4846
+[Epoch 11 | Batch 144/157] Loss: 2.2882
+[Epoch 11 | Batch 145/157] Loss: 2.5583
+[Epoch 11 | Batch 146/157] Loss: 2.2415
+[Epoch 11 | Batch 147/157] Loss: 2.4532
+[Epoch 11 | Batch 148/157] Loss: 2.3897
+[Epoch 11 | Batch 149/157] Loss: 2.3462
+[Epoch 11 | Batch 150/157] Loss: 2.2337
+[Epoch 11 | Batch 151/157] Loss: 2.2722
+[Epoch 11 | Batch 152/157] Loss: 2.4639
+[Epoch 11 | Batch 153/157] Loss: 2.4336
+[Epoch 11 | Batch 154/157] Loss: 2.5516
+[Epoch 11 | Batch 155/157] Loss: 2.3891
+[Epoch 11 | Batch 156/157] Loss: 2.4436
+[Epoch 11 | Batch 157/157] Loss: 2.3050
+[Epoch 11 | validated Batch 1/16]
+[Epoch 11 | validated Batch 2/16]
+[Epoch 11 | validated Batch 3/16]
+[Epoch 11 | validated Batch 4/16]
+[Epoch 11 | validated Batch 5/16]
+[Epoch 11 | validated Batch 6/16]
+[Epoch 11 | validated Batch 7/16]
+[Epoch 11 | validated Batch 8/16]
+[Epoch 11 | validated Batch 9/16]
+[Epoch 11 | validated Batch 10/16]
+[Epoch 11 | validated Batch 11/16]
+[Epoch 11 | validated Batch 12/16]
+[Epoch 11 | validated Batch 13/16]
+[Epoch 11 | validated Batch 14/16]
+[Epoch 11 | validated Batch 15/16]
+[Epoch 11 | validated Batch 16/16]
+[Epoch 11
+epoch_time: 2.7
+loss: 2.3445987701416016
+loss: 2.3679165840148926
+acc_top1: 0.259
+acc_top5: 0.633
+]
+[Epoch 12 | Batch 1/157] Loss: 2.3251
+[Epoch 12 | Batch 2/157] Loss: 2.1320
+[Epoch 12 | Batch 3/157] Loss: 2.4431
+[Epoch 12 | Batch 4/157] Loss: 2.5597
+[Epoch 12 | Batch 5/157] Loss: 2.3232
+[Epoch 12 | Batch 6/157] Loss: 2.2675
+[Epoch 12 | Batch 7/157] Loss: 2.1948
+[Epoch 12 | Batch 8/157] Loss: 2.3100
+[Epoch 12 | Batch 9/157] Loss: 2.2516
+[Epoch 12 | Batch 10/157] Loss: 2.3437
+[Epoch 12 | Batch 11/157] Loss: 2.5092
+[Epoch 12 | Batch 12/157] Loss: 2.2835
+[Epoch 12 | Batch 13/157] Loss: 2.4820
+[Epoch 12 | Batch 14/157] Loss: 2.2016
+[Epoch 12 | Batch 15/157] Loss: 2.4090
+[Epoch 12 | Batch 16/157] Loss: 2.2937
+[Epoch 12 | Batch 17/157] Loss: 2.3701
+[Epoch 12 | Batch 18/157] Loss: 2.2392
+[Epoch 12 | Batch 19/157] Loss: 2.1364
+[Epoch 12 | Batch 20/157] Loss: 2.2434
+[Epoch 12 | Batch 21/157] Loss: 2.3481
+[Epoch 12 | Batch 22/157] Loss: 2.4897
+[Epoch 12 | Batch 23/157] Loss: 2.6973
+[Epoch 12 | Batch 24/157] Loss: 2.3911
+[Epoch 12 | Batch 25/157] Loss: 2.2564
+[Epoch 12 | Batch 26/157] Loss: 2.3735
+[Epoch 12 | Batch 27/157] Loss: 2.2288
+[Epoch 12 | Batch 28/157] Loss: 2.3196
+[Epoch 12 | Batch 29/157] Loss: 2.2718
+[Epoch 12 | Batch 30/157] Loss: 2.3128
+[Epoch 12 | Batch 31/157] Loss: 2.3294
+[Epoch 12 | Batch 32/157] Loss: 2.2946
+[Epoch 12 | Batch 33/157] Loss: 2.4099
+[Epoch 12 | Batch 34/157] Loss: 2.3521
+[Epoch 12 | Batch 35/157] Loss: 2.2665
+[Epoch 12 | Batch 36/157] Loss: 2.2546
+[Epoch 12 | Batch 37/157] Loss: 2.4262
+[Epoch 12 | Batch 38/157] Loss: 2.2955
+[Epoch 12 | Batch 39/157] Loss: 2.1902
+[Epoch 12 | Batch 40/157] Loss: 2.1667
+[Epoch 12 | Batch 41/157] Loss: 2.1865
+[Epoch 12 | Batch 42/157] Loss: 2.2802
+[Epoch 12 | Batch 43/157] Loss: 2.4872
+[Epoch 12 | Batch 44/157] Loss: 2.5251
+[Epoch 12 | Batch 45/157] Loss: 2.4707
+[Epoch 12 | Batch 46/157] Loss: 2.5227
+[Epoch 12 | Batch 47/157] Loss: 2.2381
+[Epoch 12 | Batch 48/157] Loss: 2.4335
+[Epoch 12 | Batch 49/157] Loss: 2.3796
+[Epoch 12 | Batch 50/157] Loss: 2.6424
+[Epoch 12 | Batch 51/157] Loss: 2.4132
+[Epoch 12 | Batch 52/157] Loss: 2.4079
+[Epoch 12 | Batch 53/157] Loss: 2.3374
+[Epoch 12 | Batch 54/157] Loss: 2.6571
+[Epoch 12 | Batch 55/157] Loss: 2.1837
+[Epoch 12 | Batch 56/157] Loss: 2.2094
+[Epoch 12 | Batch 57/157] Loss: 2.3305
+[Epoch 12 | Batch 58/157] Loss: 2.3959
+[Epoch 12 | Batch 59/157] Loss: 2.1984
+[Epoch 12 | Batch 60/157] Loss: 2.4069
+[Epoch 12 | Batch 61/157] Loss: 2.4999
+[Epoch 12 | Batch 62/157] Loss: 2.2576
+[Epoch 12 | Batch 63/157] Loss: 2.1607
+[Epoch 12 | Batch 64/157] Loss: 2.2303
+[Epoch 12 | Batch 65/157] Loss: 2.2987
+[Epoch 12 | Batch 66/157] Loss: 2.3800
+[Epoch 12 | Batch 67/157] Loss: 2.1450
+[Epoch 12 | Batch 68/157] Loss: 2.4366
+[Epoch 12 | Batch 69/157] Loss: 2.4250
+[Epoch 12 | Batch 70/157] Loss: 2.2869
+[Epoch 12 | Batch 71/157] Loss: 2.2353
+[Epoch 12 | Batch 72/157] Loss: 2.4269
+[Epoch 12 | Batch 73/157] Loss: 2.3583
+[Epoch 12 | Batch 74/157] Loss: 2.1841
+[Epoch 12 | Batch 75/157] Loss: 2.2578
+[Epoch 12 | Batch 76/157] Loss: 2.4560
+[Epoch 12 | Batch 77/157] Loss: 2.3818
+[Epoch 12 | Batch 78/157] Loss: 2.5136
+[Epoch 12 | Batch 79/157] Loss: 2.3472
+[Epoch 12 | Batch 80/157] Loss: 2.2819
+[Epoch 12 | Batch 81/157] Loss: 2.1927
+[Epoch 12 | Batch 82/157] Loss: 2.1673
+[Epoch 12 | Batch 83/157] Loss: 2.1679
+[Epoch 12 | Batch 84/157] Loss: 2.0978
+[Epoch 12 | Batch 85/157] Loss: 2.2433
+[Epoch 12 | Batch 86/157] Loss: 2.3579
+[Epoch 12 | Batch 87/157] Loss: 2.2261
+[Epoch 12 | Batch 88/157] Loss: 2.4428
+[Epoch 12 | Batch 89/157] Loss: 2.0700
+[Epoch 12 | Batch 90/157] Loss: 2.3039
+[Epoch 12 | Batch 91/157] Loss: 2.2946
+[Epoch 12 | Batch 92/157] Loss: 2.3470
+[Epoch 12 | Batch 93/157] Loss: 2.3469
+[Epoch 12 | Batch 94/157] Loss: 2.7037
+[Epoch 12 | Batch 95/157] Loss: 2.2273
+[Epoch 12 | Batch 96/157] Loss: 2.3123
+[Epoch 12 | Batch 97/157] Loss: 2.5383
+[Epoch 12 | Batch 98/157] Loss: 2.0855
+[Epoch 12 | Batch 99/157] Loss: 2.4082
+[Epoch 12 | Batch 100/157] Loss: 2.4148
+[Epoch 12 | Batch 101/157] Loss: 2.2728
+[Epoch 12 | Batch 102/157] Loss: 2.0709
+[Epoch 12 | Batch 103/157] Loss: 2.3847
+[Epoch 12 | Batch 104/157] Loss: 2.3224
+[Epoch 12 | Batch 105/157] Loss: 2.3864
+[Epoch 12 | Batch 106/157] Loss: 2.1649
+[Epoch 12 | Batch 107/157] Loss: 2.1899
+[Epoch 12 | Batch 108/157] Loss: 2.3780
+[Epoch 12 | Batch 109/157] Loss: 2.3740
+[Epoch 12 | Batch 110/157] Loss: 2.2480
+[Epoch 12 | Batch 111/157] Loss: 2.3712
+[Epoch 12 | Batch 112/157] Loss: 2.2610
+[Epoch 12 | Batch 113/157] Loss: 2.4213
+[Epoch 12 | Batch 114/157] Loss: 2.3411
+[Epoch 12 | Batch 115/157] Loss: 2.3816
+[Epoch 12 | Batch 116/157] Loss: 2.2914
+[Epoch 12 | Batch 117/157] Loss: 2.5146
+[Epoch 12 | Batch 118/157] Loss: 2.4777
+[Epoch 12 | Batch 119/157] Loss: 2.6292
+[Epoch 12 | Batch 120/157] Loss: 2.1740
+[Epoch 12 | Batch 121/157] Loss: 2.4191
+[Epoch 12 | Batch 122/157] Loss: 2.2097
+[Epoch 12 | Batch 123/157] Loss: 2.3445
+[Epoch 12 | Batch 124/157] Loss: 2.3343
+[Epoch 12 | Batch 125/157] Loss: 2.2366
+[Epoch 12 | Batch 126/157] Loss: 2.3604
+[Epoch 12 | Batch 127/157] Loss: 2.4434
+[Epoch 12 | Batch 128/157] Loss: 2.4260
+[Epoch 12 | Batch 129/157] Loss: 2.3310
+[Epoch 12 | Batch 130/157] Loss: 2.1506
+[Epoch 12 | Batch 131/157] Loss: 2.1983
+[Epoch 12 | Batch 132/157] Loss: 2.5129
+[Epoch 12 | Batch 133/157] Loss: 2.5237
+[Epoch 12 | Batch 134/157] Loss: 2.2972
+[Epoch 12 | Batch 135/157] Loss: 2.4842
+[Epoch 12 | Batch 136/157] Loss: 2.4209
+[Epoch 12 | Batch 137/157] Loss: 2.6213
+[Epoch 12 | Batch 138/157] Loss: 2.1905
+[Epoch 12 | Batch 139/157] Loss: 2.3296
+[Epoch 12 | Batch 140/157] Loss: 2.1078
+[Epoch 12 | Batch 141/157] Loss: 2.2726
+[Epoch 12 | Batch 142/157] Loss: 2.3215
+[Epoch 12 | Batch 143/157] Loss: 2.3439
+[Epoch 12 | Batch 144/157] Loss: 2.4160
+[Epoch 12 | Batch 145/157] Loss: 2.3027
+[Epoch 12 | Batch 146/157] Loss: 2.4375
+[Epoch 12 | Batch 147/157] Loss: 2.5574
+[Epoch 12 | Batch 148/157] Loss: 2.1140
+[Epoch 12 | Batch 149/157] Loss: 2.4923
+[Epoch 12 | Batch 150/157] Loss: 2.1503
+[Epoch 12 | Batch 151/157] Loss: 2.3649
+[Epoch 12 | Batch 152/157] Loss: 2.3742
+[Epoch 12 | Batch 153/157] Loss: 2.2633
+[Epoch 12 | Batch 154/157] Loss: 2.2121
+[Epoch 12 | Batch 155/157] Loss: 2.4392
+[Epoch 12 | Batch 156/157] Loss: 2.4135
+[Epoch 12 | Batch 157/157] Loss: 2.7743
+[Epoch 12 | validated Batch 1/16]
+[Epoch 12 | validated Batch 2/16]
+[Epoch 12 | validated Batch 3/16]
+[Epoch 12 | validated Batch 4/16]
+[Epoch 12 | validated Batch 5/16]
+[Epoch 12 | validated Batch 6/16]
+[Epoch 12 | validated Batch 7/16]
+[Epoch 12 | validated Batch 8/16]
+[Epoch 12 | validated Batch 9/16]
+[Epoch 12 | validated Batch 10/16]
+[Epoch 12 | validated Batch 11/16]
+[Epoch 12 | validated Batch 12/16]
+[Epoch 12 | validated Batch 13/16]
+[Epoch 12 | validated Batch 14/16]
+[Epoch 12 | validated Batch 15/16]
+[Epoch 12 | validated Batch 16/16]
+[Epoch 12
+epoch_time: 2.3
+loss: 2.335862159729004
+loss: 2.3958334922790527
+acc_top1: 0.244
+acc_top5: 0.619
+]
+[Epoch 13 | Batch 1/157] Loss: 2.3750
+[Epoch 13 | Batch 2/157] Loss: 2.1624
+[Epoch 13 | Batch 3/157] Loss: 2.3476
+[Epoch 13 | Batch 4/157] Loss: 2.3085
+[Epoch 13 | Batch 5/157] Loss: 2.2101
+[Epoch 13 | Batch 6/157] Loss: 2.3066
+[Epoch 13 | Batch 7/157] Loss: 2.2133
+[Epoch 13 | Batch 8/157] Loss: 2.0878
+[Epoch 13 | Batch 9/157] Loss: 2.2638
+[Epoch 13 | Batch 10/157] Loss: 2.3449
+[Epoch 13 | Batch 11/157] Loss: 2.2001
+[Epoch 13 | Batch 12/157] Loss: 2.1880
+[Epoch 13 | Batch 13/157] Loss: 2.4464
+[Epoch 13 | Batch 14/157] Loss: 2.5527
+[Epoch 13 | Batch 15/157] Loss: 2.4739
+[Epoch 13 | Batch 16/157] Loss: 2.3707
+[Epoch 13 | Batch 17/157] Loss: 2.3756
+[Epoch 13 | Batch 18/157] Loss: 2.3452
+[Epoch 13 | Batch 19/157] Loss: 2.2146
+[Epoch 13 | Batch 20/157] Loss: 2.2591
+[Epoch 13 | Batch 21/157] Loss: 2.1633
+[Epoch 13 | Batch 22/157] Loss: 2.1865
+[Epoch 13 | Batch 23/157] Loss: 2.2144
+[Epoch 13 | Batch 24/157] Loss: 2.2653
+[Epoch 13 | Batch 25/157] Loss: 2.3592
+[Epoch 13 | Batch 26/157] Loss: 2.4833
+[Epoch 13 | Batch 27/157] Loss: 2.2425
+[Epoch 13 | Batch 28/157] Loss: 2.1545
+[Epoch 13 | Batch 29/157] Loss: 2.2604
+[Epoch 13 | Batch 30/157] Loss: 2.1997
+[Epoch 13 | Batch 31/157] Loss: 2.5149
+[Epoch 13 | Batch 32/157] Loss: 2.2855
+[Epoch 13 | Batch 33/157] Loss: 2.4752
+[Epoch 13 | Batch 34/157] Loss: 2.6270
+[Epoch 13 | Batch 35/157] Loss: 2.2494
+[Epoch 13 | Batch 36/157] Loss: 2.2478
+[Epoch 13 | Batch 37/157] Loss: 2.1982
+[Epoch 13 | Batch 38/157] Loss: 2.4784
+[Epoch 13 | Batch 39/157] Loss: 2.2650
+[Epoch 13 | Batch 40/157] Loss: 2.4738
+[Epoch 13 | Batch 41/157] Loss: 2.2536
+[Epoch 13 | Batch 42/157] Loss: 2.3022
+[Epoch 13 | Batch 43/157] Loss: 2.4207
+[Epoch 13 | Batch 44/157] Loss: 2.4062
+[Epoch 13 | Batch 45/157] Loss: 2.3021
+[Epoch 13 | Batch 46/157] Loss: 2.3641
+[Epoch 13 | Batch 47/157] Loss: 2.3708
+[Epoch 13 | Batch 48/157] Loss: 2.3540
+[Epoch 13 | Batch 49/157] Loss: 2.5823
+[Epoch 13 | Batch 50/157] Loss: 2.2941
+[Epoch 13 | Batch 51/157] Loss: 2.3218
+[Epoch 13 | Batch 52/157] Loss: 2.3364
+[Epoch 13 | Batch 53/157] Loss: 2.3230
+[Epoch 13 | Batch 54/157] Loss: 2.5613
+[Epoch 13 | Batch 55/157] Loss: 2.2072
+[Epoch 13 | Batch 56/157] Loss: 2.3574
+[Epoch 13 | Batch 57/157] Loss: 2.1859
+[Epoch 13 | Batch 58/157] Loss: 2.1692
+[Epoch 13 | Batch 59/157] Loss: 2.3614
+[Epoch 13 | Batch 60/157] Loss: 2.3658
+[Epoch 13 | Batch 61/157] Loss: 2.1340
+[Epoch 13 | Batch 62/157] Loss: 2.5160
+[Epoch 13 | Batch 63/157] Loss: 2.4882
+[Epoch 13 | Batch 64/157] Loss: 2.2568
+[Epoch 13 | Batch 65/157] Loss: 2.1533
+[Epoch 13 | Batch 66/157] Loss: 2.3103
+[Epoch 13 | Batch 67/157] Loss: 2.1550
+[Epoch 13 | Batch 68/157] Loss: 2.3473
+[Epoch 13 | Batch 69/157] Loss: 2.1663
+[Epoch 13 | Batch 70/157] Loss: 2.2296
+[Epoch 13 | Batch 71/157] Loss: 2.2428
+[Epoch 13 | Batch 72/157] Loss: 2.6149
+[Epoch 13 | Batch 73/157] Loss: 2.2888
+[Epoch 13 | Batch 74/157] Loss: 2.3932
+[Epoch 13 | Batch 75/157] Loss: 2.1022
+[Epoch 13 | Batch 76/157] Loss: 2.4901
+[Epoch 13 | Batch 77/157] Loss: 2.2839
+[Epoch 13 | Batch 78/157] Loss: 2.2884
+[Epoch 13 | Batch 79/157] Loss: 2.3475
+[Epoch 13 | Batch 80/157] Loss: 2.2916
+[Epoch 13 | Batch 81/157] Loss: 2.2733
+[Epoch 13 | Batch 82/157] Loss: 2.3344
+[Epoch 13 | Batch 83/157] Loss: 2.4594
+[Epoch 13 | Batch 84/157] Loss: 2.3899
+[Epoch 13 | Batch 85/157] Loss: 2.3519
+[Epoch 13 | Batch 86/157] Loss: 2.3782
+[Epoch 13 | Batch 87/157] Loss: 2.4484
+[Epoch 13 | Batch 88/157] Loss: 2.1585
+[Epoch 13 | Batch 89/157] Loss: 2.3088
+[Epoch 13 | Batch 90/157] Loss: 2.3366
+[Epoch 13 | Batch 91/157] Loss: 2.4493
+[Epoch 13 | Batch 92/157] Loss: 2.3958
+[Epoch 13 | Batch 93/157] Loss: 2.0823
+[Epoch 13 | Batch 94/157] Loss: 2.6320
+[Epoch 13 | Batch 95/157] Loss: 2.3311
+[Epoch 13 | Batch 96/157] Loss: 2.2917
+[Epoch 13 | Batch 97/157] Loss: 2.1129
+[Epoch 13 | Batch 98/157] Loss: 2.2549
+[Epoch 13 | Batch 99/157] Loss: 2.5839
+[Epoch 13 | Batch 100/157] Loss: 2.2089
+[Epoch 13 | Batch 101/157] Loss: 2.4118
+[Epoch 13 | Batch 102/157] Loss: 2.3897
+[Epoch 13 | Batch 103/157] Loss: 2.3335
+[Epoch 13 | Batch 104/157] Loss: 2.3340
+[Epoch 13 | Batch 105/157] Loss: 2.2418
+[Epoch 13 | Batch 106/157] Loss: 2.4694
+[Epoch 13 | Batch 107/157] Loss: 2.4135
+[Epoch 13 | Batch 108/157] Loss: 2.4087
+[Epoch 13 | Batch 109/157] Loss: 2.2351
+[Epoch 13 | Batch 110/157] Loss: 2.3919
+[Epoch 13 | Batch 111/157] Loss: 2.4648
+[Epoch 13 | Batch 112/157] Loss: 2.3293
+[Epoch 13 | Batch 113/157] Loss: 2.3804
+[Epoch 13 | Batch 114/157] Loss: 2.4323
+[Epoch 13 | Batch 115/157] Loss: 2.2658
+[Epoch 13 | Batch 116/157] Loss: 2.4227
+[Epoch 13 | Batch 117/157] Loss: 2.3548
+[Epoch 13 | Batch 118/157] Loss: 2.3287
+[Epoch 13 | Batch 119/157] Loss: 2.4621
+[Epoch 13 | Batch 120/157] Loss: 2.2806
+[Epoch 13 | Batch 121/157] Loss: 2.2914
+[Epoch 13 | Batch 122/157] Loss: 2.1661
+[Epoch 13 | Batch 123/157] Loss: 2.6314
+[Epoch 13 | Batch 124/157] Loss: 1.9162
+[Epoch 13 | Batch 125/157] Loss: 2.4529
+[Epoch 13 | Batch 126/157] Loss: 2.0161
+[Epoch 13 | Batch 127/157] Loss: 2.0903
+[Epoch 13 | Batch 128/157] Loss: 2.4029
+[Epoch 13 | Batch 129/157] Loss: 1.9346
+[Epoch 13 | Batch 130/157] Loss: 2.5364
+[Epoch 13 | Batch 131/157] Loss: 2.3322
+[Epoch 13 | Batch 132/157] Loss: 2.4594
+[Epoch 13 | Batch 133/157] Loss: 2.3834
+[Epoch 13 | Batch 134/157] Loss: 2.4419
+[Epoch 13 | Batch 135/157] Loss: 2.3568
+[Epoch 13 | Batch 136/157] Loss: 2.3700
+[Epoch 13 | Batch 137/157] Loss: 2.1303
+[Epoch 13 | Batch 138/157] Loss: 2.2416
+[Epoch 13 | Batch 139/157] Loss: 2.0917
+[Epoch 13 | Batch 140/157] Loss: 2.3388
+[Epoch 13 | Batch 141/157] Loss: 2.2928
+[Epoch 13 | Batch 142/157] Loss: 2.4231
+[Epoch 13 | Batch 143/157] Loss: 2.3757
+[Epoch 13 | Batch 144/157] Loss: 2.3956
+[Epoch 13 | Batch 145/157] Loss: 2.4015
+[Epoch 13 | Batch 146/157] Loss: 2.3552
+[Epoch 13 | Batch 147/157] Loss: 2.1864
+[Epoch 13 | Batch 148/157] Loss: 2.3947
+[Epoch 13 | Batch 149/157] Loss: 2.2733
+[Epoch 13 | Batch 150/157] Loss: 2.3051
+[Epoch 13 | Batch 151/157] Loss: 2.2565
+[Epoch 13 | Batch 152/157] Loss: 2.4715
+[Epoch 13 | Batch 153/157] Loss: 2.2918
+[Epoch 13 | Batch 154/157] Loss: 2.5040
+[Epoch 13 | Batch 155/157] Loss: 2.2274
+[Epoch 13 | Batch 156/157] Loss: 2.1555
+[Epoch 13 | Batch 157/157] Loss: 2.3807
+[Epoch 13 | validated Batch 1/16]
+[Epoch 13 | validated Batch 2/16]
+[Epoch 13 | validated Batch 3/16]
+[Epoch 13 | validated Batch 4/16]
+[Epoch 13 | validated Batch 5/16]
+[Epoch 13 | validated Batch 6/16]
+[Epoch 13 | validated Batch 7/16]
+[Epoch 13 | validated Batch 8/16]
+[Epoch 13 | validated Batch 9/16]
+[Epoch 13 | validated Batch 10/16]
+[Epoch 13 | validated Batch 11/16]
+[Epoch 13 | validated Batch 12/16]
+[Epoch 13 | validated Batch 13/16]
+[Epoch 13 | validated Batch 14/16]
+[Epoch 13 | validated Batch 15/16]
+[Epoch 13 | validated Batch 16/16]
+[Epoch 13
+epoch_time: 2.2
+loss: 2.32289981842041
+loss: 2.3577651977539062
+acc_top1: 0.256
+acc_top5: 0.636
+]
+[Epoch 14 | Batch 1/157] Loss: 2.2326
+[Epoch 14 | Batch 2/157] Loss: 2.1289
+[Epoch 14 | Batch 3/157] Loss: 2.1319
+[Epoch 14 | Batch 4/157] Loss: 2.0679
+[Epoch 14 | Batch 5/157] Loss: 2.1522
+[Epoch 14 | Batch 6/157] Loss: 2.2839
+[Epoch 14 | Batch 7/157] Loss: 2.3581
+[Epoch 14 | Batch 8/157] Loss: 2.1164
+[Epoch 14 | Batch 9/157] Loss: 2.4778
+[Epoch 14 | Batch 10/157] Loss: 2.3459
+[Epoch 14 | Batch 11/157] Loss: 2.2356
+[Epoch 14 | Batch 12/157] Loss: 2.3083
+[Epoch 14 | Batch 13/157] Loss: 2.4331
+[Epoch 14 | Batch 14/157] Loss: 2.3209
+[Epoch 14 | Batch 15/157] Loss: 1.9653
+[Epoch 14 | Batch 16/157] Loss: 2.2224
+[Epoch 14 | Batch 17/157] Loss: 2.4903
+[Epoch 14 | Batch 18/157] Loss: 2.1217
+[Epoch 14 | Batch 19/157] Loss: 2.4157
+[Epoch 14 | Batch 20/157] Loss: 2.7040
+[Epoch 14 | Batch 21/157] Loss: 2.3977
+[Epoch 14 | Batch 22/157] Loss: 2.3706
+[Epoch 14 | Batch 23/157] Loss: 2.2745
+[Epoch 14 | Batch 24/157] Loss: 2.2164
+[Epoch 14 | Batch 25/157] Loss: 2.2687
+[Epoch 14 | Batch 26/157] Loss: 2.5725
+[Epoch 14 | Batch 27/157] Loss: 2.5633
+[Epoch 14 | Batch 28/157] Loss: 2.1122
+[Epoch 14 | Batch 29/157] Loss: 2.2573
+[Epoch 14 | Batch 30/157] Loss: 2.0723
+[Epoch 14 | Batch 31/157] Loss: 2.4527
+[Epoch 14 | Batch 32/157] Loss: 2.1875
+[Epoch 14 | Batch 33/157] Loss: 2.1326
+[Epoch 14 | Batch 34/157] Loss: 2.3076
+[Epoch 14 | Batch 35/157] Loss: 2.3113
+[Epoch 14 | Batch 36/157] Loss: 2.5011
+[Epoch 14 | Batch 37/157] Loss: 2.2925
+[Epoch 14 | Batch 38/157] Loss: 2.2141
+[Epoch 14 | Batch 39/157] Loss: 2.2394
+[Epoch 14 | Batch 40/157] Loss: 2.1750
+[Epoch 14 | Batch 41/157] Loss: 2.2705
+[Epoch 14 | Batch 42/157] Loss: 2.5161
+[Epoch 14 | Batch 43/157] Loss: 2.2541
+[Epoch 14 | Batch 44/157] Loss: 2.1849
+[Epoch 14 | Batch 45/157] Loss: 2.2091
+[Epoch 14 | Batch 46/157] Loss: 2.3625
+[Epoch 14 | Batch 47/157] Loss: 2.2214
+[Epoch 14 | Batch 48/157] Loss: 2.3724
+[Epoch 14 | Batch 49/157] Loss: 2.3064
+[Epoch 14 | Batch 50/157] Loss: 2.4591
+[Epoch 14 | Batch 51/157] Loss: 2.2647
+[Epoch 14 | Batch 52/157] Loss: 2.2046
+[Epoch 14 | Batch 53/157] Loss: 2.1352
+[Epoch 14 | Batch 54/157] Loss: 2.4764
+[Epoch 14 | Batch 55/157] Loss: 2.2209
+[Epoch 14 | Batch 56/157] Loss: 2.2786
+[Epoch 14 | Batch 57/157] Loss: 2.5979
+[Epoch 14 | Batch 58/157] Loss: 2.3214
+[Epoch 14 | Batch 59/157] Loss: 2.2834
+[Epoch 14 | Batch 60/157] Loss: 2.1930
+[Epoch 14 | Batch 61/157] Loss: 2.7299
+[Epoch 14 | Batch 62/157] Loss: 2.3523
+[Epoch 14 | Batch 63/157] Loss: 2.3222
+[Epoch 14 | Batch 64/157] Loss: 2.3703
+[Epoch 14 | Batch 65/157] Loss: 2.1267
+[Epoch 14 | Batch 66/157] Loss: 2.1690
+[Epoch 14 | Batch 67/157] Loss: 2.2809
+[Epoch 14 | Batch 68/157] Loss: 2.4341
+[Epoch 14 | Batch 69/157] Loss: 2.3611
+[Epoch 14 | Batch 70/157] Loss: 2.2430
+[Epoch 14 | Batch 71/157] Loss: 2.2067
+[Epoch 14 | Batch 72/157] Loss: 2.3620
+[Epoch 14 | Batch 73/157] Loss: 2.1161
+[Epoch 14 | Batch 74/157] Loss: 2.1595
+[Epoch 14 | Batch 75/157] Loss: 2.2079
+[Epoch 14 | Batch 76/157] Loss: 2.1226
+[Epoch 14 | Batch 77/157] Loss: 2.2732
+[Epoch 14 | Batch 78/157] Loss: 2.5188
+[Epoch 14 | Batch 79/157] Loss: 2.3281
+[Epoch 14 | Batch 80/157] Loss: 2.2720
+[Epoch 14 | Batch 81/157] Loss: 2.5107
+[Epoch 14 | Batch 82/157] Loss: 2.2146
+[Epoch 14 | Batch 83/157] Loss: 2.3839
+[Epoch 14 | Batch 84/157] Loss: 2.3372
+[Epoch 14 | Batch 85/157] Loss: 2.4910
+[Epoch 14 | Batch 86/157] Loss: 2.4637
+[Epoch 14 | Batch 87/157] Loss: 2.3715
+[Epoch 14 | Batch 88/157] Loss: 2.3059
+[Epoch 14 | Batch 89/157] Loss: 2.2306
+[Epoch 14 | Batch 90/157] Loss: 2.3404
+[Epoch 14 | Batch 91/157] Loss: 2.3933
+[Epoch 14 | Batch 92/157] Loss: 2.3213
+[Epoch 14 | Batch 93/157] Loss: 2.6360
+[Epoch 14 | Batch 94/157] Loss: 2.2964
+[Epoch 14 | Batch 95/157] Loss: 2.2101
+[Epoch 14 | Batch 96/157] Loss: 2.1852
+[Epoch 14 | Batch 97/157] Loss: 2.2587
+[Epoch 14 | Batch 98/157] Loss: 2.3281
+[Epoch 14 | Batch 99/157] Loss: 2.5368
+[Epoch 14 | Batch 100/157] Loss: 2.3336
+[Epoch 14 | Batch 101/157] Loss: 2.5485
+[Epoch 14 | Batch 102/157] Loss: 2.2818
+[Epoch 14 | Batch 103/157] Loss: 2.0188
+[Epoch 14 | Batch 104/157] Loss: 2.3113
+[Epoch 14 | Batch 105/157] Loss: 2.5988
+[Epoch 14 | Batch 106/157] Loss: 2.1313
+[Epoch 14 | Batch 107/157] Loss: 2.1108
+[Epoch 14 | Batch 108/157] Loss: 2.4356
+[Epoch 14 | Batch 109/157] Loss: 2.3950
+[Epoch 14 | Batch 110/157] Loss: 2.1451
+[Epoch 14 | Batch 111/157] Loss: 2.1147
+[Epoch 14 | Batch 112/157] Loss: 2.3213
+[Epoch 14 | Batch 113/157] Loss: 2.2554
+[Epoch 14 | Batch 114/157] Loss: 2.1721
+[Epoch 14 | Batch 115/157] Loss: 2.3627
+[Epoch 14 | Batch 116/157] Loss: 2.3907
+[Epoch 14 | Batch 117/157] Loss: 2.2121
+[Epoch 14 | Batch 118/157] Loss: 2.3174
+[Epoch 14 | Batch 119/157] Loss: 2.2303
+[Epoch 14 | Batch 120/157] Loss: 2.2729
+[Epoch 14 | Batch 121/157] Loss: 2.2527
+[Epoch 14 | Batch 122/157] Loss: 2.2881
+[Epoch 14 | Batch 123/157] Loss: 2.3203
+[Epoch 14 | Batch 124/157] Loss: 2.4035
+[Epoch 14 | Batch 125/157] Loss: 2.3162
+[Epoch 14 | Batch 126/157] Loss: 2.1082
+[Epoch 14 | Batch 127/157] Loss: 2.4551
+[Epoch 14 | Batch 128/157] Loss: 2.1908
+[Epoch 14 | Batch 129/157] Loss: 2.5029
+[Epoch 14 | Batch 130/157] Loss: 2.3901
+[Epoch 14 | Batch 131/157] Loss: 2.4363
+[Epoch 14 | Batch 132/157] Loss: 2.2156
+[Epoch 14 | Batch 133/157] Loss: 2.4069
+[Epoch 14 | Batch 134/157] Loss: 2.2366
+[Epoch 14 | Batch 135/157] Loss: 2.1288
+[Epoch 14 | Batch 136/157] Loss: 2.3466
+[Epoch 14 | Batch 137/157] Loss: 2.3356
+[Epoch 14 | Batch 138/157] Loss: 2.4746
+[Epoch 14 | Batch 139/157] Loss: 2.2137
+[Epoch 14 | Batch 140/157] Loss: 2.0044
+[Epoch 14 | Batch 141/157] Loss: 2.6373
+[Epoch 14 | Batch 142/157] Loss: 2.1175
+[Epoch 14 | Batch 143/157] Loss: 2.3194
+[Epoch 14 | Batch 144/157] Loss: 2.1353
+[Epoch 14 | Batch 145/157] Loss: 2.3390
+[Epoch 14 | Batch 146/157] Loss: 2.2341
+[Epoch 14 | Batch 147/157] Loss: 2.2217
+[Epoch 14 | Batch 148/157] Loss: 2.1138
+[Epoch 14 | Batch 149/157] Loss: 2.3362
+[Epoch 14 | Batch 150/157] Loss: 2.3446
+[Epoch 14 | Batch 151/157] Loss: 2.4224
+[Epoch 14 | Batch 152/157] Loss: 2.5336
+[Epoch 14 | Batch 153/157] Loss: 2.1731
+[Epoch 14 | Batch 154/157] Loss: 2.2931
+[Epoch 14 | Batch 155/157] Loss: 2.2569
+[Epoch 14 | Batch 156/157] Loss: 2.3979
+[Epoch 14 | Batch 157/157] Loss: 2.4662
+[Epoch 14 | validated Batch 1/16]
+[Epoch 14 | validated Batch 2/16]
+[Epoch 14 | validated Batch 3/16]
+[Epoch 14 | validated Batch 4/16]
+[Epoch 14 | validated Batch 5/16]
+[Epoch 14 | validated Batch 6/16]
+[Epoch 14 | validated Batch 7/16]
+[Epoch 14 | validated Batch 8/16]
+[Epoch 14 | validated Batch 9/16]
+[Epoch 14 | validated Batch 10/16]
+[Epoch 14 | validated Batch 11/16]
+[Epoch 14 | validated Batch 12/16]
+[Epoch 14 | validated Batch 13/16]
+[Epoch 14 | validated Batch 14/16]
+[Epoch 14 | validated Batch 15/16]
+[Epoch 14 | validated Batch 16/16]
+[Epoch 14
+epoch_time: 2.2
+loss: 2.3028218746185303
+loss: 2.3572304248809814
+acc_top1: 0.272
+acc_top5: 0.642
+]
+[Epoch 15 | Batch 1/157] Loss: 2.2095
+[Epoch 15 | Batch 2/157] Loss: 2.2907
+[Epoch 15 | Batch 3/157] Loss: 2.4608
+[Epoch 15 | Batch 4/157] Loss: 2.0513
+[Epoch 15 | Batch 5/157] Loss: 2.1468
+[Epoch 15 | Batch 6/157] Loss: 2.3459
+[Epoch 15 | Batch 7/157] Loss: 2.3421
+[Epoch 15 | Batch 8/157] Loss: 2.2923
+[Epoch 15 | Batch 9/157] Loss: 2.1487
+[Epoch 15 | Batch 10/157] Loss: 2.1740
+[Epoch 15 | Batch 11/157] Loss: 2.2439
+[Epoch 15 | Batch 12/157] Loss: 2.4284
+[Epoch 15 | Batch 13/157] Loss: 2.2441
+[Epoch 15 | Batch 14/157] Loss: 2.3967
+[Epoch 15 | Batch 15/157] Loss: 2.3695
+[Epoch 15 | Batch 16/157] Loss: 2.1418
+[Epoch 15 | Batch 17/157] Loss: 2.2319
+[Epoch 15 | Batch 18/157] Loss: 2.4261
+[Epoch 15 | Batch 19/157] Loss: 2.3092
+[Epoch 15 | Batch 20/157] Loss: 2.3629
+[Epoch 15 | Batch 21/157] Loss: 2.2449
+[Epoch 15 | Batch 22/157] Loss: 2.2984
+[Epoch 15 | Batch 23/157] Loss: 2.1713
+[Epoch 15 | Batch 24/157] Loss: 2.4104
+[Epoch 15 | Batch 25/157] Loss: 2.4446
+[Epoch 15 | Batch 26/157] Loss: 2.0304
+[Epoch 15 | Batch 27/157] Loss: 2.2244
+[Epoch 15 | Batch 28/157] Loss: 2.3913
+[Epoch 15 | Batch 29/157] Loss: 2.0495
+[Epoch 15 | Batch 30/157] Loss: 2.1171
+[Epoch 15 | Batch 31/157] Loss: 2.4517
+[Epoch 15 | Batch 32/157] Loss: 2.1937
+[Epoch 15 | Batch 33/157] Loss: 2.3431
+[Epoch 15 | Batch 34/157] Loss: 2.2985
+[Epoch 15 | Batch 35/157] Loss: 2.2755
+[Epoch 15 | Batch 36/157] Loss: 2.1002
+[Epoch 15 | Batch 37/157] Loss: 2.2806
+[Epoch 15 | Batch 38/157] Loss: 2.2444
+[Epoch 15 | Batch 39/157] Loss: 2.3184
+[Epoch 15 | Batch 40/157] Loss: 2.1452
+[Epoch 15 | Batch 41/157] Loss: 2.3080
+[Epoch 15 | Batch 42/157] Loss: 2.3255
+[Epoch 15 | Batch 43/157] Loss: 2.3231
+[Epoch 15 | Batch 44/157] Loss: 2.3779
+[Epoch 15 | Batch 45/157] Loss: 2.3019
+[Epoch 15 | Batch 46/157] Loss: 2.3346
+[Epoch 15 | Batch 47/157] Loss: 2.4534
+[Epoch 15 | Batch 48/157] Loss: 2.1713
+[Epoch 15 | Batch 49/157] Loss: 2.1528
+[Epoch 15 | Batch 50/157] Loss: 2.1193
+[Epoch 15 | Batch 51/157] Loss: 2.4435
+[Epoch 15 | Batch 52/157] Loss: 2.2712
+[Epoch 15 | Batch 53/157] Loss: 2.0733
+[Epoch 15 | Batch 54/157] Loss: 2.2419
+[Epoch 15 | Batch 55/157] Loss: 2.3123
+[Epoch 15 | Batch 56/157] Loss: 2.2786
+[Epoch 15 | Batch 57/157] Loss: 2.4682
+[Epoch 15 | Batch 58/157] Loss: 2.1806
+[Epoch 15 | Batch 59/157] Loss: 2.4505
+[Epoch 15 | Batch 60/157] Loss: 2.2396
+[Epoch 15 | Batch 61/157] Loss: 2.2593
+[Epoch 15 | Batch 62/157] Loss: 2.2155
+[Epoch 15 | Batch 63/157] Loss: 2.3253
+[Epoch 15 | Batch 64/157] Loss: 2.5565
+[Epoch 15 | Batch 65/157] Loss: 2.1960
+[Epoch 15 | Batch 66/157] Loss: 2.1986
+[Epoch 15 | Batch 67/157] Loss: 2.6214
+[Epoch 15 | Batch 68/157] Loss: 2.1827
+[Epoch 15 | Batch 69/157] Loss: 2.5509
+[Epoch 15 | Batch 70/157] Loss: 2.5263
+[Epoch 15 | Batch 71/157] Loss: 2.2523
+[Epoch 15 | Batch 72/157] Loss: 2.2050
+[Epoch 15 | Batch 73/157] Loss: 2.3377
+[Epoch 15 | Batch 74/157] Loss: 2.5539
+[Epoch 15 | Batch 75/157] Loss: 2.2362
+[Epoch 15 | Batch 76/157] Loss: 2.3163
+[Epoch 15 | Batch 77/157] Loss: 2.0899
+[Epoch 15 | Batch 78/157] Loss: 2.2940
+[Epoch 15 | Batch 79/157] Loss: 2.2465
+[Epoch 15 | Batch 80/157] Loss: 2.4450
+[Epoch 15 | Batch 81/157] Loss: 2.4814
+[Epoch 15 | Batch 82/157] Loss: 2.1293
+[Epoch 15 | Batch 83/157] Loss: 2.1590
+[Epoch 15 | Batch 84/157] Loss: 2.3594
+[Epoch 15 | Batch 85/157] Loss: 2.1068
+[Epoch 15 | Batch 86/157] Loss: 2.2536
+[Epoch 15 | Batch 87/157] Loss: 2.0853
+[Epoch 15 | Batch 88/157] Loss: 2.1981
+[Epoch 15 | Batch 89/157] Loss: 2.3908
+[Epoch 15 | Batch 90/157] Loss: 2.2236
+[Epoch 15 | Batch 91/157] Loss: 2.3206
+[Epoch 15 | Batch 92/157] Loss: 2.0446
+[Epoch 15 | Batch 93/157] Loss: 2.1737
+[Epoch 15 | Batch 94/157] Loss: 2.2460
+[Epoch 15 | Batch 95/157] Loss: 2.2006
+[Epoch 15 | Batch 96/157] Loss: 2.2113
+[Epoch 15 | Batch 97/157] Loss: 2.3576
+[Epoch 15 | Batch 98/157] Loss: 2.2635
+[Epoch 15 | Batch 99/157] Loss: 2.1369
+[Epoch 15 | Batch 100/157] Loss: 2.4368
+[Epoch 15 | Batch 101/157] Loss: 2.5330
+[Epoch 15 | Batch 102/157] Loss: 2.1320
+[Epoch 15 | Batch 103/157] Loss: 2.2349
+[Epoch 15 | Batch 104/157] Loss: 2.3360
+[Epoch 15 | Batch 105/157] Loss: 2.4205
+[Epoch 15 | Batch 106/157] Loss: 2.2557
+[Epoch 15 | Batch 107/157] Loss: 2.4744
+[Epoch 15 | Batch 108/157] Loss: 2.2659
+[Epoch 15 | Batch 109/157] Loss: 2.5152
+[Epoch 15 | Batch 110/157] Loss: 2.4330
+[Epoch 15 | Batch 111/157] Loss: 2.5063
+[Epoch 15 | Batch 112/157] Loss: 2.3239
+[Epoch 15 | Batch 113/157] Loss: 2.0202
+[Epoch 15 | Batch 114/157] Loss: 2.3463
+[Epoch 15 | Batch 115/157] Loss: 2.3177
+[Epoch 15 | Batch 116/157] Loss: 2.2596
+[Epoch 15 | Batch 117/157] Loss: 2.5053
+[Epoch 15 | Batch 118/157] Loss: 2.3265
+[Epoch 15 | Batch 119/157] Loss: 2.3520
+[Epoch 15 | Batch 120/157] Loss: 2.6404
+[Epoch 15 | Batch 121/157] Loss: 2.2409
+[Epoch 15 | Batch 122/157] Loss: 2.2896
+[Epoch 15 | Batch 123/157] Loss: 2.0368
+[Epoch 15 | Batch 124/157] Loss: 2.3139
+[Epoch 15 | Batch 125/157] Loss: 2.1511
+[Epoch 15 | Batch 126/157] Loss: 2.4072
+[Epoch 15 | Batch 127/157] Loss: 2.5265
+[Epoch 15 | Batch 128/157] Loss: 2.3570
+[Epoch 15 | Batch 129/157] Loss: 2.0452
+[Epoch 15 | Batch 130/157] Loss: 2.3376
+[Epoch 15 | Batch 131/157] Loss: 2.3595
+[Epoch 15 | Batch 132/157] Loss: 2.3537
+[Epoch 15 | Batch 133/157] Loss: 2.2493
+[Epoch 15 | Batch 134/157] Loss: 2.3962
+[Epoch 15 | Batch 135/157] Loss: 2.1074
+[Epoch 15 | Batch 136/157] Loss: 2.2633
+[Epoch 15 | Batch 137/157] Loss: 2.3779
+[Epoch 15 | Batch 138/157] Loss: 2.2192
+[Epoch 15 | Batch 139/157] Loss: 2.2768
+[Epoch 15 | Batch 140/157] Loss: 2.3291
+[Epoch 15 | Batch 141/157] Loss: 2.4180
+[Epoch 15 | Batch 142/157] Loss: 1.9809
+[Epoch 15 | Batch 143/157] Loss: 2.2863
+[Epoch 15 | Batch 144/157] Loss: 2.2318
+[Epoch 15 | Batch 145/157] Loss: 2.5368
+[Epoch 15 | Batch 146/157] Loss: 2.3824
+[Epoch 15 | Batch 147/157] Loss: 2.3002
+[Epoch 15 | Batch 148/157] Loss: 2.3120
+[Epoch 15 | Batch 149/157] Loss: 2.2348
+[Epoch 15 | Batch 150/157] Loss: 2.3561
+[Epoch 15 | Batch 151/157] Loss: 2.0897
+[Epoch 15 | Batch 152/157] Loss: 2.1259
+[Epoch 15 | Batch 153/157] Loss: 2.2322
+[Epoch 15 | Batch 154/157] Loss: 1.9870
+[Epoch 15 | Batch 155/157] Loss: 2.3658
+[Epoch 15 | Batch 156/157] Loss: 2.3045
+[Epoch 15 | Batch 157/157] Loss: 1.9938
+[Epoch 15 | validated Batch 1/16]
+[Epoch 15 | validated Batch 2/16]
+[Epoch 15 | validated Batch 3/16]
+[Epoch 15 | validated Batch 4/16]
+[Epoch 15 | validated Batch 5/16]
+[Epoch 15 | validated Batch 6/16]
+[Epoch 15 | validated Batch 7/16]
+[Epoch 15 | validated Batch 8/16]
+[Epoch 15 | validated Batch 9/16]
+[Epoch 15 | validated Batch 10/16]
+[Epoch 15 | validated Batch 11/16]
+[Epoch 15 | validated Batch 12/16]
+[Epoch 15 | validated Batch 13/16]
+[Epoch 15 | validated Batch 14/16]
+[Epoch 15 | validated Batch 15/16]
+[Epoch 15 | validated Batch 16/16]
+[Epoch 15
+epoch_time: 2.3
+loss: 2.2870113849639893
+loss: 2.3338348865509033
+acc_top1: 0.278
+acc_top5: 0.651
+]
+[Epoch 16 | Batch 1/157] Loss: 2.2811
+[Epoch 16 | Batch 2/157] Loss: 2.0080
+[Epoch 16 | Batch 3/157] Loss: 2.2267
+[Epoch 16 | Batch 4/157] Loss: 2.2325
+[Epoch 16 | Batch 5/157] Loss: 2.4111
+[Epoch 16 | Batch 6/157] Loss: 2.1934
+[Epoch 16 | Batch 7/157] Loss: 2.3332
+[Epoch 16 | Batch 8/157] Loss: 2.3388
+[Epoch 16 | Batch 9/157] Loss: 2.4057
+[Epoch 16 | Batch 10/157] Loss: 2.5789
+[Epoch 16 | Batch 11/157] Loss: 2.2196
+[Epoch 16 | Batch 12/157] Loss: 2.2452
+[Epoch 16 | Batch 13/157] Loss: 2.3271
+[Epoch 16 | Batch 14/157] Loss: 2.3965
+[Epoch 16 | Batch 15/157] Loss: 2.1605
+[Epoch 16 | Batch 16/157] Loss: 2.1191
+[Epoch 16 | Batch 17/157] Loss: 2.2546
+[Epoch 16 | Batch 18/157] Loss: 2.0788
+[Epoch 16 | Batch 19/157] Loss: 2.3769
+[Epoch 16 | Batch 20/157] Loss: 2.4750
+[Epoch 16 | Batch 21/157] Loss: 2.3298
+[Epoch 16 | Batch 22/157] Loss: 2.5671
+[Epoch 16 | Batch 23/157] Loss: 2.2573
+[Epoch 16 | Batch 24/157] Loss: 2.2972
+[Epoch 16 | Batch 25/157] Loss: 2.2719
+[Epoch 16 | Batch 26/157] Loss: 2.3813
+[Epoch 16 | Batch 27/157] Loss: 2.3372
+[Epoch 16 | Batch 28/157] Loss: 2.3390
+[Epoch 16 | Batch 29/157] Loss: 2.4081
+[Epoch 16 | Batch 30/157] Loss: 2.2147
+[Epoch 16 | Batch 31/157] Loss: 2.2355
+[Epoch 16 | Batch 32/157] Loss: 2.4105
+[Epoch 16 | Batch 33/157] Loss: 2.3107
+[Epoch 16 | Batch 34/157] Loss: 2.1878
+[Epoch 16 | Batch 35/157] Loss: 2.3921
+[Epoch 16 | Batch 36/157] Loss: 2.2111
+[Epoch 16 | Batch 37/157] Loss: 2.3584
+[Epoch 16 | Batch 38/157] Loss: 2.2602
+[Epoch 16 | Batch 39/157] Loss: 2.2754
+[Epoch 16 | Batch 40/157] Loss: 2.2225
+[Epoch 16 | Batch 41/157] Loss: 2.3128
+[Epoch 16 | Batch 42/157] Loss: 2.2972
+[Epoch 16 | Batch 43/157] Loss: 2.2143
+[Epoch 16 | Batch 44/157] Loss: 2.2093
+[Epoch 16 | Batch 45/157] Loss: 2.1686
+[Epoch 16 | Batch 46/157] Loss: 2.3307
+[Epoch 16 | Batch 47/157] Loss: 2.6199
+[Epoch 16 | Batch 48/157] Loss: 2.2855
+[Epoch 16 | Batch 49/157] Loss: 2.1888
+[Epoch 16 | Batch 50/157] Loss: 2.2375
+[Epoch 16 | Batch 51/157] Loss: 2.1499
+[Epoch 16 | Batch 52/157] Loss: 2.4066
+[Epoch 16 | Batch 53/157] Loss: 2.4156
+[Epoch 16 | Batch 54/157] Loss: 2.5299
+[Epoch 16 | Batch 55/157] Loss: 2.2878
+[Epoch 16 | Batch 56/157] Loss: 2.2305
+[Epoch 16 | Batch 57/157] Loss: 2.2249
+[Epoch 16 | Batch 58/157] Loss: 2.4318
+[Epoch 16 | Batch 59/157] Loss: 2.1683
+[Epoch 16 | Batch 60/157] Loss: 2.2719
+[Epoch 16 | Batch 61/157] Loss: 2.3379
+[Epoch 16 | Batch 62/157] Loss: 2.1230
+[Epoch 16 | Batch 63/157] Loss: 2.4596
+[Epoch 16 | Batch 64/157] Loss: 2.4529
+[Epoch 16 | Batch 65/157] Loss: 2.3389
+[Epoch 16 | Batch 66/157] Loss: 2.2031
+[Epoch 16 | Batch 67/157] Loss: 2.1189
+[Epoch 16 | Batch 68/157] Loss: 2.2660
+[Epoch 16 | Batch 69/157] Loss: 2.2336
+[Epoch 16 | Batch 70/157] Loss: 2.1938
+[Epoch 16 | Batch 71/157] Loss: 2.4571
+[Epoch 16 | Batch 72/157] Loss: 2.1816
+[Epoch 16 | Batch 73/157] Loss: 2.1074
+[Epoch 16 | Batch 74/157] Loss: 2.5689
+[Epoch 16 | Batch 75/157] Loss: 2.2631
+[Epoch 16 | Batch 76/157] Loss: 2.3193
+[Epoch 16 | Batch 77/157] Loss: 2.1976
+[Epoch 16 | Batch 78/157] Loss: 2.3189
+[Epoch 16 | Batch 79/157] Loss: 2.2797
+[Epoch 16 | Batch 80/157] Loss: 2.3216
+[Epoch 16 | Batch 81/157] Loss: 2.2176
+[Epoch 16 | Batch 82/157] Loss: 2.1926
+[Epoch 16 | Batch 83/157] Loss: 2.2360
+[Epoch 16 | Batch 84/157] Loss: 2.3868
+[Epoch 16 | Batch 85/157] Loss: 2.2257
+[Epoch 16 | Batch 86/157] Loss: 2.3539
+[Epoch 16 | Batch 87/157] Loss: 2.3542
+[Epoch 16 | Batch 88/157] Loss: 2.3825
+[Epoch 16 | Batch 89/157] Loss: 2.4602
+[Epoch 16 | Batch 90/157] Loss: 2.2231
+[Epoch 16 | Batch 91/157] Loss: 2.3625
+[Epoch 16 | Batch 92/157] Loss: 2.4291
+[Epoch 16 | Batch 93/157] Loss: 2.2822
+[Epoch 16 | Batch 94/157] Loss: 2.2495
+[Epoch 16 | Batch 95/157] Loss: 2.1041
+[Epoch 16 | Batch 96/157] Loss: 2.3114
+[Epoch 16 | Batch 97/157] Loss: 2.1198
+[Epoch 16 | Batch 98/157] Loss: 2.4387
+[Epoch 16 | Batch 99/157] Loss: 2.2779
+[Epoch 16 | Batch 100/157] Loss: 2.2409
+[Epoch 16 | Batch 101/157] Loss: 2.1269
+[Epoch 16 | Batch 102/157] Loss: 2.3425
+[Epoch 16 | Batch 103/157] Loss: 2.1799
+[Epoch 16 | Batch 104/157] Loss: 2.2978
+[Epoch 16 | Batch 105/157] Loss: 2.2352
+[Epoch 16 | Batch 106/157] Loss: 2.3954
+[Epoch 16 | Batch 107/157] Loss: 2.0122
+[Epoch 16 | Batch 108/157] Loss: 2.2252
+[Epoch 16 | Batch 109/157] Loss: 2.1799
+[Epoch 16 | Batch 110/157] Loss: 2.5250
+[Epoch 16 | Batch 111/157] Loss: 2.0709
+[Epoch 16 | Batch 112/157] Loss: 2.3627
+[Epoch 16 | Batch 113/157] Loss: 2.2897
+[Epoch 16 | Batch 114/157] Loss: 2.2557
+[Epoch 16 | Batch 115/157] Loss: 2.3457
+[Epoch 16 | Batch 116/157] Loss: 2.4047
+[Epoch 16 | Batch 117/157] Loss: 2.2165
+[Epoch 16 | Batch 118/157] Loss: 1.8965
+[Epoch 16 | Batch 119/157] Loss: 2.1452
+[Epoch 16 | Batch 120/157] Loss: 2.0167
+[Epoch 16 | Batch 121/157] Loss: 2.1067
+[Epoch 16 | Batch 122/157] Loss: 2.2870
+[Epoch 16 | Batch 123/157] Loss: 2.3156
+[Epoch 16 | Batch 124/157] Loss: 2.1874
+[Epoch 16 | Batch 125/157] Loss: 2.3741
+[Epoch 16 | Batch 126/157] Loss: 2.2743
+[Epoch 16 | Batch 127/157] Loss: 2.1500
+[Epoch 16 | Batch 128/157] Loss: 2.2710
+[Epoch 16 | Batch 129/157] Loss: 2.3292
+[Epoch 16 | Batch 130/157] Loss: 2.2421
+[Epoch 16 | Batch 131/157] Loss: 2.2428
+[Epoch 16 | Batch 132/157] Loss: 2.3196
+[Epoch 16 | Batch 133/157] Loss: 2.4471
+[Epoch 16 | Batch 134/157] Loss: 2.2709
+[Epoch 16 | Batch 135/157] Loss: 2.1624
+[Epoch 16 | Batch 136/157] Loss: 2.3785
+[Epoch 16 | Batch 137/157] Loss: 2.5380
+[Epoch 16 | Batch 138/157] Loss: 2.1008
+[Epoch 16 | Batch 139/157] Loss: 2.3867
+[Epoch 16 | Batch 140/157] Loss: 2.1980
+[Epoch 16 | Batch 141/157] Loss: 2.4169
+[Epoch 16 | Batch 142/157] Loss: 2.1338
+[Epoch 16 | Batch 143/157] Loss: 2.4088
+[Epoch 16 | Batch 144/157] Loss: 2.2664
+[Epoch 16 | Batch 145/157] Loss: 2.3217
+[Epoch 16 | Batch 146/157] Loss: 2.3085
+[Epoch 16 | Batch 147/157] Loss: 2.3503
+[Epoch 16 | Batch 148/157] Loss: 2.4480
+[Epoch 16 | Batch 149/157] Loss: 2.4614
+[Epoch 16 | Batch 150/157] Loss: 2.0772
+[Epoch 16 | Batch 151/157] Loss: 2.2944
+[Epoch 16 | Batch 152/157] Loss: 2.4074
+[Epoch 16 | Batch 153/157] Loss: 1.8856
+[Epoch 16 | Batch 154/157] Loss: 2.2165
+[Epoch 16 | Batch 155/157] Loss: 2.2673
+[Epoch 16 | Batch 156/157] Loss: 2.1851
+[Epoch 16 | Batch 157/157] Loss: 2.2091
+[Epoch 16 | validated Batch 1/16]
+[Epoch 16 | validated Batch 2/16]
+[Epoch 16 | validated Batch 3/16]
+[Epoch 16 | validated Batch 4/16]
+[Epoch 16 | validated Batch 5/16]
+[Epoch 16 | validated Batch 6/16]
+[Epoch 16 | validated Batch 7/16]
+[Epoch 16 | validated Batch 8/16]
+[Epoch 16 | validated Batch 9/16]
+[Epoch 16 | validated Batch 10/16]
+[Epoch 16 | validated Batch 11/16]
+[Epoch 16 | validated Batch 12/16]
+[Epoch 16 | validated Batch 13/16]
+[Epoch 16 | validated Batch 14/16]
+[Epoch 16 | validated Batch 15/16]
+[Epoch 16 | validated Batch 16/16]
+[Epoch 16
+epoch_time: 2.2
+loss: 2.282315731048584
+loss: 2.3214917182922363
+acc_top1: 0.287
+acc_top5: 0.665
+]
+[Epoch 17 | Batch 1/157] Loss: 2.0943
+[Epoch 17 | Batch 2/157] Loss: 2.2151
+[Epoch 17 | Batch 3/157] Loss: 2.1948
+[Epoch 17 | Batch 4/157] Loss: 2.0128
+[Epoch 17 | Batch 5/157] Loss: 2.3092
+[Epoch 17 | Batch 6/157] Loss: 2.3919
+[Epoch 17 | Batch 7/157] Loss: 2.2959
+[Epoch 17 | Batch 8/157] Loss: 2.2397
+[Epoch 17 | Batch 9/157] Loss: 2.0563
+[Epoch 17 | Batch 10/157] Loss: 2.0634
+[Epoch 17 | Batch 11/157] Loss: 1.9830
+[Epoch 17 | Batch 12/157] Loss: 2.3538
+[Epoch 17 | Batch 13/157] Loss: 2.1644
+[Epoch 17 | Batch 14/157] Loss: 2.1147
+[Epoch 17 | Batch 15/157] Loss: 2.5296
+[Epoch 17 | Batch 16/157] Loss: 2.0053
+[Epoch 17 | Batch 17/157] Loss: 2.2690
+[Epoch 17 | Batch 18/157] Loss: 2.0223
+[Epoch 17 | Batch 19/157] Loss: 2.2746
+[Epoch 17 | Batch 20/157] Loss: 2.3053
+[Epoch 17 | Batch 21/157] Loss: 2.3468
+[Epoch 17 | Batch 22/157] Loss: 2.3798
+[Epoch 17 | Batch 23/157] Loss: 1.8376
+[Epoch 17 | Batch 24/157] Loss: 2.2779
+[Epoch 17 | Batch 25/157] Loss: 2.2437
+[Epoch 17 | Batch 26/157] Loss: 2.1448
+[Epoch 17 | Batch 27/157] Loss: 2.1428
+[Epoch 17 | Batch 28/157] Loss: 2.3851
+[Epoch 17 | Batch 29/157] Loss: 2.2973
+[Epoch 17 | Batch 30/157] Loss: 2.2459
+[Epoch 17 | Batch 31/157] Loss: 2.3378
+[Epoch 17 | Batch 32/157] Loss: 1.9633
+[Epoch 17 | Batch 33/157] Loss: 2.3684
+[Epoch 17 | Batch 34/157] Loss: 2.2577
+[Epoch 17 | Batch 35/157] Loss: 2.3306
+[Epoch 17 | Batch 36/157] Loss: 2.1770
+[Epoch 17 | Batch 37/157] Loss: 2.3031
+[Epoch 17 | Batch 38/157] Loss: 2.3801
+[Epoch 17 | Batch 39/157] Loss: 2.3854
+[Epoch 17 | Batch 40/157] Loss: 2.0255
+[Epoch 17 | Batch 41/157] Loss: 2.4893
+[Epoch 17 | Batch 42/157] Loss: 2.0409
+[Epoch 17 | Batch 43/157] Loss: 2.5096
+[Epoch 17 | Batch 44/157] Loss: 2.3109
+[Epoch 17 | Batch 45/157] Loss: 2.1721
+[Epoch 17 | Batch 46/157] Loss: 2.2637
+[Epoch 17 | Batch 47/157] Loss: 2.2394
+[Epoch 17 | Batch 48/157] Loss: 2.1462
+[Epoch 17 | Batch 49/157] Loss: 2.3008
+[Epoch 17 | Batch 50/157] Loss: 2.2873
+[Epoch 17 | Batch 51/157] Loss: 2.1745
+[Epoch 17 | Batch 52/157] Loss: 2.4191
+[Epoch 17 | Batch 53/157] Loss: 2.3354
+[Epoch 17 | Batch 54/157] Loss: 2.3471
+[Epoch 17 | Batch 55/157] Loss: 2.4695
+[Epoch 17 | Batch 56/157] Loss: 2.2875
+[Epoch 17 | Batch 57/157] Loss: 2.1680
+[Epoch 17 | Batch 58/157] Loss: 2.3157
+[Epoch 17 | Batch 59/157] Loss: 2.2832
+[Epoch 17 | Batch 60/157] Loss: 2.4545
+[Epoch 17 | Batch 61/157] Loss: 2.2829
+[Epoch 17 | Batch 62/157] Loss: 2.2008
+[Epoch 17 | Batch 63/157] Loss: 2.2052
+[Epoch 17 | Batch 64/157] Loss: 2.5373
+[Epoch 17 | Batch 65/157] Loss: 2.2952
+[Epoch 17 | Batch 66/157] Loss: 2.2496
+[Epoch 17 | Batch 67/157] Loss: 2.1014
+[Epoch 17 | Batch 68/157] Loss: 2.3635
+[Epoch 17 | Batch 69/157] Loss: 2.4715
+[Epoch 17 | Batch 70/157] Loss: 2.3168
+[Epoch 17 | Batch 71/157] Loss: 2.2542
+[Epoch 17 | Batch 72/157] Loss: 2.2412
+[Epoch 17 | Batch 73/157] Loss: 2.3998
+[Epoch 17 | Batch 74/157] Loss: 2.5227
+[Epoch 17 | Batch 75/157] Loss: 2.3222
+[Epoch 17 | Batch 76/157] Loss: 2.2009
+[Epoch 17 | Batch 77/157] Loss: 2.1349
+[Epoch 17 | Batch 78/157] Loss: 2.3252
+[Epoch 17 | Batch 79/157] Loss: 2.6295
+[Epoch 17 | Batch 80/157] Loss: 2.3187
+[Epoch 17 | Batch 81/157] Loss: 2.2619
+[Epoch 17 | Batch 82/157] Loss: 2.1138
+[Epoch 17 | Batch 83/157] Loss: 2.3351
+[Epoch 17 | Batch 84/157] Loss: 2.4944
+[Epoch 17 | Batch 85/157] Loss: 2.1506
+[Epoch 17 | Batch 86/157] Loss: 2.4149
+[Epoch 17 | Batch 87/157] Loss: 2.1822
+[Epoch 17 | Batch 88/157] Loss: 2.2242
+[Epoch 17 | Batch 89/157] Loss: 2.1960
+[Epoch 17 | Batch 90/157] Loss: 2.2868
+[Epoch 17 | Batch 91/157] Loss: 2.3583
+[Epoch 17 | Batch 92/157] Loss: 2.4520
+[Epoch 17 | Batch 93/157] Loss: 2.2285
+[Epoch 17 | Batch 94/157] Loss: 2.0596
+[Epoch 17 | Batch 95/157] Loss: 2.0698
+[Epoch 17 | Batch 96/157] Loss: 2.2041
+[Epoch 17 | Batch 97/157] Loss: 2.2318
+[Epoch 17 | Batch 98/157] Loss: 2.1380
+[Epoch 17 | Batch 99/157] Loss: 2.1220
+[Epoch 17 | Batch 100/157] Loss: 2.4309
+[Epoch 17 | Batch 101/157] Loss: 2.4712
+[Epoch 17 | Batch 102/157] Loss: 2.2910
+[Epoch 17 | Batch 103/157] Loss: 2.4667
+[Epoch 17 | Batch 104/157] Loss: 2.1990
+[Epoch 17 | Batch 105/157] Loss: 2.2931
+[Epoch 17 | Batch 106/157] Loss: 2.3106
+[Epoch 17 | Batch 107/157] Loss: 2.3792
+[Epoch 17 | Batch 108/157] Loss: 2.0283
+[Epoch 17 | Batch 109/157] Loss: 2.1773
+[Epoch 17 | Batch 110/157] Loss: 2.0205
+[Epoch 17 | Batch 111/157] Loss: 2.3141
+[Epoch 17 | Batch 112/157] Loss: 2.1819
+[Epoch 17 | Batch 113/157] Loss: 2.5343
+[Epoch 17 | Batch 114/157] Loss: 2.3656
+[Epoch 17 | Batch 115/157] Loss: 2.1781
+[Epoch 17 | Batch 116/157] Loss: 2.3029
+[Epoch 17 | Batch 117/157] Loss: 2.4769
+[Epoch 17 | Batch 118/157] Loss: 2.5386
+[Epoch 17 | Batch 119/157] Loss: 2.2743
+[Epoch 17 | Batch 120/157] Loss: 2.3217
+[Epoch 17 | Batch 121/157] Loss: 2.1584
+[Epoch 17 | Batch 122/157] Loss: 2.1305
+[Epoch 17 | Batch 123/157] Loss: 2.3200
+[Epoch 17 | Batch 124/157] Loss: 2.1896
+[Epoch 17 | Batch 125/157] Loss: 2.5290
+[Epoch 17 | Batch 126/157] Loss: 2.0493
+[Epoch 17 | Batch 127/157] Loss: 2.2998
+[Epoch 17 | Batch 128/157] Loss: 2.2919
+[Epoch 17 | Batch 129/157] Loss: 2.0525
+[Epoch 17 | Batch 130/157] Loss: 2.4165
+[Epoch 17 | Batch 131/157] Loss: 2.4133
+[Epoch 17 | Batch 132/157] Loss: 2.0142
+[Epoch 17 | Batch 133/157] Loss: 2.0931
+[Epoch 17 | Batch 134/157] Loss: 2.3507
+[Epoch 17 | Batch 135/157] Loss: 2.1443
+[Epoch 17 | Batch 136/157] Loss: 2.2065
+[Epoch 17 | Batch 137/157] Loss: 2.0749
+[Epoch 17 | Batch 138/157] Loss: 2.6596
+[Epoch 17 | Batch 139/157] Loss: 2.3804
+[Epoch 17 | Batch 140/157] Loss: 2.2570
+[Epoch 17 | Batch 141/157] Loss: 2.3776
+[Epoch 17 | Batch 142/157] Loss: 2.3508
+[Epoch 17 | Batch 143/157] Loss: 2.5148
+[Epoch 17 | Batch 144/157] Loss: 2.3885
+[Epoch 17 | Batch 145/157] Loss: 2.3456
+[Epoch 17 | Batch 146/157] Loss: 2.2617
+[Epoch 17 | Batch 147/157] Loss: 2.2469
+[Epoch 17 | Batch 148/157] Loss: 2.2504
+[Epoch 17 | Batch 149/157] Loss: 1.9731
+[Epoch 17 | Batch 150/157] Loss: 2.4170
+[Epoch 17 | Batch 151/157] Loss: 2.0441
+[Epoch 17 | Batch 152/157] Loss: 2.3735
+[Epoch 17 | Batch 153/157] Loss: 2.1914
+[Epoch 17 | Batch 154/157] Loss: 2.1977
+[Epoch 17 | Batch 155/157] Loss: 2.4888
+[Epoch 17 | Batch 156/157] Loss: 2.3999
+[Epoch 17 | Batch 157/157] Loss: 2.5489
+[Epoch 17 | validated Batch 1/16]
+[Epoch 17 | validated Batch 2/16]
+[Epoch 17 | validated Batch 3/16]
+[Epoch 17 | validated Batch 4/16]
+[Epoch 17 | validated Batch 5/16]
+[Epoch 17 | validated Batch 6/16]
+[Epoch 17 | validated Batch 7/16]
+[Epoch 17 | validated Batch 8/16]
+[Epoch 17 | validated Batch 9/16]
+[Epoch 17 | validated Batch 10/16]
+[Epoch 17 | validated Batch 11/16]
+[Epoch 17 | validated Batch 12/16]
+[Epoch 17 | validated Batch 13/16]
+[Epoch 17 | validated Batch 14/16]
+[Epoch 17 | validated Batch 15/16]
+[Epoch 17 | validated Batch 16/16]
+[Epoch 17
+epoch_time: 2.6
+loss: 2.269979476928711
+loss: 2.336662769317627
+acc_top1: 0.288
+acc_top5: 0.657
+]
+[Epoch 18 | Batch 1/157] Loss: 2.4175
+[Epoch 18 | Batch 2/157] Loss: 2.0723
+[Epoch 18 | Batch 3/157] Loss: 2.1368
+[Epoch 18 | Batch 4/157] Loss: 2.2721
+[Epoch 18 | Batch 5/157] Loss: 1.9892
+[Epoch 18 | Batch 6/157] Loss: 2.2509
+[Epoch 18 | Batch 7/157] Loss: 2.1748
+[Epoch 18 | Batch 8/157] Loss: 2.2287
+[Epoch 18 | Batch 9/157] Loss: 2.2530
+[Epoch 18 | Batch 10/157] Loss: 2.1356
+[Epoch 18 | Batch 11/157] Loss: 1.9876
+[Epoch 18 | Batch 12/157] Loss: 2.0620
+[Epoch 18 | Batch 13/157] Loss: 2.2537
+[Epoch 18 | Batch 14/157] Loss: 2.2985
+[Epoch 18 | Batch 15/157] Loss: 2.0361
+[Epoch 18 | Batch 16/157] Loss: 1.9306
+[Epoch 18 | Batch 17/157] Loss: 2.2370
+[Epoch 18 | Batch 18/157] Loss: 2.2509
+[Epoch 18 | Batch 19/157] Loss: 2.2750
+[Epoch 18 | Batch 20/157] Loss: 2.1206
+[Epoch 18 | Batch 21/157] Loss: 2.1985
+[Epoch 18 | Batch 22/157] Loss: 2.2791
+[Epoch 18 | Batch 23/157] Loss: 2.1012
+[Epoch 18 | Batch 24/157] Loss: 2.2991
+[Epoch 18 | Batch 25/157] Loss: 2.0146
+[Epoch 18 | Batch 26/157] Loss: 2.2525
+[Epoch 18 | Batch 27/157] Loss: 2.0349
+[Epoch 18 | Batch 28/157] Loss: 2.4821
+[Epoch 18 | Batch 29/157] Loss: 2.4142
+[Epoch 18 | Batch 30/157] Loss: 2.3191
+[Epoch 18 | Batch 31/157] Loss: 2.2880
+[Epoch 18 | Batch 32/157] Loss: 2.3977
+[Epoch 18 | Batch 33/157] Loss: 2.1323
+[Epoch 18 | Batch 34/157] Loss: 2.2638
+[Epoch 18 | Batch 35/157] Loss: 2.2884
+[Epoch 18 | Batch 36/157] Loss: 2.1946
+[Epoch 18 | Batch 37/157] Loss: 2.4732
+[Epoch 18 | Batch 38/157] Loss: 2.6218
+[Epoch 18 | Batch 39/157] Loss: 2.1594
+[Epoch 18 | Batch 40/157] Loss: 2.3620
+[Epoch 18 | Batch 41/157] Loss: 2.2050
+[Epoch 18 | Batch 42/157] Loss: 2.3434
+[Epoch 18 | Batch 43/157] Loss: 2.3350
+[Epoch 18 | Batch 44/157] Loss: 2.0688
+[Epoch 18 | Batch 45/157] Loss: 2.2650
+[Epoch 18 | Batch 46/157] Loss: 1.8839
+[Epoch 18 | Batch 47/157] Loss: 2.1787
+[Epoch 18 | Batch 48/157] Loss: 2.1909
+[Epoch 18 | Batch 49/157] Loss: 2.4883
+[Epoch 18 | Batch 50/157] Loss: 2.3582
+[Epoch 18 | Batch 51/157] Loss: 2.2000
+[Epoch 18 | Batch 52/157] Loss: 2.1719
+[Epoch 18 | Batch 53/157] Loss: 2.3254
+[Epoch 18 | Batch 54/157] Loss: 2.2825
+[Epoch 18 | Batch 55/157] Loss: 2.3924
+[Epoch 18 | Batch 56/157] Loss: 2.2332
+[Epoch 18 | Batch 57/157] Loss: 2.1406
+[Epoch 18 | Batch 58/157] Loss: 2.2546
+[Epoch 18 | Batch 59/157] Loss: 2.2815
+[Epoch 18 | Batch 60/157] Loss: 2.4208
+[Epoch 18 | Batch 61/157] Loss: 2.3673
+[Epoch 18 | Batch 62/157] Loss: 2.0582
+[Epoch 18 | Batch 63/157] Loss: 2.2238
+[Epoch 18 | Batch 64/157] Loss: 2.1430
+[Epoch 18 | Batch 65/157] Loss: 2.2833
+[Epoch 18 | Batch 66/157] Loss: 2.4735
+[Epoch 18 | Batch 67/157] Loss: 2.0047
+[Epoch 18 | Batch 68/157] Loss: 2.2909
+[Epoch 18 | Batch 69/157] Loss: 2.4697
+[Epoch 18 | Batch 70/157] Loss: 2.2804
+[Epoch 18 | Batch 71/157] Loss: 2.1120
+[Epoch 18 | Batch 72/157] Loss: 2.3434
+[Epoch 18 | Batch 73/157] Loss: 2.3361
+[Epoch 18 | Batch 74/157] Loss: 2.2147
+[Epoch 18 | Batch 75/157] Loss: 2.1572
+[Epoch 18 | Batch 76/157] Loss: 2.3464
+[Epoch 18 | Batch 77/157] Loss: 2.2367
+[Epoch 18 | Batch 78/157] Loss: 2.1178
+[Epoch 18 | Batch 79/157] Loss: 2.3596
+[Epoch 18 | Batch 80/157] Loss: 2.2862
+[Epoch 18 | Batch 81/157] Loss: 2.2785
+[Epoch 18 | Batch 82/157] Loss: 2.3098
+[Epoch 18 | Batch 83/157] Loss: 2.1938
+[Epoch 18 | Batch 84/157] Loss: 2.1400
+[Epoch 18 | Batch 85/157] Loss: 2.0621
+[Epoch 18 | Batch 86/157] Loss: 1.8644
+[Epoch 18 | Batch 87/157] Loss: 2.4013
+[Epoch 18 | Batch 88/157] Loss: 2.0821
+[Epoch 18 | Batch 89/157] Loss: 2.2168
+[Epoch 18 | Batch 90/157] Loss: 2.3098
+[Epoch 18 | Batch 91/157] Loss: 2.1801
+[Epoch 18 | Batch 92/157] Loss: 2.3238
+[Epoch 18 | Batch 93/157] Loss: 2.1475
+[Epoch 18 | Batch 94/157] Loss: 2.4981
+[Epoch 18 | Batch 95/157] Loss: 2.3231
+[Epoch 18 | Batch 96/157] Loss: 2.4621
+[Epoch 18 | Batch 97/157] Loss: 2.2826
+[Epoch 18 | Batch 98/157] Loss: 2.4255
+[Epoch 18 | Batch 99/157] Loss: 1.8660
+[Epoch 18 | Batch 100/157] Loss: 2.1544
+[Epoch 18 | Batch 101/157] Loss: 2.2081
+[Epoch 18 | Batch 102/157] Loss: 2.1300
+[Epoch 18 | Batch 103/157] Loss: 2.3441
+[Epoch 18 | Batch 104/157] Loss: 2.4196
+[Epoch 18 | Batch 105/157] Loss: 2.3576
+[Epoch 18 | Batch 106/157] Loss: 2.3221
+[Epoch 18 | Batch 107/157] Loss: 2.1999
+[Epoch 18 | Batch 108/157] Loss: 2.4460
+[Epoch 18 | Batch 109/157] Loss: 2.3461
+[Epoch 18 | Batch 110/157] Loss: 2.3606
+[Epoch 18 | Batch 111/157] Loss: 2.3694
+[Epoch 18 | Batch 112/157] Loss: 2.1355
+[Epoch 18 | Batch 113/157] Loss: 2.2969
+[Epoch 18 | Batch 114/157] Loss: 2.2284
+[Epoch 18 | Batch 115/157] Loss: 2.6014
+[Epoch 18 | Batch 116/157] Loss: 2.2084
+[Epoch 18 | Batch 117/157] Loss: 2.2524
+[Epoch 18 | Batch 118/157] Loss: 2.5511
+[Epoch 18 | Batch 119/157] Loss: 2.3197
+[Epoch 18 | Batch 120/157] Loss: 2.2351
+[Epoch 18 | Batch 121/157] Loss: 2.4864
+[Epoch 18 | Batch 122/157] Loss: 2.3372
+[Epoch 18 | Batch 123/157] Loss: 2.2016
+[Epoch 18 | Batch 124/157] Loss: 2.3799
+[Epoch 18 | Batch 125/157] Loss: 2.1788
+[Epoch 18 | Batch 126/157] Loss: 2.2916
+[Epoch 18 | Batch 127/157] Loss: 2.3279
+[Epoch 18 | Batch 128/157] Loss: 2.5392
+[Epoch 18 | Batch 129/157] Loss: 2.2674
+[Epoch 18 | Batch 130/157] Loss: 2.5342
+[Epoch 18 | Batch 131/157] Loss: 2.3759
+[Epoch 18 | Batch 132/157] Loss: 2.2272
+[Epoch 18 | Batch 133/157] Loss: 2.2761
+[Epoch 18 | Batch 134/157] Loss: 2.1868
+[Epoch 18 | Batch 135/157] Loss: 2.2100
+[Epoch 18 | Batch 136/157] Loss: 1.9550
+[Epoch 18 | Batch 137/157] Loss: 2.1627
+[Epoch 18 | Batch 138/157] Loss: 2.4914
+[Epoch 18 | Batch 139/157] Loss: 2.5711
+[Epoch 18 | Batch 140/157] Loss: 2.3569
+[Epoch 18 | Batch 141/157] Loss: 2.2194
+[Epoch 18 | Batch 142/157] Loss: 2.1945
+[Epoch 18 | Batch 143/157] Loss: 2.0065
+[Epoch 18 | Batch 144/157] Loss: 2.3982
+[Epoch 18 | Batch 145/157] Loss: 2.3353
+[Epoch 18 | Batch 146/157] Loss: 2.3333
+[Epoch 18 | Batch 147/157] Loss: 2.2730
+[Epoch 18 | Batch 148/157] Loss: 2.0537
+[Epoch 18 | Batch 149/157] Loss: 2.3486
+[Epoch 18 | Batch 150/157] Loss: 2.2211
+[Epoch 18 | Batch 151/157] Loss: 2.3425
+[Epoch 18 | Batch 152/157] Loss: 2.3246
+[Epoch 18 | Batch 153/157] Loss: 2.1752
+[Epoch 18 | Batch 154/157] Loss: 2.2480
+[Epoch 18 | Batch 155/157] Loss: 2.2177
+[Epoch 18 | Batch 156/157] Loss: 2.2553
+[Epoch 18 | Batch 157/157] Loss: 1.8573
+[Epoch 18 | validated Batch 1/16]
+[Epoch 18 | validated Batch 2/16]
+[Epoch 18 | validated Batch 3/16]
+[Epoch 18 | validated Batch 4/16]
+[Epoch 18 | validated Batch 5/16]
+[Epoch 18 | validated Batch 6/16]
+[Epoch 18 | validated Batch 7/16]
+[Epoch 18 | validated Batch 8/16]
+[Epoch 18 | validated Batch 9/16]
+[Epoch 18 | validated Batch 10/16]
+[Epoch 18 | validated Batch 11/16]
+[Epoch 18 | validated Batch 12/16]
+[Epoch 18 | validated Batch 13/16]
+[Epoch 18 | validated Batch 14/16]
+[Epoch 18 | validated Batch 15/16]
+[Epoch 18 | validated Batch 16/16]
+[Epoch 18
+epoch_time: 3.6
+loss: 2.2573254108428955
+loss: 2.343254566192627
+acc_top1: 0.27
+acc_top5: 0.657
+]
+[Epoch 19 | Batch 1/157] Loss: 2.3710
+[Epoch 19 | Batch 2/157] Loss: 2.1744
+[Epoch 19 | Batch 3/157] Loss: 1.9579
+[Epoch 19 | Batch 4/157] Loss: 2.2950
+[Epoch 19 | Batch 5/157] Loss: 2.0889
+[Epoch 19 | Batch 6/157] Loss: 2.3377
+[Epoch 19 | Batch 7/157] Loss: 2.4252
+[Epoch 19 | Batch 8/157] Loss: 2.3983
+[Epoch 19 | Batch 9/157] Loss: 2.2713
+[Epoch 19 | Batch 10/157] Loss: 2.4078
+[Epoch 19 | Batch 11/157] Loss: 2.5479
+[Epoch 19 | Batch 12/157] Loss: 2.2015
+[Epoch 19 | Batch 13/157] Loss: 2.1972
+[Epoch 19 | Batch 14/157] Loss: 2.4021
+[Epoch 19 | Batch 15/157] Loss: 2.3189
+[Epoch 19 | Batch 16/157] Loss: 2.1566
+[Epoch 19 | Batch 17/157] Loss: 2.3094
+[Epoch 19 | Batch 18/157] Loss: 2.3195
+[Epoch 19 | Batch 19/157] Loss: 2.1201
+[Epoch 19 | Batch 20/157] Loss: 2.1006
+[Epoch 19 | Batch 21/157] Loss: 2.1110
+[Epoch 19 | Batch 22/157] Loss: 2.3409
+[Epoch 19 | Batch 23/157] Loss: 2.0724
+[Epoch 19 | Batch 24/157] Loss: 2.5432
+[Epoch 19 | Batch 25/157] Loss: 1.9873
+[Epoch 19 | Batch 26/157] Loss: 2.0789
+[Epoch 19 | Batch 27/157] Loss: 2.3223
+[Epoch 19 | Batch 28/157] Loss: 2.1959
+[Epoch 19 | Batch 29/157] Loss: 2.2155
+[Epoch 19 | Batch 30/157] Loss: 2.2532
+[Epoch 19 | Batch 31/157] Loss: 2.1220
+[Epoch 19 | Batch 32/157] Loss: 2.1857
+[Epoch 19 | Batch 33/157] Loss: 2.6264
+[Epoch 19 | Batch 34/157] Loss: 2.2809
+[Epoch 19 | Batch 35/157] Loss: 2.3060
+[Epoch 19 | Batch 36/157] Loss: 2.2372
+[Epoch 19 | Batch 37/157] Loss: 2.3841
+[Epoch 19 | Batch 38/157] Loss: 2.1187
+[Epoch 19 | Batch 39/157] Loss: 2.4216
+[Epoch 19 | Batch 40/157] Loss: 2.2297
+[Epoch 19 | Batch 41/157] Loss: 2.1522
+[Epoch 19 | Batch 42/157] Loss: 2.0216
+[Epoch 19 | Batch 43/157] Loss: 2.1151
+[Epoch 19 | Batch 44/157] Loss: 2.3386
+[Epoch 19 | Batch 45/157] Loss: 2.1519
+[Epoch 19 | Batch 46/157] Loss: 2.3515
+[Epoch 19 | Batch 47/157] Loss: 2.2234
+[Epoch 19 | Batch 48/157] Loss: 2.0812
+[Epoch 19 | Batch 49/157] Loss: 2.0413
+[Epoch 19 | Batch 50/157] Loss: 2.2545
+[Epoch 19 | Batch 51/157] Loss: 2.2261
+[Epoch 19 | Batch 52/157] Loss: 2.2841
+[Epoch 19 | Batch 53/157] Loss: 2.1821
+[Epoch 19 | Batch 54/157] Loss: 2.2558
+[Epoch 19 | Batch 55/157] Loss: 2.3234
+[Epoch 19 | Batch 56/157] Loss: 2.1478
+[Epoch 19 | Batch 57/157] Loss: 2.4760
+[Epoch 19 | Batch 58/157] Loss: 1.9442
+[Epoch 19 | Batch 59/157] Loss: 1.9474
+[Epoch 19 | Batch 60/157] Loss: 2.3177
+[Epoch 19 | Batch 61/157] Loss: 2.1940
+[Epoch 19 | Batch 62/157] Loss: 2.1266
+[Epoch 19 | Batch 63/157] Loss: 2.2294
+[Epoch 19 | Batch 64/157] Loss: 2.3661
+[Epoch 19 | Batch 65/157] Loss: 2.1175
+[Epoch 19 | Batch 66/157] Loss: 2.0901
+[Epoch 19 | Batch 67/157] Loss: 2.2988
+[Epoch 19 | Batch 68/157] Loss: 2.2820
+[Epoch 19 | Batch 69/157] Loss: 2.2626
+[Epoch 19 | Batch 70/157] Loss: 2.5772
+[Epoch 19 | Batch 71/157] Loss: 2.0250
+[Epoch 19 | Batch 72/157] Loss: 2.3382
+[Epoch 19 | Batch 73/157] Loss: 2.3770
+[Epoch 19 | Batch 74/157] Loss: 2.2659
+[Epoch 19 | Batch 75/157] Loss: 1.9506
+[Epoch 19 | Batch 76/157] Loss: 2.2353
+[Epoch 19 | Batch 77/157] Loss: 2.3642
+[Epoch 19 | Batch 78/157] Loss: 2.0410
+[Epoch 19 | Batch 79/157] Loss: 2.1199
+[Epoch 19 | Batch 80/157] Loss: 2.0226
+[Epoch 19 | Batch 81/157] Loss: 2.4804
+[Epoch 19 | Batch 82/157] Loss: 2.0942
+[Epoch 19 | Batch 83/157] Loss: 2.3175
+[Epoch 19 | Batch 84/157] Loss: 2.0148
+[Epoch 19 | Batch 85/157] Loss: 2.3659
+[Epoch 19 | Batch 86/157] Loss: 2.4133
+[Epoch 19 | Batch 87/157] Loss: 2.1577
+[Epoch 19 | Batch 88/157] Loss: 1.9505
+[Epoch 19 | Batch 89/157] Loss: 2.3867
+[Epoch 19 | Batch 90/157] Loss: 2.1723
+[Epoch 19 | Batch 91/157] Loss: 2.1588
+[Epoch 19 | Batch 92/157] Loss: 2.1152
+[Epoch 19 | Batch 93/157] Loss: 2.1599
+[Epoch 19 | Batch 94/157] Loss: 2.4040
+[Epoch 19 | Batch 95/157] Loss: 2.3415
+[Epoch 19 | Batch 96/157] Loss: 2.2141
+[Epoch 19 | Batch 97/157] Loss: 2.2442
+[Epoch 19 | Batch 98/157] Loss: 2.0809
+[Epoch 19 | Batch 99/157] Loss: 2.1044
+[Epoch 19 | Batch 100/157] Loss: 2.2868
+[Epoch 19 | Batch 101/157] Loss: 2.3249
+[Epoch 19 | Batch 102/157] Loss: 2.1995
+[Epoch 19 | Batch 103/157] Loss: 2.3413
+[Epoch 19 | Batch 104/157] Loss: 2.4075
+[Epoch 19 | Batch 105/157] Loss: 2.3595
+[Epoch 19 | Batch 106/157] Loss: 2.4026
+[Epoch 19 | Batch 107/157] Loss: 2.1497
+[Epoch 19 | Batch 108/157] Loss: 2.3060
+[Epoch 19 | Batch 109/157] Loss: 2.4337
+[Epoch 19 | Batch 110/157] Loss: 2.4147
+[Epoch 19 | Batch 111/157] Loss: 2.1153
+[Epoch 19 | Batch 112/157] Loss: 2.2338
+[Epoch 19 | Batch 113/157] Loss: 2.3926
+[Epoch 19 | Batch 114/157] Loss: 2.2722
+[Epoch 19 | Batch 115/157] Loss: 2.1418
+[Epoch 19 | Batch 116/157] Loss: 2.3012
+[Epoch 19 | Batch 117/157] Loss: 1.9619
+[Epoch 19 | Batch 118/157] Loss: 2.3977
+[Epoch 19 | Batch 119/157] Loss: 1.9367
+[Epoch 19 | Batch 120/157] Loss: 2.2672
+[Epoch 19 | Batch 121/157] Loss: 1.9406
+[Epoch 19 | Batch 122/157] Loss: 2.2522
+[Epoch 19 | Batch 123/157] Loss: 2.3563
+[Epoch 19 | Batch 124/157] Loss: 2.3046
+[Epoch 19 | Batch 125/157] Loss: 2.4018
+[Epoch 19 | Batch 126/157] Loss: 2.2976
+[Epoch 19 | Batch 127/157] Loss: 2.3740
+[Epoch 19 | Batch 128/157] Loss: 2.5211
+[Epoch 19 | Batch 129/157] Loss: 2.3700
+[Epoch 19 | Batch 130/157] Loss: 2.2815
+[Epoch 19 | Batch 131/157] Loss: 2.4745
+[Epoch 19 | Batch 132/157] Loss: 2.2550
+[Epoch 19 | Batch 133/157] Loss: 2.1696
+[Epoch 19 | Batch 134/157] Loss: 2.3296
+[Epoch 19 | Batch 135/157] Loss: 2.1144
+[Epoch 19 | Batch 136/157] Loss: 2.1291
+[Epoch 19 | Batch 137/157] Loss: 2.3218
+[Epoch 19 | Batch 138/157] Loss: 2.3597
+[Epoch 19 | Batch 139/157] Loss: 2.4980
+[Epoch 19 | Batch 140/157] Loss: 2.1271
+[Epoch 19 | Batch 141/157] Loss: 2.6290
+[Epoch 19 | Batch 142/157] Loss: 2.1940
+[Epoch 19 | Batch 143/157] Loss: 2.2222
+[Epoch 19 | Batch 144/157] Loss: 2.3800
+[Epoch 19 | Batch 145/157] Loss: 2.4553
+[Epoch 19 | Batch 146/157] Loss: 2.1261
+[Epoch 19 | Batch 147/157] Loss: 2.0689
+[Epoch 19 | Batch 148/157] Loss: 2.1693
+[Epoch 19 | Batch 149/157] Loss: 2.2032
+[Epoch 19 | Batch 150/157] Loss: 2.0953
+[Epoch 19 | Batch 151/157] Loss: 2.0828
+[Epoch 19 | Batch 152/157] Loss: 2.1802
+[Epoch 19 | Batch 153/157] Loss: 2.3433
+[Epoch 19 | Batch 154/157] Loss: 2.0829
+[Epoch 19 | Batch 155/157] Loss: 2.3069
+[Epoch 19 | Batch 156/157] Loss: 2.4088
+[Epoch 19 | Batch 157/157] Loss: 2.3621
+[Epoch 19 | validated Batch 1/16]
+[Epoch 19 | validated Batch 2/16]
+[Epoch 19 | validated Batch 3/16]
+[Epoch 19 | validated Batch 4/16]
+[Epoch 19 | validated Batch 5/16]
+[Epoch 19 | validated Batch 6/16]
+[Epoch 19 | validated Batch 7/16]
+[Epoch 19 | validated Batch 8/16]
+[Epoch 19 | validated Batch 9/16]
+[Epoch 19 | validated Batch 10/16]
+[Epoch 19 | validated Batch 11/16]
+[Epoch 19 | validated Batch 12/16]
+[Epoch 19 | validated Batch 13/16]
+[Epoch 19 | validated Batch 14/16]
+[Epoch 19 | validated Batch 15/16]
+[Epoch 19 | validated Batch 16/16]
+[Epoch 19
+epoch_time: 3.3
+loss: 2.2450828552246094
+loss: 2.289445161819458
+acc_top1: 0.309
+acc_top5: 0.674
+]
+[Epoch 20 | Batch 1/157] Loss: 2.1471
+[Epoch 20 | Batch 2/157] Loss: 2.1079
+[Epoch 20 | Batch 3/157] Loss: 2.1793
+[Epoch 20 | Batch 4/157] Loss: 2.1667
+[Epoch 20 | Batch 5/157] Loss: 2.2182
+[Epoch 20 | Batch 6/157] Loss: 2.1742
+[Epoch 20 | Batch 7/157] Loss: 2.1041
+[Epoch 20 | Batch 8/157] Loss: 1.8568
+[Epoch 20 | Batch 9/157] Loss: 2.2955
+[Epoch 20 | Batch 10/157] Loss: 2.4059
+[Epoch 20 | Batch 11/157] Loss: 2.2083
+[Epoch 20 | Batch 12/157] Loss: 2.2640
+[Epoch 20 | Batch 13/157] Loss: 2.2497
+[Epoch 20 | Batch 14/157] Loss: 2.0640
+[Epoch 20 | Batch 15/157] Loss: 1.9510
+[Epoch 20 | Batch 16/157] Loss: 2.1413
+[Epoch 20 | Batch 17/157] Loss: 2.2100
+[Epoch 20 | Batch 18/157] Loss: 2.1989
+[Epoch 20 | Batch 19/157] Loss: 1.9815
+[Epoch 20 | Batch 20/157] Loss: 2.2128
+[Epoch 20 | Batch 21/157] Loss: 2.1064
+[Epoch 20 | Batch 22/157] Loss: 2.4816
+[Epoch 20 | Batch 23/157] Loss: 2.2303
+[Epoch 20 | Batch 24/157] Loss: 2.1693
+[Epoch 20 | Batch 25/157] Loss: 2.2643
+[Epoch 20 | Batch 26/157] Loss: 2.3315
+[Epoch 20 | Batch 27/157] Loss: 2.4622
+[Epoch 20 | Batch 28/157] Loss: 2.3636
+[Epoch 20 | Batch 29/157] Loss: 2.1281
+[Epoch 20 | Batch 30/157] Loss: 2.4363
+[Epoch 20 | Batch 31/157] Loss: 2.4110
+[Epoch 20 | Batch 32/157] Loss: 1.8557
+[Epoch 20 | Batch 33/157] Loss: 2.1697
+[Epoch 20 | Batch 34/157] Loss: 2.3018
+[Epoch 20 | Batch 35/157] Loss: 2.4479
+[Epoch 20 | Batch 36/157] Loss: 2.1236
+[Epoch 20 | Batch 37/157] Loss: 2.4436
+[Epoch 20 | Batch 38/157] Loss: 2.1398
+[Epoch 20 | Batch 39/157] Loss: 2.2274
+[Epoch 20 | Batch 40/157] Loss: 2.1610
+[Epoch 20 | Batch 41/157] Loss: 2.1460
+[Epoch 20 | Batch 42/157] Loss: 2.1686
+[Epoch 20 | Batch 43/157] Loss: 2.1655
+[Epoch 20 | Batch 44/157] Loss: 2.2060
+[Epoch 20 | Batch 45/157] Loss: 2.3277
+[Epoch 20 | Batch 46/157] Loss: 2.4782
+[Epoch 20 | Batch 47/157] Loss: 2.0299
+[Epoch 20 | Batch 48/157] Loss: 2.0637
+[Epoch 20 | Batch 49/157] Loss: 2.5991
+[Epoch 20 | Batch 50/157] Loss: 2.3069
+[Epoch 20 | Batch 51/157] Loss: 1.9852
+[Epoch 20 | Batch 52/157] Loss: 2.1992
+[Epoch 20 | Batch 53/157] Loss: 2.3988
+[Epoch 20 | Batch 54/157] Loss: 2.1382
+[Epoch 20 | Batch 55/157] Loss: 2.1333
+[Epoch 20 | Batch 56/157] Loss: 2.1872
+[Epoch 20 | Batch 57/157] Loss: 2.2046
+[Epoch 20 | Batch 58/157] Loss: 2.5379
+[Epoch 20 | Batch 59/157] Loss: 2.1101
+[Epoch 20 | Batch 60/157] Loss: 2.3438
+[Epoch 20 | Batch 61/157] Loss: 1.9706
+[Epoch 20 | Batch 62/157] Loss: 2.2160
+[Epoch 20 | Batch 63/157] Loss: 2.3575
+[Epoch 20 | Batch 64/157] Loss: 1.8610
+[Epoch 20 | Batch 65/157] Loss: 2.1659
+[Epoch 20 | Batch 66/157] Loss: 2.3670
+[Epoch 20 | Batch 67/157] Loss: 2.4961
+[Epoch 20 | Batch 68/157] Loss: 2.3036
+[Epoch 20 | Batch 69/157] Loss: 2.2111
+[Epoch 20 | Batch 70/157] Loss: 2.1822
+[Epoch 20 | Batch 71/157] Loss: 2.1146
+[Epoch 20 | Batch 72/157] Loss: 2.1915
+[Epoch 20 | Batch 73/157] Loss: 2.1480
+[Epoch 20 | Batch 74/157] Loss: 2.4162
+[Epoch 20 | Batch 75/157] Loss: 2.5067
+[Epoch 20 | Batch 76/157] Loss: 2.1646
+[Epoch 20 | Batch 77/157] Loss: 2.2138
+[Epoch 20 | Batch 78/157] Loss: 1.9577
+[Epoch 20 | Batch 79/157] Loss: 1.9358
+[Epoch 20 | Batch 80/157] Loss: 2.1401
+[Epoch 20 | Batch 81/157] Loss: 2.4016
+[Epoch 20 | Batch 82/157] Loss: 2.3171
+[Epoch 20 | Batch 83/157] Loss: 2.3822
+[Epoch 20 | Batch 84/157] Loss: 2.0849
+[Epoch 20 | Batch 85/157] Loss: 2.2838
+[Epoch 20 | Batch 86/157] Loss: 2.1933
+[Epoch 20 | Batch 87/157] Loss: 2.3360
+[Epoch 20 | Batch 88/157] Loss: 2.1176
+[Epoch 20 | Batch 89/157] Loss: 2.0550
+[Epoch 20 | Batch 90/157] Loss: 2.2638
+[Epoch 20 | Batch 91/157] Loss: 2.1718
+[Epoch 20 | Batch 92/157] Loss: 2.4445
+[Epoch 20 | Batch 93/157] Loss: 2.1592
+[Epoch 20 | Batch 94/157] Loss: 2.3848
+[Epoch 20 | Batch 95/157] Loss: 2.3098
+[Epoch 20 | Batch 96/157] Loss: 2.4474
+[Epoch 20 | Batch 97/157] Loss: 2.2398
+[Epoch 20 | Batch 98/157] Loss: 2.4301
+[Epoch 20 | Batch 99/157] Loss: 2.1375
+[Epoch 20 | Batch 100/157] Loss: 2.2613
+[Epoch 20 | Batch 101/157] Loss: 2.0875
+[Epoch 20 | Batch 102/157] Loss: 2.4034
+[Epoch 20 | Batch 103/157] Loss: 2.1420
+[Epoch 20 | Batch 104/157] Loss: 2.3701
+[Epoch 20 | Batch 105/157] Loss: 2.4270
+[Epoch 20 | Batch 106/157] Loss: 2.0855
+[Epoch 20 | Batch 107/157] Loss: 2.3169
+[Epoch 20 | Batch 108/157] Loss: 2.3016
+[Epoch 20 | Batch 109/157] Loss: 2.3538
+[Epoch 20 | Batch 110/157] Loss: 2.4678
+[Epoch 20 | Batch 111/157] Loss: 2.1993
+[Epoch 20 | Batch 112/157] Loss: 2.2251
+[Epoch 20 | Batch 113/157] Loss: 2.2756
+[Epoch 20 | Batch 114/157] Loss: 2.0834
+[Epoch 20 | Batch 115/157] Loss: 2.3400
+[Epoch 20 | Batch 116/157] Loss: 2.1435
+[Epoch 20 | Batch 117/157] Loss: 2.5625
+[Epoch 20 | Batch 118/157] Loss: 2.4007
+[Epoch 20 | Batch 119/157] Loss: 2.1038
+[Epoch 20 | Batch 120/157] Loss: 2.2589
+[Epoch 20 | Batch 121/157] Loss: 2.1817
+[Epoch 20 | Batch 122/157] Loss: 1.8722
+[Epoch 20 | Batch 123/157] Loss: 2.4252
+[Epoch 20 | Batch 124/157] Loss: 2.1977
+[Epoch 20 | Batch 125/157] Loss: 1.9451
+[Epoch 20 | Batch 126/157] Loss: 1.9484
+[Epoch 20 | Batch 127/157] Loss: 2.0726
+[Epoch 20 | Batch 128/157] Loss: 1.8841
+[Epoch 20 | Batch 129/157] Loss: 1.9714
+[Epoch 20 | Batch 130/157] Loss: 2.2901
+[Epoch 20 | Batch 131/157] Loss: 2.2915
+[Epoch 20 | Batch 132/157] Loss: 2.5103
+[Epoch 20 | Batch 133/157] Loss: 2.1810
+[Epoch 20 | Batch 134/157] Loss: 2.3170
+[Epoch 20 | Batch 135/157] Loss: 2.3255
+[Epoch 20 | Batch 136/157] Loss: 2.3397
+[Epoch 20 | Batch 137/157] Loss: 2.1310
+[Epoch 20 | Batch 138/157] Loss: 2.1881
+[Epoch 20 | Batch 139/157] Loss: 2.1730
+[Epoch 20 | Batch 140/157] Loss: 2.4392
+[Epoch 20 | Batch 141/157] Loss: 2.3963
+[Epoch 20 | Batch 142/157] Loss: 2.2103
+[Epoch 20 | Batch 143/157] Loss: 2.0260
+[Epoch 20 | Batch 144/157] Loss: 2.4461
+[Epoch 20 | Batch 145/157] Loss: 2.3328
+[Epoch 20 | Batch 146/157] Loss: 2.2405
+[Epoch 20 | Batch 147/157] Loss: 2.0117
+[Epoch 20 | Batch 148/157] Loss: 2.3177
+[Epoch 20 | Batch 149/157] Loss: 2.2813
+[Epoch 20 | Batch 150/157] Loss: 2.1598
+[Epoch 20 | Batch 151/157] Loss: 2.0820
+[Epoch 20 | Batch 152/157] Loss: 2.0644
+[Epoch 20 | Batch 153/157] Loss: 2.3791
+[Epoch 20 | Batch 154/157] Loss: 2.2781
+[Epoch 20 | Batch 155/157] Loss: 2.5451
+[Epoch 20 | Batch 156/157] Loss: 2.2783
+[Epoch 20 | Batch 157/157] Loss: 1.8027
+[Epoch 20 | validated Batch 1/16]
+[Epoch 20 | validated Batch 2/16]
+[Epoch 20 | validated Batch 3/16]
+[Epoch 20 | validated Batch 4/16]
+[Epoch 20 | validated Batch 5/16]
+[Epoch 20 | validated Batch 6/16]
+[Epoch 20 | validated Batch 7/16]
+[Epoch 20 | validated Batch 8/16]
+[Epoch 20 | validated Batch 9/16]
+[Epoch 20 | validated Batch 10/16]
+[Epoch 20 | validated Batch 11/16]
+[Epoch 20 | validated Batch 12/16]
+[Epoch 20 | validated Batch 13/16]
+[Epoch 20 | validated Batch 14/16]
+[Epoch 20 | validated Batch 15/16]
+[Epoch 20 | validated Batch 16/16]
+[Epoch 20
+epoch_time: 2.9
+loss: 2.2284607887268066
+loss: 2.2955386638641357
+acc_top1: 0.3
+acc_top5: 0.657
+]

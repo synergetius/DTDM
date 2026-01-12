@@ -1,0 +1,1 @@
+训练第1个 batch 时出错: Sizes of tensors must match except in dimension 3. Expected size 1 but got size 64 for tensor number 2 in the list.

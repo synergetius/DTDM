@@ -1,0 +1,4 @@
+[Epoch 1 | Batch 1/157] Loss: 3.0205
+训练第2个 batch 时出错: CUDA error: device-side assert triggered
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
