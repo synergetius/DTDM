@@ -9,3 +9,5 @@ print("#Param:", cnt)
 tensor = (torch.rand(1, 3, 64, 64),)
 flops = FlopCountAnalysis(model, tensor)
 print("FLOPs:", flops.total())
+
+
